@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-12T15:04:40.972Z</updated>
+  <updated>2021-06-13T09:20:20.006Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,34 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2</title>
+    <title>自己的提纲整理</title>
     <link href="http://example.com/2021/06/12/2/"/>
     <id>http://example.com/2021/06/12/2/</id>
     <published>2021-06-12T14:17:18.000Z</published>
-    <updated>2021-06-12T15:04:40.972Z</updated>
+    <updated>2021-06-13T09:20:20.006Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2021/06/fb34273e225b27a0.png"></p><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=86 src="http://music.163.com/outchain/player?type=2&id=1807537867&auto=1&height=66"></iframe>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://ftp.bmp.ovh/imgs/2021/06/fb34273e225b27a0.png&quot;&gt;&lt;/p&gt;
-&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>对于高考对于我的一些所见所想</title>
-    <link href="http://example.com/2021/06/12/1/"/>
-    <id>http://example.com/2021/06/12/1/</id>
-    <published>2021-06-11T16:06:30.000Z</published>
-    <updated>2021-06-12T15:41:10.086Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><strong>高考到底在做什么 我们每天的努力是否有效</strong></p><h1 id="真题"><a href="#真题" class="headerlink" title="真题"></a>真题</h1><p>这是人类利用的最正确的模型 模拟题可能根本无效且浪费时间</p><p>我们竟然平庸的一点思想都没有</p>    <div id="aplayer-OMPIgSns" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="523845661" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#FF4081"    ></div><p>————————————————</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
     
     
       
@@ -57,7 +36,31 @@
     <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="高考" scheme="http://example.com/tags/%E9%AB%98%E8%80%83/"/>
+    <category term="提纲" scheme="http://example.com/tags/%E6%8F%90%E7%BA%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于生活的记录思考</title>
+    <link href="http://example.com/2021/06/12/1/"/>
+    <id>http://example.com/2021/06/12/1/</id>
+    <published>2021-06-11T16:06:30.000Z</published>
+    <updated>2021-06-13T09:15:31.220Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="健康"><a href="#健康" class="headerlink" title="健康"></a>健康</h1><blockquote><p>因为自己知识水平的欠缺，这里暂且分为生理健康和心理健康，二者具有辩证关系.</p></blockquote><hr><h2 id="身体健康"><a href="#身体健康" class="headerlink" title="身体健康"></a>身体健康</h2><blockquote><p>在我还是体育生时训练时身体每天几乎没有疲乏，对学习也有加成的作用.</p></blockquote><ol><li>加快学习速度</li><li>语言类泛化能力</li><li>情绪调节</li><li>神经传输速度不减缓因为不会驼背和核心软榻</li></ol><h2 id="心理健康"><a href="#心理健康" class="headerlink" title="心理健康"></a>心理健康</h2><blockquote><p>身体是那百分之50，在生活中可以看到很多身体很好就是不想做事的.</p></blockquote><p>建模欲望</p><hr><h2 id="设计自己的计划"><a href="#设计自己的计划" class="headerlink" title="设计自己的计划"></a>设计自己的计划</h2><p><strong>原则是身体优先之后是心理接着发现同步补充</strong></p><ol><li>身体的基础—核心</li><li>上下肢</li><li>体能</li><li>心理健康</li></ol><hr><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>稳定了后方 可以安稳的征战.此板块以后慢慢写.</p><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="思考" scheme="http://example.com/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+    <category term="幸福" scheme="http://example.com/tags/%E5%B9%B8%E7%A6%8F/"/>
     
   </entry>
   
