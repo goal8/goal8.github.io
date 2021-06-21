@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-13T09:37:40.178Z</updated>
+  <updated>2021-06-21T06:06:48.361Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>科学探究能力的培养</title>
-    <link href="http://example.com/2021/06/13/3/"/>
-    <id>http://example.com/2021/06/13/3/</id>
-    <published>2021-06-13T09:34:38.000Z</published>
-    <updated>2021-06-13T09:37:40.178Z</updated>
+    <title>多读书</title>
+    <link href="http://example.com/2021/06/21/4/"/>
+    <id>http://example.com/2021/06/21/4/</id>
+    <published>2021-06-21T05:53:59.000Z</published>
+    <updated>2021-06-21T06:06:48.361Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="找书"><a href="#找书" class="headerlink" title="找书"></a>找书</h2><p><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br><a href="https://bks.thefuture.top/">https://bks.thefuture.top/</a><br><a href="https://www.kuaisoumao.com/">https://www.kuaisoumao.com/</a><br><a href="http://ebook.name/">http://ebook.name/</a><br><a href="https://kgbook.com/">https://kgbook.com/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a></p><h3 id="心理学"><a href="#心理学" class="headerlink" title="心理学"></a>心理学</h3><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com/</a></p><h3 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h3><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com/</a></p><h2 id="在线读书"><a href="#在线读书" class="headerlink" title="在线读书"></a>在线读书</h2><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a></p>]]></content>
     
     
       
@@ -33,10 +33,34 @@
     
     
     
-    <category term="能力" scheme="http://example.com/categories/%E8%83%BD%E5%8A%9B/"/>
+    <category term="关于" scheme="http://example.com/categories/%E5%85%B3%E4%BA%8E/"/>
     
     
-    <category term="科学" scheme="http://example.com/tags/%E7%A7%91%E5%AD%A6/"/>
+    <category term="琐碎" scheme="http://example.com/tags/%E7%90%90%E7%A2%8E/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>怅寥廓问苍茫大地谁主沉浮</title>
+    <link href="http://example.com/2021/06/13/3/"/>
+    <id>http://example.com/2021/06/13/3/</id>
+    <published>2021-06-13T09:34:38.000Z</published>
+    <updated>2021-06-21T02:36:16.826Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>茫茫宇宙 一颗蓝色的天体<br>陆地<br>1.相对高度<br>2.海拔</p><p>海洋<br>1.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="合集" scheme="http://example.com/categories/%E5%90%88%E9%9B%86/"/>
+    
+    
+    <category term="地理" scheme="http://example.com/tags/%E5%9C%B0%E7%90%86/"/>
     
   </entry>
   
@@ -65,13 +89,13 @@
   </entry>
   
   <entry>
-    <title>关于生活的记录思考</title>
+    <title>关于生理心理健康的记录及其思考</title>
     <link href="http://example.com/2021/06/12/1/"/>
     <id>http://example.com/2021/06/12/1/</id>
     <published>2021-06-11T16:06:30.000Z</published>
-    <updated>2021-06-14T03:16:23.937Z</updated>
+    <updated>2021-06-15T06:21:20.798Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="健康"><a href="#健康" class="headerlink" title="健康"></a>健康</h1><blockquote><p>因为自己知识水平的欠缺，这里暂且分为生理健康和心理健康，二者具有辩证关系.</p></blockquote><hr><h2 id="身体健康"><a href="#身体健康" class="headerlink" title="身体健康"></a>身体健康</h2><blockquote><p>在体育训练时身体每天几乎没有疲乏，对学习也有加成的作用.</p></blockquote><ol><li>加快学习速度</li><li>语言类泛化能力</li><li>情绪调节</li><li>神经传输速度不减缓因为不会驼背和核心软榻</li></ol><h2 id="心理健康"><a href="#心理健康" class="headerlink" title="心理健康"></a>心理健康</h2><blockquote><p>身体是那百分之50，在生活中可以看到很多身体很好就是不想做事的.</p></blockquote><p>建模欲望</p><hr><h2 id="设计自己的计划"><a href="#设计自己的计划" class="headerlink" title="设计自己的计划"></a>设计自己的计划</h2><p><strong>原则是身体优先之后是心理接着发现同步补充</strong></p><ol><li>身体的基础—核心<br><a href="https://b23.tv/jziapR">练腰腹前-保持腹压</a><br><a href="https://www.bilibili.com/video/BV1T7411d7mu">练屁股前-控制骨盆</a><br><a href="https://www.bilibili.com/video/BV1HJ411A7NP">体态问题</a></li><li>上下肢</li><li>体能</li><li>心理健康</li></ol><hr><h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1><p>稳定了后方 可以安稳的征战.此板块以后慢慢写.</p><hr>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="健康"><a href="#健康" class="headerlink" title="健康"></a>健康</h1><blockquote><p>因为自己知识水平的欠缺，这里暂且分为生理健康和心理健康，二者具有辩证关系.</p></blockquote><hr><h2 id="身体健康"><a href="#身体健康" class="headerlink" title="身体健康"></a>身体健康</h2><blockquote><p>在体育训练时身体每天几乎没有疲乏，对学习也有加成的作用.</p></blockquote><ol><li>加快学习速度</li><li>语言类泛化能力</li><li>情绪调节</li><li>神经传输速度不减缓因为不会驼背和核心软榻</li></ol><h2 id="心理健康"><a href="#心理健康" class="headerlink" title="心理健康"></a>心理健康</h2><blockquote><p>身体是那百分之50，在生活中可以看到很多身体很好就是不想做事的.</p></blockquote><hr><h2 id="设计自己的计划"><a href="#设计自己的计划" class="headerlink" title="设计自己的计划"></a>设计自己的计划</h2><p><strong>原则是身体优先之后是心理接着发现同步补充</strong><br><a href="https://b23.tv/jziapR">练腰腹前-保持腹压</a><br><a href="https://www.bilibili.com/video/BV1T7411d7mu">练屁股前-控制骨盆</a><br><a href="https://www.bilibili.com/video/BV1HJ411A7NP">体态问题</a><br>2. 上下肢<br>3. 体能<br>4. 心理健康<br>维持体态技巧 40分钟起来10分钟行走 贴标签<br>核心 肩胛稳定 髋<br>改善体态<br>训练<br>下斜方肌 5s 8次-3<br>足弓15次 3<br>改变生活习惯<br>手法<br>身体的基础—核心<br>动作不受控/感觉异常的原因<br>理解呼吸<br>不对称的人体<br>你真的需要挺直腰背吗<br>体会而非使用<br>理解训练<br>疼痛与动作控制（bonus）</p><hr>]]></content>
     
     
       
@@ -81,10 +105,14 @@
     
     
     
-    <category term="思考" scheme="http://example.com/categories/%E6%80%9D%E8%80%83/"/>
+    <category term="健康" scheme="http://example.com/categories/%E5%81%A5%E5%BA%B7/"/>
     
     
-    <category term="幸福" scheme="http://example.com/tags/%E5%B9%B8%E7%A6%8F/"/>
+    <category term="健康" scheme="http://example.com/tags/%E5%81%A5%E5%BA%B7/"/>
+    
+    <category term="思考" scheme="http://example.com/tags/%E6%80%9D%E8%80%83/"/>
+    
+    <category term="计划" scheme="http://example.com/tags/%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
