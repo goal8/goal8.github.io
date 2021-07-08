@@ -58,6 +58,11 @@
   </script>
   <script  src="/js/utils.js" ></script>
   <script  src="/js/color-schema.js" ></script>
+
+<script src="https://cdn.jsdelivr.net/npm/echarts@4.8.0/dist/echarts.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/echarts-gl@1.1.1/dist/echarts-gl.min.js">
+
+</script>
 <meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/atom.xml" title="为你千千万万遍" type="application/atom+xml">
 </head>
 
@@ -67,7 +72,7 @@
     <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
   <div class="container">
     <a class="navbar-brand"
-       href="/">&nbsp;<strong>像风一样</strong>&nbsp;</a>
+       href="/">&nbsp;<strong>伯乐</strong>&nbsp;</a>
 
     <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
             data-target="#navbarSupportedContent"
@@ -197,7 +202,7 @@
 </nav>
 
     <div class="banner" id="banner" parallax=true
-         style="background: url('https://www.notion.so/image/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fmet_paul_signac.jpg') no-repeat center center;
+         style="background: url('https://w.wallhaven.cc/full/3z/wallhaven-3z3v6y.jpg') no-repeat center center;
            background-size: cover;">
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
@@ -222,7 +227,7 @@
           >
           
             <div class="about-avatar">
-              <img src="/img/avatar.png" srcset="/img/loading.gif" lazyload
+              <img src="https://s.pc.qq.com/tousu/img/20210709/7247411_1625763611.jpg" srcset="/img/loading.gif" lazyload
                    class="img-fluid" alt="avatar">
             </div>
           
@@ -281,7 +286,32 @@
 
 <article class="about-content page-content mt-5">
   <div class="markdown-body">
-    
+    <p>利用HEXO <a target="_blank" rel="noopener" href="https://github.com/fluid-dev/hexo-theme-fluid">https://github.com/fluid-dev/hexo-theme-fluid</a></p>
+<div id="echarts3334" style="width: 81%;height: 400px;margin: 0 auto"></div>
+<script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('echarts3334'));
+
+        // 指定图表的配置项和数据
+        var option = option = {
+    xAxis: {
+        type: 'category',
+        data: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
+    },
+    yAxis: {
+        type: 'value'
+    },
+    series: [{
+        data: [820, 932, 901, 934, 1290, 1330, 1320],
+        type: 'line',
+        smooth: true
+    }]
+};
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+</script>
+
   </div>
 
   
@@ -329,7 +359,8 @@
 
   <footer class="text-center mt-5 py-3">
   <div class="footer-content">
-     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a> 
+     <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> <i class="iconfont icon-love"></i>
+
   </div>
   
 
