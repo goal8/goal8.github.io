@@ -294,31 +294,80 @@
 </blockquote>
 <h2 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h2><p>网名伯乐，现居江苏，学生。</p>
 <p>热爱苦难，也爱诗和远方。</p>
-<div id="echarts244" style="width: 100%;height: 400px;margin: 0 auto"></div>
+<div id="echarts9453" style="width: 81%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts244'));
+        var myChart = echarts.init(document.getElementById('echarts9453'));
 
         // 指定图表的配置项和数据
-        var option = option = {
-    xAxis: {
-        type: 'category',
-        data: ['Mon', 'Tue', 'Wed']
-    },
-    yAxis: {
-        type: 'value'
-    },
-    series: [{
-        data: [1, 1000, 500],
-        type: 'line',
-        smooth: true
-    }]
-};
+        var option = setTimeout(function () {
+
+    option = {
+        legend: {},
+        tooltip: {
+            trigger: 'axis',
+            showContent: false
+        },
+        dataset: {
+            source: [
+                ['product', '1', '2', '3', '4', '5', '6'],
+                ['Sleep', 2, 3, 4, 5, 6, 7],
+                ['Study', 2, 3, 4, 5, 6, 7],
+                ['Rest', 2, 3, 4, 5, 6, 7],
+                ['Matcha Latte', 2, 3, 4, 5, 6, 7],
+            ]
+        },
+        xAxis: {type: 'category'},
+        yAxis: {gridIndex: 0},
+        grid: {top: '55%'},
+        series: [
+            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
+            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
+            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
+            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
+            {
+                type: 'pie',
+                id: 'pie',
+                radius: '30%',
+                center: ['50%', '25%'],
+                label: {
+                    formatter: '{b}: {@2012} ({d}%)'
+                },
+                encode: {
+                    itemName: 'product',
+                    value: '2012',
+                    tooltip: '2012'
+                }
+            }
+        ]
+    };
+
+    myChart.on('updateAxisPointer', function (event) {
+        var xAxisInfo = event.axesInfo[0];
+        if (xAxisInfo) {
+            var dimension = xAxisInfo.value + 1;
+            myChart.setOption({
+                series: {
+                    id: 'pie',
+                    label: {
+                        formatter: '{b}: {@[' + dimension + ']} ({d}%)'
+                    },
+                    encode: {
+                        value: dimension,
+                        tooltip: dimension
+                    }
+                }
+            });
+        }
+    });
+
+    myChart.setOption(option);
+
+});
 
         // 使用刚指定的配置项和数据显示图表。
         myChart.setOption(option);
 </script>
-
   </div>
 
   

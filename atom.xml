@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-08T19:06:58.317Z</updated>
+  <updated>2021-07-09T02:37:10.147Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,61 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>体育的自我理解总论</title>
+    <link href="http://example.com/2021/07/09/10/"/>
+    <id>http://example.com/2021/07/09/10/</id>
+    <published>2021-07-09T02:00:13.451Z</published>
+    <updated>2021-07-09T02:37:10.147Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div id="echarts4543" style="width: 81%;height: 400px;margin: 0 auto"></div><script type="text/javascript">        // 基于准备好的dom，初始化echarts实例        var myChart = echarts.init(document.getElementById('echarts4543'));        // 指定图表的配置项和数据        var option =     x /= 10;    return Math.sin(x) * Math.cos(x * 2 + 1) * Math.sin(x * 3 + 2) * 50;}function generateData() {    let data = [];    for (let i = -200; i <= 200; i += 0.1) {        data.push([i, func(i)]);    }    return data;}option = {    animation: false,    grid: {        top: 40,        left: 50,        right: 40,        bottom: 50    },    xAxis: {        name: 'x',        minorTick: {            show: true        },        minorSplitLine: {            show: true        }    },    yAxis: {        name: 'y',        min: -100,        max: 100,        minorTick: {            show: true        },        minorSplitLine: {            show: true        }    },    dataZoom: [{        show: true,        type: 'inside',        filterMode: 'none',        xAxisIndex: [0],        startValue: -20,        endValue: 20    }, {        show: true,        type: 'inside',        filterMode: 'none',        yAxisIndex: [0],        startValue: -20,        endValue: 20    }],    series: [        {            type: 'line',            showSymbol: false,            clip: true,            data: generateData()        }    ]};        // 使用刚指定的配置项和数据显示图表。        myChart.setOption(option);</script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="体育" scheme="http://example.com/categories/%E4%BD%93%E8%82%B2/"/>
+    
+    
+    <category term="保持健康" scheme="http://example.com/tags/%E4%BF%9D%E6%8C%81%E5%81%A5%E5%BA%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一些艺术网站</title>
+    <link href="http://example.com/2021/07/09/9/"/>
+    <id>http://example.com/2021/07/09/9/</id>
+    <published>2021-07-09T01:36:48.944Z</published>
+    <updated>2021-07-09T03:08:48.605Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://img14.360buyimg.com/ddimg/jfs/t1/38583/23/16047/1410824/60e79f7cE967b3d82/98f77e36d2d7784c.png" alt="Wallhaven"><br><img src="https://img13.360buyimg.com/ddimg/jfs/t1/192597/37/12278/1327333/60e7a9b5Ef8841f93/efe642d8b77589de.png" alt="Bobopic"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="艺术" scheme="http://example.com/categories/%E8%89%BA%E6%9C%AF/"/>
+    
+    
+    <category term="素材" scheme="http://example.com/tags/%E7%B4%A0%E6%9D%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>English这门世界的桥梁语言得学</title>
     <link href="http://example.com/2021/07/09/8/"/>
     <id>http://example.com/2021/07/09/8/</id>
     <published>2021-07-08T17:38:40.000Z</published>
-    <updated>2021-07-08T19:06:58.317Z</updated>
+    <updated>2021-07-09T01:33:06.045Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">语言连通万物<br>English is What</p><p style="text-align:center">https://americanenglish.state.gov/four-skills-resourceshttps://basicenglishspeaking.com/https://www.rong-chang.com/https://americanenglish.state.gov/four-skills-resourceshttps://www.real-english.com/reo/https://trailers.apple.com/</p> # 可以修改 text-align 参数来设置文字位置。]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">语言连通万物<br>English is What</p><p style="text-align:center">https://americanenglish.state.gov/four-skills-resourceshttps://basicenglishspeaking.com/https://www.rong-chang.com/https://americanenglish.state.gov/four-skills-resourceshttps://www.real-english.com/reo/https://trailers.apple.com/</p>]]></content>
     
     
       
@@ -45,9 +93,9 @@
     <link href="http://example.com/2021/07/09/7/"/>
     <id>http://example.com/2021/07/09/7/</id>
     <published>2021-07-08T17:22:36.000Z</published>
-    <updated>2021-07-08T17:33:33.781Z</updated>
+    <updated>2021-07-09T01:31:50.291Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">原则分类<br>运动</p><p><img src="https://img11.360buyimg.com/ddimg/jfs/t1/186091/16/13204/871929/60e7a208Ecb94f935/1063431a151abf9c.png" alt="MicahLancaster迈卡"><br><a href="https://space.bilibili.com/32096538/channel/index">跳转至目标</a></p>]]></content>
     
     
       
@@ -117,7 +165,7 @@
     <link href="http://example.com/2021/06/21/4/"/>
     <id>http://example.com/2021/06/21/4/</id>
     <published>2021-06-21T05:53:59.000Z</published>
-    <updated>2021-07-08T13:55:52.914Z</updated>
+    <updated>2021-07-09T01:35:21.822Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p>设计 <a href="https://rework.tools/">https://rework.tools/</a></p><h1 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h1><p><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br><a href="https://bks.thefuture.top/">https://bks.thefuture.top/</a><br><a href="https://www.kuaisoumao.com/">https://www.kuaisoumao.com/</a><br><a href="http://ebook.name/">http://ebook.name/</a><br><a href="https://kgbook.com/">https://kgbook.com/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a></p><h2 id="心理学"><a href="#心理学" class="headerlink" title="心理学"></a>心理学</h2><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com/</a></p><h2 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h2><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com/</a></p><h2 id="在线读书"><a href="#在线读书" class="headerlink" title="在线读书"></a>在线读书</h2><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a></p><h1 id="B哥"><a href="#B哥" class="headerlink" title="B哥"></a>B哥</h1><p>##工具人</p><h3 id="自己https-space-bilibili-com-435039678-fans-follow"><a href="#自己https-space-bilibili-com-435039678-fans-follow" class="headerlink" title="自己https://space.bilibili.com/435039678/fans/follow"></a>自己<a href="https://space.bilibili.com/435039678/fans/follow">https://space.bilibili.com/435039678/fans/follow</a></h3><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h3 id="一数https-space-bilibili-com-14229967-favlist-fid-742209667-amp-ftype-create"><a href="#一数https-space-bilibili-com-14229967-favlist-fid-742209667-amp-ftype-create" class="headerlink" title="一数https://space.bilibili.com/14229967/favlist?fid=742209667&amp;ftype=create"></a>一数<a href="https://space.bilibili.com/14229967/favlist?fid=742209667&amp;ftype=create">https://space.bilibili.com/14229967/favlist?fid=742209667&amp;ftype=create</a></h3><h2 id="体育"><a href="#体育" class="headerlink" title="体育"></a>体育</h2><h3 id="功能性训练https-space-bilibili-com-435039678-favlist-fid-1119595478-amp-ftype-create"><a href="#功能性训练https-space-bilibili-com-435039678-favlist-fid-1119595478-amp-ftype-create" class="headerlink" title="功能性训练https://space.bilibili.com/435039678/favlist?fid=1119595478&amp;ftype=create"></a>功能性训练<a href="https://space.bilibili.com/435039678/favlist?fid=1119595478&amp;ftype=create">https://space.bilibili.com/435039678/favlist?fid=1119595478&amp;ftype=create</a></h3><h3 id="迈卡篮球https-space-bilibili-com-32096538-channel-index"><a href="#迈卡篮球https-space-bilibili-com-32096538-channel-index" class="headerlink" title="迈卡篮球https://space.bilibili.com/32096538/channel/index"></a>迈卡篮球<a href="https://space.bilibili.com/32096538/channel/index">https://space.bilibili.com/32096538/channel/index</a></h3><h2 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h2><p>Pr C4D…<a href="https://space.bilibili.com/49746395/channel/index">https://space.bilibili.com/49746395/channel/index</a></p><h2 id="艺术"><a href="#艺术" class="headerlink" title="艺术"></a>艺术</h2><p><a href="http://tool.liumingye.cn/music/">http://tool.liumingye.cn/music/</a></p>]]></content>
     
