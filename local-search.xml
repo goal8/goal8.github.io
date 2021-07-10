@@ -4,11 +4,36 @@
   
   
   <entry>
+    <title>音乐</title>
+    <link href="/2021/07/09/6/"/>
+    <url>/2021/07/09/6/</url>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">听音乐工具</p><p><img src="https://img12.360buyimg.com/ddimg/jfs/t1/196240/3/12378/469139/60e7e452E121a8972/ee56810c85adb8a1.png" alt="Myfreemp3"><br>Link: <a href="http://tool.liumingye.cn/music/">Myfreemp3</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>艺术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>音乐</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>体育的自我理解总论</title>
     <link href="/2021/07/09/10/"/>
     <url>/2021/07/09/10/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div id="echarts4543" style="width: 81%;height: 400px;margin: 0 auto"></div><script type="text/javascript">        // 基于准备好的dom，初始化echarts实例        var myChart = echarts.init(document.getElementById('echarts4543'));        // 指定图表的配置项和数据        var option =     x /= 10;    return Math.sin(x) * Math.cos(x * 2 + 1) * Math.sin(x * 3 + 2) * 50;}function generateData() {    let data = [];    for (let i = -200; i <= 200; i += 0.1) {        data.push([i, func(i)]);    }    return data;}option = {    animation: false,    grid: {        top: 40,        left: 50,        right: 40,        bottom: 50    },    xAxis: {        name: 'x',        minorTick: {            show: true        },        minorSplitLine: {            show: true        }    },    yAxis: {        name: 'y',        min: -100,        max: 100,        minorTick: {            show: true        },        minorSplitLine: {            show: true        }    },    dataZoom: [{        show: true,        type: 'inside',        filterMode: 'none',        xAxisIndex: [0],        startValue: -20,        endValue: 20    }, {        show: true,        type: 'inside',        filterMode: 'none',        yAxisIndex: [0],        startValue: -20,        endValue: 20    }],    series: [        {            type: 'line',            showSymbol: false,            clip: true,            data: generateData()        }    ]};        // 使用刚指定的配置项和数据显示图表。        myChart.setOption(option);</script>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a><br><a href="http://liulangcat.com/index.php">http://liulangcat.com/index.php</a></p><h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p>设计 <a href="https://rework.tools/">https://rework.tools/</a><br><a href="http://www.xxbooks.cn/">http://www.xxbooks.cn/</a><br><a href="https://1lib.limited/">https://1lib.limited/</a></p><h1 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h1><p><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br><a href="https://bks.thefuture.top/">https://bks.thefuture.top/</a><br><a href="https://www.kuaisoumao.com/">https://www.kuaisoumao.com/</a><br><a href="http://ebook.name/">http://ebook.name/</a><br><a href="https://kgbook.com/">https://kgbook.com/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a><br><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a></p><h2 id="心理学"><a href="#心理学" class="headerlink" title="心理学"></a>心理学</h2><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com/</a></p><h2 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h2><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com/</a></p><h2 id="在线读书"><a href="#在线读书" class="headerlink" title="在线读书"></a>在线读书</h2><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a><br><a href="https://www.kepub.net/">https://www.kepub.net/</a></p>]]></content>
     
     
     <categories>
@@ -20,7 +45,7 @@
     
     <tags>
       
-      <tag>保持健康</tag>
+      <tag>健康</tag>
       
     </tags>
     
@@ -29,7 +54,7 @@
   
   
   <entry>
-    <title>一些艺术网站</title>
+    <title>美术</title>
     <link href="/2021/07/09/9/"/>
     <url>/2021/07/09/9/</url>
     
@@ -46,6 +71,8 @@
     <tags>
       
       <tag>素材</tag>
+      
+      <tag>艺术</tag>
       
     </tags>
     
@@ -70,7 +97,7 @@
     
     <tags>
       
-      <tag>人类语言</tag>
+      <tag>English</tag>
       
     </tags>
     
@@ -88,39 +115,14 @@
     
     <categories>
       
-      <category>健康</category>
+      <category>体育</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>运动表现</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Pr的素材</title>
-    <link href="/2021/07/09/6/"/>
-    <url>/2021/07/09/6/</url>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://wallhaven.cc/">https://wallhaven.cc/</a><br><a href="https://image.kieng.cn/">https://image.kieng.cn/</a><br><a href="https://imgkr.com/#upload">https://imgkr.com/#upload</a><br><a href="https://www.gamewallpapers.com/">https://www.gamewallpapers.com/</a></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>关于</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>琐碎</tag>
+      <tag>篮球</tag>
       
     </tags>
     
@@ -133,12 +135,12 @@
     <link href="/2021/07/04/5/"/>
     <url>/2021/07/04/5/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="官方教程-https-helpx-adobe-com-cn-premiere-pro-user-guide-html"><a href="#官方教程-https-helpx-adobe-com-cn-premiere-pro-user-guide-html" class="headerlink" title="官方教程 https://helpx.adobe.com/cn/premiere-pro/user-guide.html"></a>官方教程 <a href="https://helpx.adobe.com/cn/premiere-pro/user-guide.html">https://helpx.adobe.com/cn/premiere-pro/user-guide.html</a></h1><h1 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h1><p>剪C 贴V<br>标记出入点I O</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="官方教程-https-helpx-adobe-com-cn-premiere-pro-user-guide-html"><a href="#官方教程-https-helpx-adobe-com-cn-premiere-pro-user-guide-html" class="headerlink" title="官方教程 https://helpx.adobe.com/cn/premiere-pro/user-guide.html"></a>官方教程 <a href="https://helpx.adobe.com/cn/premiere-pro/user-guide.html">https://helpx.adobe.com/cn/premiere-pro/user-guide.html</a></h1><pre><code>B站教程 https://space.bilibili.com/49746395/channel/index</code></pre><h1 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h1><p>剪C 贴V<br>标记出入点I O</p>]]></content>
     
     
     <categories>
       
-      <category>技能</category>
+      <category>软件</category>
       
     </categories>
     
@@ -154,23 +156,23 @@
   
   
   <entry>
-    <title>整理Links</title>
+    <title>《影响力》让人们顺从</title>
     <link href="/2021/06/21/4/"/>
     <url>/2021/06/21/4/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p>设计 <a href="https://rework.tools/">https://rework.tools/</a></p><h1 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h1><p><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br><a href="https://bks.thefuture.top/">https://bks.thefuture.top/</a><br><a href="https://www.kuaisoumao.com/">https://www.kuaisoumao.com/</a><br><a href="http://ebook.name/">http://ebook.name/</a><br><a href="https://kgbook.com/">https://kgbook.com/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a></p><h2 id="心理学"><a href="#心理学" class="headerlink" title="心理学"></a>心理学</h2><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com/</a></p><h2 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h2><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com/</a></p><h2 id="在线读书"><a href="#在线读书" class="headerlink" title="在线读书"></a>在线读书</h2><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a></p><h1 id="B哥"><a href="#B哥" class="headerlink" title="B哥"></a>B哥</h1><p>##工具人</p><h3 id="自己https-space-bilibili-com-435039678-fans-follow"><a href="#自己https-space-bilibili-com-435039678-fans-follow" class="headerlink" title="自己https://space.bilibili.com/435039678/fans/follow"></a>自己<a href="https://space.bilibili.com/435039678/fans/follow">https://space.bilibili.com/435039678/fans/follow</a></h3><h2 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h2><h3 id="一数https-space-bilibili-com-14229967-favlist-fid-742209667-amp-ftype-create"><a href="#一数https-space-bilibili-com-14229967-favlist-fid-742209667-amp-ftype-create" class="headerlink" title="一数https://space.bilibili.com/14229967/favlist?fid=742209667&amp;ftype=create"></a>一数<a href="https://space.bilibili.com/14229967/favlist?fid=742209667&amp;ftype=create">https://space.bilibili.com/14229967/favlist?fid=742209667&amp;ftype=create</a></h3><h2 id="体育"><a href="#体育" class="headerlink" title="体育"></a>体育</h2><h3 id="功能性训练https-space-bilibili-com-435039678-favlist-fid-1119595478-amp-ftype-create"><a href="#功能性训练https-space-bilibili-com-435039678-favlist-fid-1119595478-amp-ftype-create" class="headerlink" title="功能性训练https://space.bilibili.com/435039678/favlist?fid=1119595478&amp;ftype=create"></a>功能性训练<a href="https://space.bilibili.com/435039678/favlist?fid=1119595478&amp;ftype=create">https://space.bilibili.com/435039678/favlist?fid=1119595478&amp;ftype=create</a></h3><h3 id="迈卡篮球https-space-bilibili-com-32096538-channel-index"><a href="#迈卡篮球https-space-bilibili-com-32096538-channel-index" class="headerlink" title="迈卡篮球https://space.bilibili.com/32096538/channel/index"></a>迈卡篮球<a href="https://space.bilibili.com/32096538/channel/index">https://space.bilibili.com/32096538/channel/index</a></h3><h2 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h2><p>Pr C4D…<a href="https://space.bilibili.com/49746395/channel/index">https://space.bilibili.com/49746395/channel/index</a></p><h2 id="艺术"><a href="#艺术" class="headerlink" title="艺术"></a>艺术</h2><p><a href="http://tool.liumingye.cn/music/">http://tool.liumingye.cn/music/</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://www.influenceatwork.com/7-principles-of-persuasion/">https://www.influenceatwork.com/7-principles-of-persuasion/</a><br>作者的观察方法很有趣叫做参与式观察 深入传销保险等组织、<br>请求别人 给出（因为）</p><p>互惠<br>eg.请求对方帮忙给出一点小利<br>物质利己主义<br>社会认同<br>喜好<br>一致性<br>权威<br>eg：衣衫整洁<br>1.价格与价值挂钩<br>良心卖家<br>黑心买家<br>我们并不知道这个领域的专业知识<br>价格抬升意味着价值高 昂贵=优质（最简单的判断方法<br>eg.<br>淘宝店<br>清仓季<br><a href="https://www.mathsisfun.com/index.htm">https://www.mathsisfun.com/index.htm</a></p>]]></content>
     
     
     <categories>
       
-      <category>书籍</category>
+      <category>心理</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>索引</tag>
+      <tag>顺从</tag>
       
     </tags>
     
@@ -179,7 +181,7 @@
   
   
   <entry>
-    <title>语言学习原则及资源整理</title>
+    <title>语言习得原则及资源整理</title>
     <link href="/2021/06/13/2/"/>
     <url>/2021/06/13/2/</url>
     
@@ -188,14 +190,16 @@
     
     <categories>
       
-      <category>学习</category>
+      <category>语言</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>语言</tag>
+      <tag>训练</tag>
+      
+      <tag>无意识</tag>
       
     </tags>
     
@@ -204,7 +208,7 @@
   
   
   <entry>
-    <title>地理</title>
+    <title>苍茫大地谁主沉浮</title>
     <link href="/2021/06/13/3/"/>
     <url>/2021/06/13/3/</url>
     
@@ -220,7 +224,7 @@
     
     <tags>
       
-      <tag>教育</tag>
+      <tag>地理</tag>
       
     </tags>
     
@@ -229,27 +233,27 @@
   
   
   <entry>
-    <title>关于健康的记录及其功能性训练</title>
+    <title>优化人体的那些前提基础</title>
     <link href="/2021/06/12/1/"/>
     <url>/2021/06/12/1/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p>在体育训练时身体每天几乎没有疲乏，对学习也有加成的作用.</p></blockquote><ol><li>加快学习速度</li><li>语言类泛化能力</li><li>情绪调节</li><li>神经传输速度不减缓因为不会驼背和核心软榻</li></ol><h2 id="设计自己的计划"><a href="#设计自己的计划" class="headerlink" title="设计自己的计划"></a>设计自己的计划</h2><p><strong>原则是身体优先之后是心理接着发现同步补充</strong><br><a href="https://b23.tv/jziapR">练腰腹前-保持腹压</a><br>平板支撑 农夫<br><a href="https://www.bilibili.com/video/BV1T7411d7mu">练屁股前-控制骨盆</a><br><a href="https://www.bilibili.com/video/BV1HJ411A7NP">体态问题</a><br>2. 上下肢<br>维持体态技巧 40分钟起来10分钟行走 贴标签<br>核心 肩胛稳定 髋<br>改善体态<br>训练<br>下斜方肌 5s 8次-3<br>足弓15次 3<br>改变生活习惯<br>手法<br>动作不受控/感觉异常的原因<br>理解呼吸<br>不对称的人体<br>你真的需要挺直腰背吗<br>体会而非使用<br>理解训练<br>疼痛与动作控制（bonus）</p><hr>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p>在体育训练时身体每天几乎没有疲乏，对学习也有加成的作用.</p></blockquote><ol><li>加快学习速度</li><li>语言类泛化能力</li><li>情绪调节</li><li>神经传输速度不减缓因为不会驼背和核心软榻</li></ol><h2 id="设计自己的计划"><a href="#设计自己的计划" class="headerlink" title="设计自己的计划"></a>设计自己的计划</h2><p><strong>原则是身体优先之后是心理接着发现同步补充</strong><br><a href="https://b23.tv/jziapR">练腰腹前-保持腹压</a><br><a href="https://space.bilibili.com/435039678/favlist?fid=1119595478&ftype=create">功能性训练</a></p><p><a href="https://www.bilibili.com/video/BV1T7411d7mu">练屁股前-控制骨盆</a><br><a href="https://www.bilibili.com/video/BV1HJ411A7NP">体态问题</a><br>维持体态技巧 40分钟起来10分钟行走 贴标签<br>核心 肩胛稳定 髋<br>改变生活习惯<br>手法<br>动作不受控/感觉异常的原因<br>理解呼吸<br>不对称的人体<br>你真的需要挺直腰背吗<br>体会而非使用<br>理解训练<br>疼痛与动作控制（bonus）</p><hr>]]></content>
     
     
     <categories>
       
-      <category>健康</category>
+      <category>体育</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>健康</tag>
+      <tag>体态</tag>
       
-      <tag>计划</tag>
+      <tag>训练</tag>
       
-      <tag>功能性训练</tag>
+      <tag>无意识</tag>
       
     </tags>
     
