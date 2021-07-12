@@ -179,13 +179,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%A7%91%E5%AD%A6/</loc>
-    <lastmod>2021-07-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/%E5%81%A5%E5%BA%B7/</loc>
     <lastmod>2021-07-12</lastmod>
     <changefreq>daily</changefreq>
@@ -284,7 +277,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%96%87%E5%AD%A6/</loc>
+    <loc>http://example.com/tags/%E7%8E%8B%E5%B0%8F%E6%B3%A2/</loc>
     <lastmod>2021-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -378,6 +371,13 @@
   
   <url>
     <loc>http://example.com/categories/%E7%A7%91%E5%AD%A6/%E6%95%99%E6%9D%90/</loc>
+    <lastmod>2021-07-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E7%A7%91%E5%AD%A6/%E6%96%87%E5%AD%A6/</loc>
     <lastmod>2021-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
