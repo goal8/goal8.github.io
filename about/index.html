@@ -286,88 +286,14 @@
 
 <article class="about-content page-content mt-5">
   <div class="markdown-body">
-    <h2 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h2><p>本站是 伯乐的博客。</p>
+    <h2 id="关于本站"><a href="#关于本站" class="headerlink" title="关于本站"></a>关于本站</h2><p>本站是 Taylor的博客。</p>
 <p>开始于 2021 年，致力于构建一个属于自己的空间。</p>
-<p>本站取名「伯乐」，一来是跟我理想有关，二来是取自汉代韩婴的《韩诗外传・卷二》</p>
+<p>本站取名「Taylor」，一来是跟我理想有关，二来是取自汉代韩婴的《韩诗外传・卷二》</p>
 <blockquote>
 <p><strong>伯乐</strong>，博则精，精则神，神则化，是以君子务结心乎一也。</p>
 </blockquote>
-<h2 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h2><p>网名伯乐，现居江苏，学生。</p>
-<p>热爱苦难，也爱诗和远方。</p>
-<div id="echarts5789" style="width: 81%;height: 400px;margin: 0 auto"></div>
-<script type="text/javascript">
-        // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts5789'));
+<h2 id="关于博主"><a href="#关于博主" class="headerlink" title="关于博主"></a>关于博主</h2><p>网名Taylor，现居江苏，学生。</p>
 
-        // 指定图表的配置项和数据
-        var option = setTimeout(function () {
-
-    option = {
-        legend: {},
-        tooltip: {
-            trigger: 'axis',
-            showContent: false
-        },
-        dataset: {
-            source: [
-                ['product', '55', '2', '3', '4', '5', '6'],
-                ['Sleep', 8, 3, 4, 5, 6, 7],
-                ['Study', 10, 3, 4, 5, 6, 7],
-                ['Rest', 2, 3, 4, 5, 6, 7],
-                ['Matcha Latte', 2, 3, 4, 5, 6, 7],
-            ]
-        },
-        xAxis: {type: 'category'},
-        yAxis: {gridIndex: 0},
-        grid: {top: '55%'},
-        series: [
-            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
-            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
-            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
-            {type: 'line', smooth: true, seriesLayoutBy: 'row'},
-            {
-                type: 'pie',
-                id: 'pie',
-                radius: '30%',
-                center: ['50%', '25%'],
-                label: {
-                    formatter: '{b}: {@2012} ({d}%)'
-                },
-                encode: {
-                    itemName: 'product',
-                    value: '2012',
-                    tooltip: '2012'
-                }
-            }
-        ]
-    };
-
-    myChart.on('updateAxisPointer', function (event) {
-        var xAxisInfo = event.axesInfo[0];
-        if (xAxisInfo) {
-            var dimension = xAxisInfo.value + 1;
-            myChart.setOption({
-                series: {
-                    id: 'pie',
-                    label: {
-                        formatter: '{b}: {@[' + dimension + ']} ({d}%)'
-                    },
-                    encode: {
-                        value: dimension,
-                        tooltip: dimension
-                    }
-                }
-            });
-        }
-    });
-
-    myChart.setOption(option);
-
-});
-
-        // 使用刚指定的配置项和数据显示图表。
-        myChart.setOption(option);
-</script>
   </div>
 
   
