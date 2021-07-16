@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>伯乐</title>
+  <title>Tylor&#39;s Blog</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-12T11:21:44.530Z</updated>
+  <updated>2021-07-15T13:55:18.081Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,39 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>《黄金时代》——王小波</title>
-    <link href="http://example.com/2021/07/12/16/"/>
-    <id>http://example.com/2021/07/12/16/</id>
-    <published>2021-07-12T11:16:22.000Z</published>
-    <updated>2021-07-12T11:21:44.530Z</updated>
+    <title>搜索引擎技巧</title>
+    <link href="http://example.com/2021/07/13/18/"/>
+    <id>http://example.com/2021/07/13/18/</id>
+    <published>2021-07-13T02:38:15.000Z</published>
+    <updated>2021-07-15T13:55:18.081Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://yuedu.163.com/book_reader/aef60ccbd18d48a396b41db6cd8e1a6a_4/709586062e4c4bf58527173f71bfc13f_4">https://yuedu.163.com/book_reader/aef60ccbd18d48a396b41db6cd8e1a6a_4/709586062e4c4bf58527173f71bfc13f_4</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="科学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="文学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/%E6%96%87%E5%AD%A6/"/>
-    
-    
-    <category term="王小波" scheme="http://example.com/tags/%E7%8E%8B%E5%B0%8F%E6%B3%A2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>地理的纪录片</title>
-    <link href="http://example.com/2021/07/11/15/"/>
-    <id>http://example.com/2021/07/11/15/</id>
-    <published>2021-07-11T09:35:33.000Z</published>
-    <updated>2021-07-11T09:44:57.325Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>航拍中国<a href="https://b23.tv/ep335910" data-report="13" class="comment-jump-url" target="_blank">航拍中国 第一季</a></p><p><br>美丽中国<a href="https://b23.tv/ep253583" data-report="11" class="comment-jump-url" target="_blank">美丽中国</a></p><p><br>地理 中国、<a href="//www.bilibili.com/video/BV1Cx411g7nR" data-report="2" class="comment-jump-url" target="_blank">【地理·中国】江山多娇【32集全】</a><br></p><p><br>太阳系的奇迹<a href="https://b23.tv/ep281069" data-report="12" class="comment-jump-url" target="_blank">太阳系奇观</a></p><p><br>蓝色星球<a href="https://b23.tv/ep119264" data-report="7" class="comment-jump-url" target="_blank">蓝色星球</a></p><p><br>人类星球<a href="//www.bilibili.com/video/BV11K4y1U7ov" data-report="0" class="comment-jump-url" target="_blank">【纪录片/人与自然】——人类星球（16集全）</a></p><p><br>地球脉动<a href="https://b23.tv/ep121262" data-report="9" class="comment-jump-url" target="_blank">地球脉动</a></p><p><br>地球的力量<a href="https://b23.tv/ep119173" data-report="5" class="comment-jump-url" target="_blank">地球的力量</a></p><p><br>七个世界 一个星球<a href="//www.bilibili.com/video/BV1Z7411M7jv" data-report="3" class="comment-jump-url" target="_blank">一部豆瓣分9.0以上自然类高清纪录片【七个世界   一个星球】No.1 南极洲 No.2亚洲  网友们：真的很好看。</a><br></p><p><br>亚洲<a href="//www.bilibili.com/video/BV1zT4y1w7PR" data-report="4" class="comment-jump-url" target="_blank">【纪录片/自然】亚洲绝美秘境Asia-secret lives Hidden places【中字】</a></p><p><br>北美<a href="https://b23.tv/ep250020" data-report="10" class="comment-jump-url" target="_blank">北美大地</a></p><p><br>冰冻星球<a href="https://b23.tv/ep119204" data-report="6" class="comment-jump-url" target="_blank">冰冻星球：如履薄冰</a></p><p><br>欧洲<a href="https://b23.tv/ep120126" data-report="8" class="comment-jump-url" target="_blank">欧洲铁路之旅 第三季</a></p><p><br>大洋洲<a href="//www.bilibili.com/video/BV18t41187w8" data-report="1" class="comment-jump-url" target="_blank">【纪录/自然】跃动大堡礁（中英双字/生）丨特别特别美！！！</a></p></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><ol><li><p>双引号：精确匹配<br>例如: “我就要搜这句话”</p></li><li><p>OR：或者，包含一个关键词即可<br>例如：诸葛亮 OR 王司徒</p></li><li><p>AND：必须同时包含两个关键词<br>例如：诸葛亮 AND 王司徒</p></li><li><p>减号-：不包含减号后面的关键词<br>例如：王司徒 -诸葛亮（搜到的是包含王司徒但是不包括诸葛亮的结果）</p></li><li><p>通配符星号<em>：用来代替任何字<br>例如：王司</em>（搜到的包括王司徒、王司机、王司长……）</p></li><li><p>括号( )：同时使用多个命令符号的时候可能会用到<br>例如：（诸葛亮 OR 葛平）AND Bilibili （搜到的是包含B站，同时包含诸葛亮或葛平其中任意一个的结果）</p></li><li><p>define: 查词汇的定义<br>例如：define: anime</p></li><li><p>cache: 查看某个页面最新的网页快照<br>例如：cache:bilibili.com</p></li><li><p>filetype: 查找特定类型的文件<br>例如：社交媒体 filetype:ppt（搜到的的是包含“社交媒体”的ppt文件）</p></li><li><p>site: 指定网站搜索<br>例如：bilibili site:xinhuanet.com（搜到的是新华网关于bilibili的报道）</p></li><li><p>related: 类似网站<br>例如：related: coursera.com</p></li><li><p>intitle: 网页标题搜索<br>例如：intitle:鬼畜（搜到的是网页标题里面含有鬼畜二字的结果，冒号后面不能有空格）</p></li><li><p>allintitle: 网页标题包含以下所有关键词<br>例如：allintitle:诸葛亮 王司徒（冒号后面不能有空格）</p></li><li><p>inurl: 网址中包含特定的词<br>例如：inurl:iphone（冒号后面不能有空格）</p></li><li><p>allinurl: 网址中包含以下所有词<br>例如：allinurl:apple iphone</p></li><li><p>intext: 只找网页里的文字（不搜索标题、网址等其他部分）<br>例如：intext:apple iphone（冒号后面不能有空格）</p></li></ol><p>17. allintext: 只找网页里的文字，包含以下所有关键词<br>例如：allintext:apple iphone</p><ol start="18"><li><p>AROUND(X)：两个词距离在X之内<br>例如：apple AROUND(4) iphone（搜到的是apple和iphone两个词距离不超过4的结果）</p></li><li><p>weather: 查天气<br>例如：weather:beijing</p></li><li><p>stocks: 查股价<br>例如：stocks:bili</p></li><li><p>map: 显示地图<br>例如：map:silicon valley</p></li><li><p>movie: 查电影<br>例如：movie:spotlight</p></li><li><p>in：算汇率<br>例如：$999 in CNY</p></li></ol>]]></content>
     
     
       
@@ -59,64 +33,12 @@
     
     
     
-    <category term="科学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/"/>
+    <category term="资源" scheme="http://example.com/categories/%E8%B5%84%E6%BA%90/"/>
     
-    <category term="地理" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/%E5%9C%B0%E7%90%86/"/>
-    
-    
-    <category term="纪录片" scheme="http://example.com/tags/%E7%BA%AA%E5%BD%95%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>君主论</title>
-    <link href="http://example.com/2021/07/11/14/"/>
-    <id>http://example.com/2021/07/11/14/</id>
-    <published>2021-07-11T07:29:39.000Z</published>
-    <updated>2021-07-11T07:54:18.544Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://img14.360buyimg.com/ddimg/jfs/t1/180421/13/13646/93254/60ea9e15E966f891a/62ea5f2c870fd185.png"><img src="https://img14.360buyimg.com/ddimg/jfs/t1/180421/13/13646/93254/60ea9e15E966f891a/62ea5f2c870fd185.png" alt="君主论.png"></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="科学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="政治" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/%E6%94%BF%E6%B2%BB/"/>
+    <category term="查找" scheme="http://example.com/categories/%E8%B5%84%E6%BA%90/%E6%9F%A5%E6%89%BE/"/>
     
     
     <category term="琐碎" scheme="http://example.com/tags/%E7%90%90%E7%A2%8E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>高中的教材</title>
-    <link href="http://example.com/2021/07/11/13/"/>
-    <id>http://example.com/2021/07/11/13/</id>
-    <published>2021-07-11T00:34:03.000Z</published>
-    <updated>2021-07-11T07:54:32.809Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://pan.baidu.com/s/1LAUSrepLlBndGA108Yl_kw"><img src="https://img10.360buyimg.com/ddimg/jfs/t1/61828/29/16308/1633846/60ea3e6bEc69a962f/e348bc6fc2f60fe2.png" alt="高中教材.png"></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="科学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="教材" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/%E6%95%99%E6%9D%90/"/>
-    
-    
-    <category term="高中教材" scheme="http://example.com/tags/%E9%AB%98%E4%B8%AD%E6%95%99%E6%9D%90/"/>
     
   </entry>
   
@@ -125,9 +47,9 @@
     <link href="http://example.com/2021/07/10/12/"/>
     <id>http://example.com/2021/07/10/12/</id>
     <published>2021-07-10T07:09:15.000Z</published>
-    <updated>2021-07-11T07:56:34.197Z</updated>
+    <updated>2021-07-15T14:01:13.982Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://img14.360buyimg.com/ddimg/jfs/t1/186418/2/12681/59053/60e94967Ec3dccc8e/9ef14406600af7da.png"><img src="https://img14.360buyimg.com/ddimg/jfs/t1/186418/2/12681/59053/60e94967Ec3dccc8e/9ef14406600af7da.png" alt="tuchuang2.png"></a></p><p><a href="https://img11.360buyimg.com/ddimg/jfs/t1/194932/31/12419/454018/60e9496bE223e865b/31b5e0dedc47cb0d.png"><img src="https://img11.360buyimg.com/ddimg/jfs/t1/194932/31/12419/454018/60e9496bE223e865b/31b5e0dedc47cb0d.png" alt="tuchuang.png"></a><br><a href="https://img14.360buyimg.com/ddimg/jfs/t1/174096/32/18942/440027/60e948c5E2beab1ff/900b4712de2a7746.jpg"><img src="https://img14.360buyimg.com/ddimg/jfs/t1/174096/32/18942/440027/60e948c5E2beab1ff/900b4712de2a7746.jpg" alt="6e5b3c4f71d87599186cea8a104eadc.jpg"></a></p><p><a href="https://img14.360buyimg.com/ddimg/jfs/t1/14035/28/17605/127978/60e94878Ec632be22/1539865a521b9c5f.jpg"><img src="https://img14.360buyimg.com/ddimg/jfs/t1/14035/28/17605/127978/60e94878Ec632be22/1539865a521b9c5f.jpg" alt="fa8505d0a5871284e45e80a7ffaee19.jpg"></a></p><p><a href="https://img14.360buyimg.com/ddimg/jfs/t1/174096/32/18942/440027/60e948c5E2beab1ff/900b4712de2a7746.jpg"><img src="https://img14.360buyimg.com/ddimg/jfs/t1/174096/32/18942/440027/60e948c5E2beab1ff/900b4712de2a7746.jpg" alt="6e5b3c4f71d87599186cea8a104eadc.jpg"></a></p><p><a href="https://img11.360buyimg.com/ddimg/jfs/t1/172946/4/19186/93001/60e948c4Ec0e66f33/27d9853117733491.jpg"><img src="https://img11.360buyimg.com/ddimg/jfs/t1/172946/4/19186/93001/60e948c4Ec0e66f33/27d9853117733491.jpg" alt="e6b9ab8c527ea1ad0c21848bf249d59.jpg"></a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">语言连通万物<br>English is What</p><p><a href="https://wallhaven.cc/">https://wallhaven.cc/</a><br><a href="https://bobopic.com/">https://bobopic.com/</a><br><a href="https://www.mathsisfun.com/">https://www.mathsisfun.com/</a><br><a href="https://americanenglish.state.gov/four-skills-resources">https://americanenglish.state.gov/four-skills-resources</a><br><a href="https://basicenglishspeaking.com/">https://basicenglishspeaking.com/</a><br><a href="https://www.rong-chang.com/">https://www.rong-chang.com/</a><br><a href="https://americanenglish.state.gov/four-skills-resources">https://americanenglish.state.gov/four-skills-resources</a><br><a href="https://www.real-english.com/reo/">https://www.real-english.com/reo/</a><br><a href="https://trailers.apple.com/">https://trailers.apple.com/</a><br><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a><br><a href="http://liulangcat.com/index.php">http://liulangcat.com/index.php</a></p><h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p><a href="https://rework.tools/">https://rework.tools/</a><br><a href="http://www.xxbooks.cn/">http://www.xxbooks.cn/</a><br><a href="https://1lib.limited/">https://1lib.limited/</a></p><h1 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h1><p><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br><a href="https://bks.thefuture.top/">https://bks.thefuture.top/</a><br><a href="https://www.kuaisoumao.com/">https://www.kuaisoumao.com/</a><br><a href="http://ebook.name/">http://ebook.name/</a><br><a href="https://kgbook.com/">https://kgbook.com/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a><br><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a></p><h2 id="心理"><a href="#心理" class="headerlink" title="心理"></a>心理</h2><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com/</a></p><h2 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h2><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com/</a></p><h2 id="在线读书"><a href="#在线读书" class="headerlink" title="在线读书"></a>在线读书</h2><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a><br><a href="https://www.kepub.net/">https://www.kepub.net/</a></p><h2 id="纪录片"><a href="#纪录片" class="headerlink" title="纪录片"></a>纪录片</h2><p>航拍中国<a href="https://b23.tv/ep335910" data-report="13" class="comment-jump-url" target="_blank">航拍中国 第一季</a></p><p><br>美丽中国<a href="https://b23.tv/ep253583" data-report="11" class="comment-jump-url" target="_blank">美丽中国</a></p><p><br>地理 中国、<a href="//www.bilibili.com/video/BV1Cx411g7nR" data-report="2" class="comment-jump-url" target="_blank">【地理·中国】江山多娇【32集全】</a><br></p><p><br>太阳系的奇迹<a href="https://b23.tv/ep281069" data-report="12" class="comment-jump-url" target="_blank">太阳系奇观</a></p><p><br>蓝色星球<a href="https://b23.tv/ep119264" data-report="7" class="comment-jump-url" target="_blank">蓝色星球</a></p><p><br>人类星球<a href="//www.bilibili.com/video/BV11K4y1U7ov" data-report="0" class="comment-jump-url" target="_blank">【纪录片/人与自然】——人类星球（16集全）</a></p><p><br>地球脉动<a href="https://b23.tv/ep121262" data-report="9" class="comment-jump-url" target="_blank">地球脉动</a></p><p><br>地球的力量<a href="https://b23.tv/ep119173" data-report="5" class="comment-jump-url" target="_blank">地球的力量</a></p><p><br>七个世界 一个星球<a href="//www.bilibili.com/video/BV1Z7411M7jv" data-report="3" class="comment-jump-url" target="_blank">一部豆瓣分9.0以上自然类高清纪录片【七个世界   一个星球】No.1 南极洲 No.2亚洲  网友们：真的很好看。</a><br></p><p><br>亚洲<a href="//www.bilibili.com/video/BV1zT4y1w7PR" data-report="4" class="comment-jump-url" target="_blank">【纪录片/自然】亚洲绝美秘境Asia-secret lives Hidden places【中字】</a></p><p><br>北美<a href="https://b23.tv/ep250020" data-report="10" class="comment-jump-url" target="_blank">北美大地</a></p><p><br>冰冻星球<a href="https://b23.tv/ep119204" data-report="6" class="comment-jump-url" target="_blank">冰冻星球：如履薄冰</a></p><p><br>欧洲<a href="https://b23.tv/ep120126" data-report="8" class="comment-jump-url" target="_blank">欧洲铁路之旅 第三季</a></p><p><br>大洋洲<a href="//www.bilibili.com/video/BV18t41187w8" data-report="1" class="comment-jump-url" target="_blank">【纪录/自然】跃动大堡礁（中英双字/生）丨特别特别美！！！</a></p></p>]]></content>
     
     
       
@@ -147,304 +69,18 @@
   </entry>
   
   <entry>
-    <title>整理数学这个小可爱</title>
-    <link href="http://example.com/2021/07/10/11/"/>
-    <id>http://example.com/2021/07/10/11/</id>
-    <published>2021-07-10T06:29:05.000Z</published>
-    <updated>2021-07-11T07:54:52.037Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">原则分类<br>有意识</p><p><a href="https://www.mathsisfun.com/"><img src="https://img11.360buyimg.com/ddimg/jfs/t1/172362/31/18495/425201/60e93f39E66fe39ab/c9a249fb46ab0456.png" alt="Maths.png"></a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="科学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="数学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/%E6%95%B0%E5%AD%A6/"/>
-    
-    
-    <category term="数学" scheme="http://example.com/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>音乐</title>
-    <link href="http://example.com/2021/07/09/6/"/>
-    <id>http://example.com/2021/07/09/6/</id>
-    <published>2021-07-09T05:48:48.000Z</published>
-    <updated>2021-07-10T06:24:52.864Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">听音乐工具</p><p><img src="https://img12.360buyimg.com/ddimg/jfs/t1/196240/3/12378/469139/60e7e452E121a8972/ee56810c85adb8a1.png" alt="Myfreemp3"><br>Link: <a href="http://tool.liumingye.cn/music/">Myfreemp3</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="体美" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/"/>
-    
-    <category term="音乐" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/%E9%9F%B3%E4%B9%90/"/>
-    
-    
-    <category term="音乐" scheme="http://example.com/tags/%E9%9F%B3%E4%B9%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>体育的自我理解总论</title>
-    <link href="http://example.com/2021/07/09/10/"/>
-    <id>http://example.com/2021/07/09/10/</id>
-    <published>2021-07-09T02:00:13.451Z</published>
-    <updated>2021-07-10T06:21:00.008Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a><br><a href="http://liulangcat.com/index.php">http://liulangcat.com/index.php</a></p><h1 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h1><p>设计 <a href="https://rework.tools/">https://rework.tools/</a><br><a href="http://www.xxbooks.cn/">http://www.xxbooks.cn/</a><br><a href="https://1lib.limited/">https://1lib.limited/</a></p><h1 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h1><p><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br><a href="https://bks.thefuture.top/">https://bks.thefuture.top/</a><br><a href="https://www.kuaisoumao.com/">https://www.kuaisoumao.com/</a><br><a href="http://ebook.name/">http://ebook.name/</a><br><a href="https://kgbook.com/">https://kgbook.com/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a><br><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a></p><h2 id="心理学"><a href="#心理学" class="headerlink" title="心理学"></a>心理学</h2><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com/</a></p><h2 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h2><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com/</a></p><h2 id="在线读书"><a href="#在线读书" class="headerlink" title="在线读书"></a>在线读书</h2><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a><br><a href="https://www.kepub.net/">https://www.kepub.net/</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="体美" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/"/>
-    
-    <category term="体育" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/%E4%BD%93%E8%82%B2/"/>
-    
-    
-    <category term="健康" scheme="http://example.com/tags/%E5%81%A5%E5%BA%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>美术</title>
-    <link href="http://example.com/2021/07/09/9/"/>
-    <id>http://example.com/2021/07/09/9/</id>
-    <published>2021-07-09T01:36:48.944Z</published>
-    <updated>2021-07-10T06:23:09.227Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><img src="https://img14.360buyimg.com/ddimg/jfs/t1/38583/23/16047/1410824/60e79f7cE967b3d82/98f77e36d2d7784c.png" alt="Wallhaven"><br><img src="https://img13.360buyimg.com/ddimg/jfs/t1/192597/37/12278/1327333/60e7a9b5Ef8841f93/efe642d8b77589de.png" alt="Bobopic"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="体美" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/"/>
-    
-    <category term="美术" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/%E7%BE%8E%E6%9C%AF/"/>
-    
-    
-    <category term="美术" scheme="http://example.com/tags/%E7%BE%8E%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>English这门世界的桥梁语言得学</title>
-    <link href="http://example.com/2021/07/09/8/"/>
-    <id>http://example.com/2021/07/09/8/</id>
-    <published>2021-07-08T17:38:40.000Z</published>
-    <updated>2021-07-10T00:01:07.015Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">语言连通万物<br>English is What</p><p style="text-align:center">https://americanenglish.state.gov/four-skills-resourceshttps://basicenglishspeaking.com/https://www.rong-chang.com/https://americanenglish.state.gov/four-skills-resourceshttps://www.real-english.com/reo/https://trailers.apple.com/</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="语言" scheme="http://example.com/categories/%E8%AF%AD%E8%A8%80/"/>
-    
-    
-    <category term="English" scheme="http://example.com/tags/English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>篮球？？？唱跳Rap</title>
-    <link href="http://example.com/2021/07/09/7/"/>
-    <id>http://example.com/2021/07/09/7/</id>
-    <published>2021-07-08T17:22:36.000Z</published>
-    <updated>2021-07-10T06:25:38.953Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">原则分类<br>运动</p><p><img src="https://img11.360buyimg.com/ddimg/jfs/t1/186091/16/13204/871929/60e7a208Ecb94f935/1063431a151abf9c.png" alt="MicahLancaster迈卡"><br><a href="https://space.bilibili.com/32096538/channel/index">跳转至目标</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="体美" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/"/>
-    
-    <category term="体育" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/%E4%BD%93%E8%82%B2/"/>
-    
-    
-    <category term="篮球" scheme="http://example.com/tags/%E7%AF%AE%E7%90%83/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Pr</title>
-    <link href="http://example.com/2021/07/04/5/"/>
-    <id>http://example.com/2021/07/04/5/</id>
-    <published>2021-07-04T13:29:15.000Z</published>
-    <updated>2021-07-10T00:04:57.384Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="官方教程-https-helpx-adobe-com-cn-premiere-pro-user-guide-html"><a href="#官方教程-https-helpx-adobe-com-cn-premiere-pro-user-guide-html" class="headerlink" title="官方教程 https://helpx.adobe.com/cn/premiere-pro/user-guide.html"></a>官方教程 <a href="https://helpx.adobe.com/cn/premiere-pro/user-guide.html">https://helpx.adobe.com/cn/premiere-pro/user-guide.html</a></h1><pre><code>B站教程 https://space.bilibili.com/49746395/channel/index</code></pre><h1 id="笔记"><a href="#笔记" class="headerlink" title="笔记"></a>笔记</h1><p>剪C 贴V<br>标记出入点I O</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="软件" scheme="http://example.com/categories/%E8%BD%AF%E4%BB%B6/"/>
-    
-    
-    <category term="Pr" scheme="http://example.com/tags/Pr/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《影响力》让人们顺从</title>
-    <link href="http://example.com/2021/06/21/4/"/>
-    <id>http://example.com/2021/06/21/4/</id>
-    <published>2021-06-21T05:53:59.000Z</published>
-    <updated>2021-07-11T07:53:58.138Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><a href="https://www.influenceatwork.com/7-principles-of-persuasion/">https://www.influenceatwork.com/7-principles-of-persuasion/</a><br>作者的观察方法很有趣叫做参与式观察 深入传销保险等组织、<br>请求别人 给出（因为）</p><p>互惠<br>eg.请求对方帮忙给出一点小利<br>物质利己主义<br>社会认同<br>喜好<br>一致性<br>权威<br>eg：衣衫整洁<br>1.价格与价值挂钩<br>良心卖家<br>黑心买家<br>我们并不知道这个领域的专业知识<br>价格抬升意味着价值高 昂贵=优质（最简单的判断方法<br>eg.<br>淘宝店<br>清仓季<br><a href="https://www.mathsisfun.com/index.htm">https://www.mathsisfun.com/index.htm</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="科学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="心理" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/%E5%BF%83%E7%90%86/"/>
-    
-    
-    <category term="顺从" scheme="http://example.com/tags/%E9%A1%BA%E4%BB%8E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>语言习得原则及资源整理</title>
-    <link href="http://example.com/2021/06/13/2/"/>
-    <id>http://example.com/2021/06/13/2/</id>
-    <published>2021-06-13T13:49:42.000Z</published>
-    <updated>2021-07-09T23:51:37.905Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="原则"><a href="#原则" class="headerlink" title="原则"></a>原则</h1><p><strong>听：声波-意思</strong><br><strong>说：欲望-声波</strong><br><strong>读：光线-意思</strong><br><strong>写：欲望-意思</strong></p><p>Eg.<br>She’s <a href="https://dictionary.cambridge.org/dictionary/english/quite" title="quite">quite</a> an interesting woman.</p><h3 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h3><p><a href="https://translate.google.cn/">Google</a><br><a href="https://fanyi.sogou.com/text">Sogo</a><br><a href="https://fanyi.qq.com/">Tencent</a><br><a href="https://fanyi.baidu.com/">Baidu</a><br><a href="https://dictionary.cambridge.org/dictionary/english/interesting/">Cambridge</a></p><h3 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h3><p><a href="https://dictionary.cambridge.org/grammar/british-grammar/">Cambridge</a></p><p>和外国人聊天<br><a href="https://www.conversationexchange.com/">https://www.conversationexchange.com/</a><br><a href="https://mylanguageexchange.com/">https://mylanguageexchange.com/</a><br><a href="https://www.language-exchanges.org/">https://www.language-exchanges.org/</a><br><a href="https://www.speaky.com/">https://www.speaky.com/</a><br><a href="https://www.interpals.net/">https://www.interpals.net/</a></p><p>电影宣传片 <a href="https://trailers.apple.com/">https://trailers.apple.com/</a><br>Japanese <a href="https://www.erin.jpf.go.jp/">https://www.erin.jpf.go.jp/</a><br>English <a href="https://www.real-english.com/reo/">https://www.real-english.com/reo/</a><br>材料<br><a href="https://zh.forvo.com/languages-pronunciations/en/">https://zh.forvo.com/languages-pronunciations/en/</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="语言" scheme="http://example.com/categories/%E8%AF%AD%E8%A8%80/"/>
-    
-    
-    <category term="训练" scheme="http://example.com/tags/%E8%AE%AD%E7%BB%83/"/>
-    
-    <category term="无意识" scheme="http://example.com/tags/%E6%97%A0%E6%84%8F%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>苍茫大地谁主沉浮</title>
-    <link href="http://example.com/2021/06/13/3/"/>
-    <id>http://example.com/2021/06/13/3/</id>
-    <published>2021-06-13T09:34:38.000Z</published>
-    <updated>2021-07-11T07:55:20.600Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>茫茫宇宙 一颗蓝色的天体<br>陆地<br>1.相对高度<br>2.海拔</p><p>海洋<br>1.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="科学" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/"/>
-    
-    <category term="地理" scheme="http://example.com/categories/%E7%A7%91%E5%AD%A6/%E5%9C%B0%E7%90%86/"/>
-    
-    
-    <category term="地理" scheme="http://example.com/tags/%E5%9C%B0%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>优化人体的那些前提基础</title>
-    <link href="http://example.com/2021/06/12/1/"/>
-    <id>http://example.com/2021/06/12/1/</id>
-    <published>2021-06-11T16:06:30.000Z</published>
-    <updated>2021-07-10T06:26:12.904Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote><p>在体育训练时身体每天几乎没有疲乏，对学习也有加成的作用.</p></blockquote><ol><li>加快学习速度</li><li>语言类泛化能力</li><li>情绪调节</li><li>神经传输速度不减缓因为不会驼背和核心软榻</li></ol><h2 id="设计自己的计划"><a href="#设计自己的计划" class="headerlink" title="设计自己的计划"></a>设计自己的计划</h2><p><strong>原则是身体优先之后是心理接着发现同步补充</strong><br><a href="https://b23.tv/jziapR">练腰腹前-保持腹压</a><br><a href="https://space.bilibili.com/435039678/favlist?fid=1119595478&ftype=create">功能性训练</a></p><p><a href="https://www.bilibili.com/video/BV1T7411d7mu">练屁股前-控制骨盆</a><br><a href="https://www.bilibili.com/video/BV1HJ411A7NP">体态问题</a><br>维持体态技巧 40分钟起来10分钟行走 贴标签<br>核心 肩胛稳定 髋<br>改变生活习惯<br>手法<br>动作不受控/感觉异常的原因<br>理解呼吸<br>不对称的人体<br>你真的需要挺直腰背吗<br>体会而非使用<br>理解训练<br>疼痛与动作控制（bonus）</p><hr>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="体美" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/"/>
-    
-    <category term="体育" scheme="http://example.com/categories/%E4%BD%93%E7%BE%8E/%E4%BD%93%E8%82%B2/"/>
-    
-    
-    <category term="体态" scheme="http://example.com/tags/%E4%BD%93%E6%80%81/"/>
-    
-    <category term="训练" scheme="http://example.com/tags/%E8%AE%AD%E7%BB%83/"/>
-    
-    <category term="无意识" scheme="http://example.com/tags/%E6%97%A0%E6%84%8F%E8%AF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
+    <title>一波三折后Blog诞生</title>
     <link href="http://example.com/2021/06/11/hello-world/"/>
     <id>http://example.com/2021/06/11/hello-world/</id>
     <published>2021-06-11T15:15:41.248Z</published>
-    <updated>2021-06-12T08:58:42.643Z</updated>
+    <updated>2021-07-15T13:42:22.495Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>取了个First name: Tylor 喜欢记录生活的高中生一枚</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
       
     
     
@@ -452,7 +88,7 @@
     <category term="About" scheme="http://example.com/categories/About/"/>
     
     
-    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
+    <category term="诞生" scheme="http://example.com/tags/%E8%AF%9E%E7%94%9F/"/>
     
   </entry>
   
