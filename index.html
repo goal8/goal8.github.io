@@ -1,781 +1,550 @@
-
-
 <!DOCTYPE html>
-<html lang="en" data-default-color-scheme=&#34;auto&#34;>
-
-
-
+<html>
 <head>
-  <meta charset="UTF-8">
-  <link rel="apple-touch-icon" sizes="76x76" href="https://img14.360buyimg.com/ddimg/jfs/t1/187117/1/12338/969/60e7541bEa1e835df/1022410641adf987.jpg">
-  <link rel="icon" href="https://static01.imgkr.com/temp/49de8b295b5f4825a9d299342862f395.svg">
-  <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta charset="utf-8">
   
-  <meta name="theme-color" content="#2f4154">
-  <meta name="description" content="">
-  <meta name="author" content="风">
-  <meta name="keywords" content="">
   
   <title>Dylan&#39;s Blog</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta property="og:type" content="website">
+<meta property="og:title" content="Dylan&#39;s Blog">
+<meta property="og:url" content="http://example.com/index.html">
+<meta property="og:site_name" content="Dylan&#39;s Blog">
+<meta property="og:locale" content="en_US">
+<meta property="article:author" content="风">
+<meta name="twitter:card" content="summary">
+  
+    <link rel="alternate" href="/atom.xml" title="Dylan's Blog" type="application/atom+xml">
+  
+  
+    <link rel="shortcut icon" href="/favicon.png">
+  
+  
+    
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeface-source-code-pro@0.0.71/index.min.css">
 
-  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" />
+  
+  
+<link rel="stylesheet" href="/css/style.css">
 
+  
+    
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
 
-
-<!-- 主题依赖的图标库，不要自行修改 -->
-
-<link rel="stylesheet" href="//at.alicdn.com/t/font_1749284_ba1fz6golrf.css">
-
-
-
-<link rel="stylesheet" href="//at.alicdn.com/t/font_1736178_kmeydafke9r.css">
-
-
-<link  rel="stylesheet" href="/css/main.css" />
-
-<!-- 自定义样式保持在最底部 -->
-
-
-  <script id="fluid-configs">
-    var Fluid = window.Fluid || {};
-    var CONFIG = {"hostname":"example.com","root":"/","version":"1.8.11","typing":{"enable":true,"typeSpeed":70,"cursorChar":"_","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":null,"google":null,"gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":null,"app_key":null,"server_url":null}},"search_path":"/local-search.xml"};
-  </script>
-  <script  src="/js/utils.js" ></script>
-  <script  src="/js/color-schema.js" ></script>
-
-<script src="https://cdn.jsdelivr.net/npm/echarts@4.8.0/dist/echarts.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/echarts-gl@1.1.1/dist/echarts-gl.min.js">
-
-</script>
-<meta name="generator" content="Hexo 5.4.0"><link rel="alternate" href="/atom.xml" title="Dylan's Blog" type="application/atom+xml">
-</head>
-
+  
+<meta name="generator" content="Hexo 5.4.0"></head>
 
 <body>
-  <header style="height: 70vh;">
-    <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
-  <div class="container">
-    <a class="navbar-brand"
-       href="/">&nbsp;<strong>Dylan</strong>&nbsp;</a>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">Dylan&#39;s Blog</a>
+      </h1>
+      
+    </div>
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/">Home</a>
+        
+          <a class="main-nav-link" href="/archives">Archives</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://example.com"></form>
+      </div>
+    </div>
+  </div>
+</header>
 
-    <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
-            data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <div class="animated-icon"><span></span><span></span><span></span></div>
-    </button>
+      <div class="outer">
+        <section id="main">
+  
+    <article id="post-5" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/08/09/5/" class="article-date">
+  <time class="dt-published" datetime="2021-08-09T05:07:32.000Z" itemprop="datePublished">2021-08-09</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/About/">About</a>
+  </div>
 
-    <!-- Collapsible content -->
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ml-auto text-center">
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
         
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/">
-                <i class="iconfont icon-home-fill"></i>
-                Home
-              </a>
-            </li>
-          
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/2021/08/09/5/">一个想法</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p>信息流程链：<br>生产者<br>消费者<br>渠道：窃取（爬虫）<br>知识付费<br>以后信息孤岛化的时代 要求着我们必须自身成为一个高级知识生产者 不断生产消费<br>做个爬虫 </p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2021/08/09/5/" data-id="cks46gagf0000og3w46iafyte" data-title="一个想法" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Opinion/" rel="tag">Opinion</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-4" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/08/09/4/" class="article-date">
+  <time class="dt-published" datetime="2021-08-09T01:59:13.000Z" itemprop="datePublished">2021-08-09</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/">不可磨灭</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
         
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/categories/">
-                <i class="iconfont icon-category-fill"></i>
-                Category
-              </a>
-            </li>
-          
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/2021/08/09/4/">Rita Hayworth</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV1yD4y1Q7B4&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2021/08/09/4/" data-id="cks3zoy0b0000vk3wfxse5wzn" data-title="Rita Hayworth" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Hero/" rel="tag">Hero</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-2" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/07/26/2/" class="article-date">
+  <time class="dt-published" datetime="2021-07-26T01:48:12.237Z" itemprop="datePublished">2021-07-26</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Languages/">Languages</a>►<a class="article-category-link" href="/categories/Languages/English/">English</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
         
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/tags/">
-                <i class="iconfont icon-tags-fill"></i>
-                Tags
-              </a>
-            </li>
-          
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/2021/07/26/2/">Prepare of Englsih study</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">
+运动
+<br>
+English is What
+</p>
+
+<h1 id="发音"><a href="#发音" class="headerlink" title="发音"></a>发音</h1><h2 id="音标"><a href="#音标" class="headerlink" title="音标"></a>音标</h2><p><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1Q64y1t7As">https://www.bilibili.com/video/BV1Q64y1t7As</a><br><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1Sg411T7bk">https://www.bilibili.com/video/BV1Sg411T7bk</a><br><a target="_blank" rel="noopener" href="https://space.bilibili.com/631186842/channel/index">https://space.bilibili.com/631186842/channel/index</a></p>
+<h2 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h2><p><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1U54y1m767">https://www.bilibili.com/video/BV1U54y1m767</a><br><a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV16C4y1t7jz">https://www.bilibili.com/video/BV16C4y1t7jz</a><br><a target="_blank" rel="noopener" href="https://translate.google.cn/">https://translate.google.cn/</a></p>
+<h1 id="语料"><a href="#语料" class="headerlink" title="语料"></a>语料</h1><p><a target="_blank" rel="noopener" href="https://americanenglish.state.gov/four-skills-resources">https://americanenglish.state.gov/four-skills-resources</a><br><a target="_blank" rel="noopener" href="https://basicenglishspeaking.com/">https://basicenglishspeaking.com/</a><br><a target="_blank" rel="noopener" href="https://www.rong-chang.com/">https://www.rong-chang.com/</a><br><a target="_blank" rel="noopener" href="https://www.real-english.com/reo/">https://www.real-english.com/reo/</a><br><a target="_blank" rel="noopener" href="https://trailers.apple.com/">https://trailers.apple.com/</a><br><a target="_blank" rel="noopener" href="https://www.imdb.com/">https://www.imdb.com/</a><br><a target="_blank" rel="noopener" href="https://www.rottentomatoes.com/">https://www.rottentomatoes.com/</a><br><a target="_blank" rel="noopener" href="https://www.commonsensemedia.org/">https://www.commonsensemedia.org/</a> </p>
+<h1 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h1><p><a target="_blank" rel="noopener" href="https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate">https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate</a><br><a target="_blank" rel="noopener" href="https://www.englishclub.com/grammar/">https://www.englishclub.com/grammar/</a><br><a target="_blank" rel="noopener" href="https://dictionary.cambridge.org/grammar/british-grammar/">https://dictionary.cambridge.org/grammar/british-grammar/</a><br><a target="_blank" rel="noopener" href="http://guidetogrammar.org/grammar/">http://guidetogrammar.org/grammar/</a><br><a target="_blank" rel="noopener" href="https://www.tolearnenglish.com/cgi2/myexam/">https://www.tolearnenglish.com/cgi2/myexam/</a><br><a target="_blank" rel="noopener" href="https://www.thoughtco.com/">https://www.thoughtco.com/</a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2021/07/26/2/" data-id="ckrslay9x0001cs3wcbov9yrg" data-title="Prepare of Englsih study" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/English/" rel="tag">English</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-3" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/07/22/3/" class="article-date">
+  <time class="dt-published" datetime="2021-07-22T05:35:55.453Z" itemprop="datePublished">2021-07-22</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/Languages/">Languages</a>►<a class="article-category-link" href="/categories/Languages/English/">English</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
         
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/links/">
-                <i class="iconfont icon-link-fill"></i>
-                Links
-              </a>
-            </li>
-          
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/2021/07/22/3/">English vs Me</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id=""><a href="#" class="headerlink" title=""></a></h1><div class="note note-success">
+            <p>第一阶段：音标</p>
+          </div>
+
+<table>
+<thead>
+<tr>
+<th align="center">i</th>
+<th align="center">I</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">me</td>
+<td align="center">pick</td>
+</tr>
+<tr>
+<td align="center">lee</td>
+<td align="center">lick</td>
+</tr>
+<tr>
+<td align="center">key</td>
+<td align="center">fit</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">ʌ</th>
+<th align="center">ɑ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">cup</td>
+<td align="center">hot</td>
+</tr>
+<tr>
+<td align="center">bug</td>
+<td align="center">cot</td>
+</tr>
+<tr>
+<td align="center">uncle</td>
+<td align="center">cop</td>
+</tr>
+</tbody></table>
+<table>
+<thead>
+<tr>
+<th align="center">æ</th>
+<th align="center">ɛ</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">cap</td>
+<td align="center">spell</td>
+</tr>
+<tr>
+<td align="center">bag</td>
+<td align="center">rest</td>
+</tr>
+<tr>
+<td align="center">ankle</td>
+<td align="center">pen</td>
+</tr>
+</tbody></table>
+<p>ɔ law also order toward</p>
+<p>ə away today was</p>
+<p>u choose food too </p>
+<p>ɜ】=【ɹ】=【ɜɹ】</p>
+<p>ʊ cook wood could</p>
+<p>发生了一点小意外 高考快到了 先应试重要些吧Text：<a target="_blank" rel="noopener" href="https://zhuanlan.zhihu.com/p/379630131">https://zhuanlan.zhihu.com/p/379630131</a></p>
+<p>Video：<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV16w411Z7x4?from=search&amp;seid=6599110246330753850">https://www.bilibili.com/video/BV16w411Z7x4?from=search&amp;seid=6599110246330753850</a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2021/07/22/3/" data-id="ckrvjlmil0000e03wact592p6" data-title="English vs Me" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/English/" rel="tag">English</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-1" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/07/10/1/" class="article-date">
+  <time class="dt-published" datetime="2021-07-10T07:09:15.051Z" itemprop="datePublished">2021-07-10</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E4%BF%A1%E6%81%AF/">信息</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
         
-          
-          
-          
-          
-            <li class="nav-item">
-              <a class="nav-link" href="/about/">
-                <i class="iconfont icon-user-fill"></i>
-                About
-              </a>
-            </li>
-          
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/2021/07/10/1/">Links的整理</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
+        <h1 id="Books"><a href="#Books" class="headerlink" title="Books"></a>Books</h1><p><a target="_blank" rel="noopener" href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a target="_blank" rel="noopener" href="https://epub.yunser.com/">https://epub.yunser.com/</a><br><a target="_blank" rel="noopener" href="https://4lib.org/">https://4lib.org/</a><br><a target="_blank" rel="noopener" href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a target="_blank" rel="noopener" href="https://www.kepub.net/">https://www.kepub.net/</a><br><a target="_blank" rel="noopener" href="http://book.sbkk8.com/">http://book.sbkk8.com/</a><br><a target="_blank" rel="noopener" href="https://www.cdstm.cn/">https://www.cdstm.cn/</a><br><a target="_blank" rel="noopener" href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a></p>
+<h1 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h1><p><a target="_blank" rel="noopener" href="https://www.mathsisfun.com/">https://www.mathsisfun.com/</a><br><a target="_blank" rel="noopener" href="https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12">https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12</a></p>
+<h1 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h1><p><a target="_blank" rel="noopener" href="https://www.mvyxws.com/">https://www.mvyxws.com</a></p>
+<h1 id="心理"><a href="#心理" class="headerlink" title="心理"></a>心理</h1><p><a target="_blank" rel="noopener" href="http://www.ixinqing.com/">http://www.ixinqing.com</a></p>
+<h1 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h1><h2 id="文件转换"><a href="#文件转换" class="headerlink" title="文件转换"></a>文件转换</h2><p><a target="_blank" rel="noopener" href="https://convertio.co/zh/">https://convertio.co/zh/</a></p>
+<h1 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h1><h2 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h2><p><a target="_blank" rel="noopener" href="https://www.erin.jpf.go.jp/">https://www.erin.jpf.go.jp/</a></p>
+<h2 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h2><p><a target="_blank" rel="noopener" href="https://v.qq.com/detail/p/p480bntahwv4qe1.html">https://v.qq.com/detail/p/p480bntahwv4qe1.html</a></p>
+<h1 id="体育"><a href="#体育" class="headerlink" title="体育"></a>体育</h1><p><a target="_blank" rel="noopener" href="https://www.nike.com/cn/stories">https://www.nike.com/cn/stories</a><br><a target="_blank" rel="noopener" href="https://book.douban.com/subject/27126696/">https://book.douban.com/subject/27126696/</a></p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2021/07/10/1/" data-id="ckrslay9p0000cs3wcmjl7otk" data-title="Links的整理" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Link/" rel="tag">Link</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+    <article id="post-hello-world" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+  <div class="article-meta">
+    <a href="/2021/06/11/hello-world/" class="article-date">
+  <time class="dt-published" datetime="2021-06-11T15:15:41.248Z" itemprop="datePublished">2021-06-11</time>
+</a>
+    
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/About/">About</a>
+  </div>
+
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
         
-          
-          
-          
-          
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" target="_self" role="button"
-                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <i class="iconfont icon-books"></i>
-                Others
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                
-                  
-                  
-                  
-                  <a class="dropdown-item" href="/archives/">
-                    
-                    <center>Post</center>
-                  </a>
-                
-                  
-                  
-                  
-                  <a class="dropdown-item" href="/pic">
-                    
-                    <center>Picture</center>
-                  </a>
-                
-                  
-                  
-                  
-                  <a class="dropdown-item" href="/movies">
-                    
-                    <center>Movies</center>
-                  </a>
-                
-                  
-                  
-                  
-                  <a class="dropdown-item" href="/books">
-                    
-                    <center>Books</center>
-                  </a>
-                
-              </div>
-            </li>
-          
+  
+    <h1 itemprop="name">
+      <a class="p-name article-title" href="/2021/06/11/hello-world/">Damn Damn Damn</a>
+    </h1>
+  
+
+      </header>
+    
+    <div class="e-content article-entry" itemprop="articleBody">
+      
         
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://example.com/2021/06/11/hello-world/" data-id="ckpsh5hdb0000ek3w1xti4vg4" data-title="Damn Damn Damn" class="article-share-link">Share</a>
+      
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Birthday/" rel="tag">Birthday</a></li></ul>
+
+    </footer>
+  </div>
+  
+</article>
+
+
+
+  
+
+
+</section>
         
-          <li class="nav-item" id="search-btn">
-            <a class="nav-link" target="_self" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
-                class="iconfont icon-search"></i>&nbsp;</a>
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/About/">About</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/Languages/">Languages</a><ul class="category-list-child"><li class="category-list-item"><a class="category-list-link" href="/categories/Languages/English/">English</a></li></ul></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/">不可磨灭</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E4%BF%A1%E6%81%AF/">信息</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Birthday/" rel="tag">Birthday</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/English/" rel="tag">English</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Hero/" rel="tag">Hero</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Link/" rel="tag">Link</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Opinion/" rel="tag">Opinion</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/Birthday/" style="font-size: 10px;">Birthday</a> <a href="/tags/English/" style="font-size: 20px;">English</a> <a href="/tags/Hero/" style="font-size: 10px;">Hero</a> <a href="/tags/Link/" style="font-size: 10px;">Link</a> <a href="/tags/Opinion/" style="font-size: 10px;">Opinion</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/08/">August 2021</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/07/">July 2021</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/06/">June 2021</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2021/08/09/5/">一个想法</a>
           </li>
         
+          <li>
+            <a href="/2021/08/09/4/">Rita Hayworth</a>
+          </li>
         
-          <li class="nav-item" id="color-toggle-btn">
-            <a class="nav-link" target="_self">&nbsp;<i
-                class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
+          <li>
+            <a href="/2021/07/26/2/">Prepare of Englsih study</a>
+          </li>
+        
+          <li>
+            <a href="/2021/07/22/3/">English vs Me</a>
+          </li>
+        
+          <li>
+            <a href="/2021/07/10/1/">Links的整理</a>
           </li>
         
       </ul>
     </div>
   </div>
-</nav>
 
-    <div class="banner" id="banner" parallax=true
-         style="background: url('https://static01.imgkr.com/temp/954ca58e657c498c9ce1350e70503ee0.jpg') no-repeat center center;
-           background-size: cover;">
-      <div class="full-bg-img">
-        <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
-          <div class="page-header text-center fade-in-up">
-            <span class="h2" id="subtitle" title="山高仰止 景行景止">
-              
-            </span>
-
-            
-          </div>
-
-          
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <main>
-    
-      <div class="container nopadding-x-md">
-        <div class="py-5" id="board"
-          >
-          
-          <div class="container">
-            <div class="row">
-              <div class="col-12 col-md-10 m-auto">
-                
-
-
-  <div class="row mx-auto index-card">
-    
-    
-      <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2021/08/09/5/" target="_self">
-          <img src="https://static01.imgkr.com/temp/954ca58e657c498c9ce1350e70503ee0.jpg" srcset="/img/loading.gif" lazyload alt="一个想法">
-        </a>
-      </div>
-    
-    <article class="col-12 col-md-8 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2021/08/09/5/" target="_self">
-          一个想法
-        </a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2021/08/09/5/" target="_self">
-          
-          
-            
-          
-          信息流程链：生产者消费者渠道：窃取（爬虫）知识付费以后信息孤岛化的时代 要求着我们必须自身成为一个高级知识生产者 不断生产消费做个爬虫 
-
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2021-08-09 13:07" pubdate>
-              2021-08-09
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/About/">About</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/Opinion/">Opinion</a>
-            
-          </div>
+  
+</aside>
         
       </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-      <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2021/08/09/4/" target="_self">
-          <img src="https://static01.imgkr.com/temp/954ca58e657c498c9ce1350e70503ee0.jpg" srcset="/img/loading.gif" lazyload alt="Rita Hayworth">
-        </a>
-      </div>
-    
-    <article class="col-12 col-md-8 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2021/08/09/4/" target="_self">
-          Rita Hayworth
-        </a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2021/08/09/4/" target="_self">
-          
-          
-            
-          
-          
-
-
-
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2021-08-09 09:59" pubdate>
-              2021-08-09
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/">不可磨灭</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/Hero/">Hero</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-      <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2021/07/26/2/" target="_self">
-          <img src="https://static01.imgkr.com/temp/954ca58e657c498c9ce1350e70503ee0.jpg" srcset="/img/loading.gif" lazyload alt="Prepare of Englsih study">
-        </a>
-      </div>
-    
-    <article class="col-12 col-md-8 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2021/07/26/2/" target="_self">
-          Prepare of Englsih study
-        </a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2021/07/26/2/" target="_self">
-          
-          
-            
-          
-          
-运动
-
-English is What
-
-
-发音音标https://www.bilibili.com/video/BV1Q64y1t7Ashttps://www.bilibili.com/video/BV1Sg411T7bkhttps://space.bilibili.com/631186842/channel/index
-技巧https://www.bilibili.com/video/BV1
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2021-07-26 09:48" pubdate>
-              2021-07-26
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/Languages/">Languages</a>
-            
-              <a href="/categories/Languages/English/">English</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/English/">English</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-      <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2021/07/22/3/" target="_self">
-          <img src="https://static01.imgkr.com/temp/954ca58e657c498c9ce1350e70503ee0.jpg" srcset="/img/loading.gif" lazyload alt="English vs Me">
-        </a>
-      </div>
-    
-    <article class="col-12 col-md-8 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2021/07/22/3/" target="_self">
-          English vs Me
-        </a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2021/07/22/3/" target="_self">
-          
-          
-            
-          
-          
-            第一阶段：音标
-          
-
-
-
-
-i
-I
-
-
-
-me
-pick
-
-
-lee
-lick
-
-
-key
-fit
-
-
-
-
-
-ʌ
-ɑ
-
-
-
-cup
-hot
-
-
-bug
-cot
-
-
-uncle
-cop
-
-
-
-
-
-æ
-ɛ
-
-
-
-cap
-spell
-
-
-bag
-rest
-
-
-ankle
-pen
-
-
-ɔ law also order toward
-ə away today wa
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2021-07-22 13:35" pubdate>
-              2021-07-22
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/Languages/">Languages</a>
-            
-              <a href="/categories/Languages/English/">English</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/English/">English</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-      <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2021/07/10/1/" target="_self">
-          <img src="https://static01.imgkr.com/temp/954ca58e657c498c9ce1350e70503ee0.jpg" srcset="/img/loading.gif" lazyload alt="Links的整理">
-        </a>
-      </div>
-    
-    <article class="col-12 col-md-8 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2021/07/10/1/" target="_self">
-          Links的整理
-        </a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2021/07/10/1/" target="_self">
-          
-          
-            
-          
-          Bookshttps://www.neat-reader.cn/webapp#/https://epub.yunser.com/https://4lib.org/https://xmsoushu.com/#/https://www.kepub.net/http://book.sbkk8.com/https://www.cdstm.cn/http://shuxiangjia.cn/
-数学https:
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2021-07-10 15:09" pubdate>
-              2021-07-10
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/%E4%BF%A1%E6%81%AF/">信息</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/Link/">Link</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-  <div class="row mx-auto index-card">
-    
-    
-      <div class="col-12 col-md-4 m-auto index-img">
-        <a href="/2021/06/11/hello-world/" target="_self">
-          <img src="https://static01.imgkr.com/temp/954ca58e657c498c9ce1350e70503ee0.jpg" srcset="/img/loading.gif" lazyload alt="Damn Damn Damn">
-        </a>
-      </div>
-    
-    <article class="col-12 col-md-8 mx-auto index-info">
-      <h1 class="index-header">
-        
-        <a href="/2021/06/11/hello-world/" target="_self">
-          Damn Damn Damn
-        </a>
-      </h1>
-
-      <p class="index-excerpt">
-        <a href="/2021/06/11/hello-world/" target="_self">
-          
-          
-            
-          
-          
-        </a>
-      </p>
-
-      <div class="index-btm post-metas">
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-date"></i>
-            <time datetime="2021-06-11 23:15" pubdate>
-              2021-06-11
-            </time>
-          </div>
-        
-        
-          <div class="post-meta mr-3">
-            <i class="iconfont icon-category"></i>
-            
-              <a href="/categories/About/">About</a>
-            
-          </div>
-        
-        
-          <div class="post-meta">
-            <i class="iconfont icon-tags"></i>
-            
-              <a href="/tags/Birthday/">Birthday</a>
-            
-          </div>
-        
-      </div>
-    </article>
-  </div>
-
-
-
-
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    
-
-    
-      <a id="scroll-top-button" href="#" role="button">
-        <i class="iconfont icon-arrowup" aria-hidden="true"></i>
-      </a>
-    
-
-    
-      <div class="modal fade" id="modalSearch" tabindex="-1" role="dialog" aria-labelledby="ModalLabel"
-     aria-hidden="true">
-  <div class="modal-dialog modal-dialog-scrollable modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header text-center">
-        <h4 class="modal-title w-100 font-weight-bold">Search</h4>
-        <button type="button" id="local-search-close" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body mx-3">
-        <div class="md-form mb-5">
-          <input type="text" id="local-search-input" class="form-control validate">
-          <label data-error="x" data-success="v"
-                 for="local-search-input">keyword</label>
-        </div>
-        <div class="list-group" id="local-search-result"></div>
-      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      
+      &copy; 2021 风<br>
+      Powered by <a href="https://hexo.io/" target="_blank">Hexo</a>
     </div>
   </div>
-</div>
-    
-
-    
-  </main>
-
-  <footer class="text-center mt-5 py-3">
-  <div class="footer-content">
-     <a href="/about" target="_blank" rel="nofollow noopener"><span>   </span></a> 
-  </div>
-  
-
-  
-
-  
 </footer>
 
-
-  <!-- SCRIPTS -->
+    </div>
+    <nav id="mobile-nav">
   
-  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
-  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
-
-  <script>
-    NProgress.configure({"showSpinner":false,"trickleSpeed":100})
-    NProgress.start()
-    window.addEventListener('load', function() {
-      NProgress.done();
-    })
-  </script>
-
-
-<script  src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" ></script>
-<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" ></script>
-<script  src="/js/events.js" ></script>
-<script  src="/js/plugins.js" ></script>
-
-<!-- Plugins -->
-
-
+    <a href="/" class="mobile-nav-link">Home</a>
   
-    <script  src="/js/img-lazyload.js" ></script>
+    <a href="/archives" class="mobile-nav-link">Archives</a>
   
+</nav>
+    
+
+
+<script src="/js/jquery-3.4.1.min.js"></script>
 
 
 
   
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/script.js"></script>
 
 
 
 
 
-
-
-
-
-  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.8/dist/clipboard.min.js" ></script>
-
-
-
-  <script  src="/js/local-search.js" ></script>
-
-
-
-
-
-
-  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12/lib/typed.min.js" ></script>
-  <script>
-    (function (window, document) {
-      var typing = Fluid.plugins.typing;
-      var title = document.getElementById('subtitle').title;
-      
-      typing(title)
-      
-    })(window, document);
-  </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- 主题的启动项 保持在最底部 -->
-<script  src="/js/boot.js" ></script>
-
-
+  </div>
 </body>
 </html>
