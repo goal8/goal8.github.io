@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-09T23:31:38.901Z</updated>
+  <updated>2021-08-11T09:09:21.665Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>动机模型</title>
+    <link href="http://example.com/2021/08/11/7/"/>
+    <id>http://example.com/2021/08/11/7/</id>
+    <published>2021-08-11T09:06:24.000Z</published>
+    <updated>2021-08-11T09:09:21.665Z</updated>
+    
+    <content type="html"><![CDATA[<p>弱者只有俯首称臣<br>好奇 这世界本来就是这样妈<br>欲望 美好事物</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;弱者只有俯首称臣&lt;br&gt;好奇 这世界本来就是这样妈&lt;br&gt;欲望 美好事物&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于我生命中的意义</title>
     <link href="http://example.com/2021/08/10/6/"/>
     <id>http://example.com/2021/08/10/6/</id>
     <published>2021-08-09T16:43:30.000Z</published>
-    <updated>2021-08-09T23:31:38.901Z</updated>
+    <updated>2021-08-10T01:12:48.596Z</updated>
     
     <content type="html"><![CDATA[<p>死亡恐惧<br>美好事物<br>世界虚无</p>]]></content>
     
@@ -42,23 +67,24 @@
   </entry>
   
   <entry>
-    <title>一个想法</title>
+    <title>信息孤岛化自我应对</title>
     <link href="http://example.com/2021/08/09/5/"/>
     <id>http://example.com/2021/08/09/5/</id>
     <published>2021-08-09T05:07:32.000Z</published>
-    <updated>2021-08-09T05:11:13.401Z</updated>
+    <updated>2021-08-11T09:11:24.017Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>信息流程链：<br>生产者<br>消费者<br>渠道：窃取（爬虫）<br>知识付费<br>以后信息孤岛化的时代 要求着我们必须自身成为一个高级知识生产者 不断生产消费<br>做个爬虫 </p>]]></content>
+    <content type="html"><![CDATA[<p>信息流程链：<br>生产者<br>消费者<br>渠道：窃取（爬虫）<br>知识付费<br>以后信息孤岛化的时代 要求着我们必须自身成为一个高级知识生产者 不断生产消费<br>做个爬虫 </p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;p&gt;信息流程链：&lt;br&gt;生产者&lt;br&gt;消费者&lt;br&gt;渠道：窃取（爬虫）&lt;br&gt;知识付费&lt;br&gt;以后信息孤岛化的时代 要求着我们必须自身成为一个高级知识生产者 不断生产消费&lt;br&gt;做个爬虫 &lt;/p&gt;
+</summary>
       
     
     
     
-    <category term="About" scheme="http://example.com/categories/About/"/>
+    <category term="Information" scheme="http://example.com/categories/Information/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -146,19 +172,19 @@
     <link href="http://example.com/2021/07/10/1/"/>
     <id>http://example.com/2021/07/10/1/</id>
     <published>2021-07-10T07:09:15.051Z</published>
-    <updated>2021-08-09T05:31:27.242Z</updated>
+    <updated>2021-08-11T09:11:39.293Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h1 id="Books"><a href="#Books" class="headerlink" title="Books"></a>Books</h1><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a><br><a href="https://4lib.org/">https://4lib.org/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="https://www.kepub.net/">https://www.kepub.net/</a><br><a href="http://book.sbkk8.com/">http://book.sbkk8.com/</a><br><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a></p><h1 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h1><p><a href="https://www.mathsisfun.com/">https://www.mathsisfun.com/</a><br><a href="https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12">https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12</a></p><h1 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h1><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com</a></p><h1 id="心理"><a href="#心理" class="headerlink" title="心理"></a>心理</h1><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com</a></p><h1 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h1><h2 id="文件转换"><a href="#文件转换" class="headerlink" title="文件转换"></a>文件转换</h2><p><a href="https://convertio.co/zh/">https://convertio.co/zh/</a></p><h1 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h1><h2 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h2><p><a href="https://www.erin.jpf.go.jp/">https://www.erin.jpf.go.jp/</a></p><h2 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h2><p><a href="https://v.qq.com/detail/p/p480bntahwv4qe1.html">https://v.qq.com/detail/p/p480bntahwv4qe1.html</a></p><h1 id="体育"><a href="#体育" class="headerlink" title="体育"></a>体育</h1><p><a href="https://www.nike.com/cn/stories">https://www.nike.com/cn/stories</a><br><a href="https://book.douban.com/subject/27126696/">https://book.douban.com/subject/27126696/</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Books"><a href="#Books" class="headerlink" title="Books"></a>Books</h1><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a><br><a href="https://4lib.org/">https://4lib.org/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="https://www.kepub.net/">https://www.kepub.net/</a><br><a href="http://book.sbkk8.com/">http://book.sbkk8.com/</a><br><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a></p><h1 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h1><p><a href="https://www.mathsisfun.com/">https://www.mathsisfun.com/</a><br><a href="https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12">https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12</a></p><h1 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h1><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com</a></p><h1 id="心理"><a href="#心理" class="headerlink" title="心理"></a>心理</h1><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com</a></p><h1 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h1><h2 id="文件转换"><a href="#文件转换" class="headerlink" title="文件转换"></a>文件转换</h2><p><a href="https://convertio.co/zh/">https://convertio.co/zh/</a></p><h1 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h1><h2 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h2><p><a href="https://www.erin.jpf.go.jp/">https://www.erin.jpf.go.jp/</a></p><h2 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h2><p><a href="https://v.qq.com/detail/p/p480bntahwv4qe1.html">https://v.qq.com/detail/p/p480bntahwv4qe1.html</a></p><h1 id="体育"><a href="#体育" class="headerlink" title="体育"></a>体育</h1><p><a href="https://www.nike.com/cn/stories">https://www.nike.com/cn/stories</a><br><a href="https://book.douban.com/subject/27126696/">https://book.douban.com/subject/27126696/</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;h1 id=&quot;Books&quot;&gt;&lt;a href=&quot;#Books&quot; class=&quot;headerlink&quot; title=&quot;Books&quot;&gt;&lt;/a&gt;Books&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.neat-reader.cn/webapp#/&quot;&gt;https://www.</summary>
       
     
     
     
-    <category term="信息" scheme="http://example.com/categories/%E4%BF%A1%E6%81%AF/"/>
+    <category term="Information" scheme="http://example.com/categories/Information/"/>
     
     
     <category term="Link" scheme="http://example.com/tags/Link/"/>
