@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-11T16:09:44.441Z</updated>
+  <updated>2021-08-12T15:54:05.854Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,33 +17,101 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>建模步骤</title>
-    <link href="http://example.com/2021/08/11/9/"/>
-    <id>http://example.com/2021/08/11/9/</id>
-    <published>2021-08-11T15:08:11.000Z</published>
-    <updated>2021-08-11T16:09:44.441Z</updated>
+    <title>毛润之</title>
+    <link href="http://example.com/2021/08/12/10/"/>
+    <id>http://example.com/2021/08/12/10/</id>
+    <published>2021-08-12T15:14:17.000Z</published>
+    <updated>2021-08-12T15:54:05.854Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="观察"><a href="#观察" class="headerlink" title="观察"></a>观察</h2><h2 id="实验"><a href="#实验" class="headerlink" title="实验"></a>实验</h2><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><h2 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h2>]]></content>
+    
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    
+    <category term="Hero" scheme="http://example.com/tags/Hero/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Turkey</title>
+    <link href="http://example.com/2021/08/12/9/"/>
+    <id>http://example.com/2021/08/12/9/</id>
+    <published>2021-08-12T15:14:13.000Z</published>
+    <updated>2021-08-12T15:27:19.004Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV19E411k7SA&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;观察&quot;&gt;&lt;a href=&quot;#观察&quot; class=&quot;headerlink&quot; title=&quot;观察&quot;&gt;&lt;/a&gt;观察&lt;/h2&gt;&lt;h2 id=&quot;实验&quot;&gt;&lt;a href=&quot;#实验&quot; class=&quot;headerlink&quot; title=&quot;实验&quot;&gt;&lt;/a&gt;实验&lt;/h2&gt;&lt;h2 id</summary>
+    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
+&lt;iframe style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot; src=&quot;//p</summary>
       
     
     
     
-    <category term="Information" scheme="http://example.com/categories/Information/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
     
     
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    <category term="Place" scheme="http://example.com/tags/Place/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>冰岛</title>
+    <link href="http://example.com/2021/08/12/8/"/>
+    <id>http://example.com/2021/08/12/8/</id>
+    <published>2021-08-12T15:14:09.000Z</published>
+    <updated>2021-08-12T15:18:18.186Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV1iT4y1F7at&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
+&lt;iframe style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot; src=&quot;//p</summary>
+      
+    
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    
+    <category term="Place" scheme="http://example.com/tags/Place/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Switzerlan</title>
+    <link href="http://example.com/2021/08/12/7/"/>
+    <id>http://example.com/2021/08/12/7/</id>
+    <published>2021-08-12T15:07:27.000Z</published>
+    <updated>2021-08-12T15:13:46.429Z</updated>
+    
+    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV1YJ411H7sr&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
+&lt;iframe style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot; src=&quot;//p</summary>
+      
+    
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    
+    <category term="Place" scheme="http://example.com/tags/Place/"/>
     
   </entry>
   
   <entry>
     <title>To be or not to be</title>
-    <link href="http://example.com/2021/08/11/8/"/>
-    <id>http://example.com/2021/08/11/8/</id>
+    <link href="http://example.com/2021/08/11/6/"/>
+    <id>http://example.com/2021/08/11/6/</id>
     <published>2021-08-11T09:28:01.000Z</published>
     <updated>2021-08-11T09:42:18.400Z</updated>
     
@@ -66,60 +134,20 @@
   </entry>
   
   <entry>
-    <title>建模欲望</title>
-    <link href="http://example.com/2021/08/11/7/"/>
-    <id>http://example.com/2021/08/11/7/</id>
-    <published>2021-08-11T09:06:24.000Z</published>
-    <updated>2021-08-11T16:13:10.138Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="好奇心"><a href="#好奇心" class="headerlink" title="好奇心"></a>好奇心</h2><h2 id="情绪"><a href="#情绪" class="headerlink" title="情绪"></a>情绪</h2><h2 id="动机"><a href="#动机" class="headerlink" title="动机"></a>动机</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;好奇心&quot;&gt;&lt;a href=&quot;#好奇心&quot; class=&quot;headerlink&quot; title=&quot;好奇心&quot;&gt;&lt;/a&gt;好奇心&lt;/h2&gt;&lt;h2 id=&quot;情绪&quot;&gt;&lt;a href=&quot;#情绪&quot; class=&quot;headerlink&quot; title=&quot;情绪&quot;&gt;&lt;/a&gt;情绪&lt;/h2&gt;&lt;h</summary>
-      
-    
-    
-    
-    <category term="Information" scheme="http://example.com/categories/Information/"/>
-    
-    
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>建模材料</title>
-    <link href="http://example.com/2021/08/10/6/"/>
-    <id>http://example.com/2021/08/10/6/</id>
-    <published>2021-08-09T16:43:30.000Z</published>
-    <updated>2021-08-11T16:16:03.635Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="生产者"><a href="#生产者" class="headerlink" title="生产者"></a>生产者</h2><h2 id="链条"><a href="#链条" class="headerlink" title="链条"></a>链条</h2><h2 id="消费者"><a href="#消费者" class="headerlink" title="消费者"></a>消费者</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;生产者&quot;&gt;&lt;a href=&quot;#生产者&quot; class=&quot;headerlink&quot; title=&quot;生产者&quot;&gt;&lt;/a&gt;生产者&lt;/h2&gt;&lt;h2 id=&quot;链条&quot;&gt;&lt;a href=&quot;#链条&quot; class=&quot;headerlink&quot; title=&quot;链条&quot;&gt;&lt;/a&gt;链条&lt;/h2&gt;&lt;h</summary>
-      
-    
-    
-    
-    <category term="Information" scheme="http://example.com/categories/Information/"/>
-    
-    
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
     <title>需要做的一些事</title>
     <link href="http://example.com/2021/08/09/5/"/>
     <id>http://example.com/2021/08/09/5/</id>
     <published>2021-08-09T05:07:32.000Z</published>
-    <updated>2021-08-11T16:21:45.226Z</updated>
+    <updated>2021-08-12T15:37:09.156Z</updated>
     
+    <content type="html"><![CDATA[<p>学好很多的专业</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;学好很多的专业&lt;/p&gt;
+</summary>
+      
     
     
     
@@ -159,27 +187,25 @@
     <link href="http://example.com/2021/07/26/2/"/>
     <id>http://example.com/2021/07/26/2/</id>
     <published>2021-07-26T01:48:12.237Z</published>
-    <updated>2021-08-11T16:45:00.063Z</updated>
+    <updated>2021-08-12T15:53:14.418Z</updated>
     
-    <content type="html"><![CDATA[<p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">运动<br>English is What</p><h1 id="发音"><a href="#发音" class="headerlink" title="发音"></a>发音</h1><h2 id="音标"><a href="#音标" class="headerlink" title="音标"></a>音标</h2><p><a href="https://www.bilibili.com/video/BV1Q64y1t7As">https://www.bilibili.com/video/BV1Q64y1t7As</a><br><a href="https://www.bilibili.com/video/BV1Sg411T7bk">https://www.bilibili.com/video/BV1Sg411T7bk</a><br><a href="https://space.bilibili.com/631186842/channel/index">https://space.bilibili.com/631186842/channel/index</a></p><h2 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h2><p><a href="https://www.bilibili.com/video/BV1U54y1m767">https://www.bilibili.com/video/BV1U54y1m767</a><br><a href="https://www.bilibili.com/video/BV16C4y1t7jz">https://www.bilibili.com/video/BV16C4y1t7jz</a><br><a href="https://translate.google.cn/">https://translate.google.cn/</a></p><h1 id="语料"><a href="#语料" class="headerlink" title="语料"></a>语料</h1><p><a href="https://americanenglish.state.gov/four-skills-resources">https://americanenglish.state.gov/four-skills-resources</a><br><a href="https://basicenglishspeaking.com/">https://basicenglishspeaking.com/</a><br><a href="https://www.rong-chang.com/">https://www.rong-chang.com/</a><br><a href="https://www.real-english.com/reo/">https://www.real-english.com/reo/</a><br><a href="https://trailers.apple.com/">https://trailers.apple.com/</a><br><a href="https://www.imdb.com/">https://www.imdb.com/</a><br><a href="https://www.rottentomatoes.com/">https://www.rottentomatoes.com/</a><br><a href="https://www.commonsensemedia.org/">https://www.commonsensemedia.org/</a> </p><h1 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h1><p><a href="https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate">https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate</a><br><a href="https://www.englishclub.com/grammar/">https://www.englishclub.com/grammar/</a><br><a href="https://dictionary.cambridge.org/grammar/british-grammar/">https://dictionary.cambridge.org/grammar/british-grammar/</a><br><a href="http://guidetogrammar.org/grammar/">http://guidetogrammar.org/grammar/</a><br><a href="https://www.tolearnenglish.com/cgi2/myexam/">https://www.tolearnenglish.com/cgi2/myexam/</a><br><a href="https://www.thoughtco.com/">https://www.thoughtco.com/</a></p><h1 id="综合"><a href="#综合" class="headerlink" title="综合"></a>综合</h1><p><a href="https://zh.englishcentral.com/myenglish/myfeed?setLanguage=zh">https://zh.englishcentral.com/myenglish/myfeed?setLanguage=zh</a></p>]]></content>
+    <content type="html"><![CDATA[<p style="text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;">英语<br>传播范围最广的方言</p><h1 id="发音"><a href="#发音" class="headerlink" title="发音"></a>发音</h1><h2 id="音标"><a href="#音标" class="headerlink" title="音标"></a>音标</h2><p><a href="https://www.bilibili.com/video/BV1Q64y1t7As">https://www.bilibili.com/video/BV1Q64y1t7As</a><br><a href="https://www.bilibili.com/video/BV1Sg411T7bk">https://www.bilibili.com/video/BV1Sg411T7bk</a><br><a href="https://space.bilibili.com/631186842/channel/index">https://space.bilibili.com/631186842/channel/index</a></p><h2 id="技巧"><a href="#技巧" class="headerlink" title="技巧"></a>技巧</h2><p><a href="https://www.bilibili.com/video/BV1U54y1m767">https://www.bilibili.com/video/BV1U54y1m767</a><br><a href="https://www.bilibili.com/video/BV16C4y1t7jz">https://www.bilibili.com/video/BV16C4y1t7jz</a><br><a href="https://translate.google.cn/">https://translate.google.cn/</a></p><h1 id="语料"><a href="#语料" class="headerlink" title="语料"></a>语料</h1><p><a href="https://americanenglish.state.gov/four-skills-resources">https://americanenglish.state.gov/four-skills-resources</a><br><a href="https://basicenglishspeaking.com/">https://basicenglishspeaking.com/</a><br><a href="https://www.rong-chang.com/">https://www.rong-chang.com/</a><br><a href="https://www.real-english.com/reo/">https://www.real-english.com/reo/</a><br><a href="https://trailers.apple.com/">https://trailers.apple.com/</a><br><a href="https://www.imdb.com/">https://www.imdb.com/</a><br><a href="https://www.rottentomatoes.com/">https://www.rottentomatoes.com/</a><br><a href="https://www.commonsensemedia.org/">https://www.commonsensemedia.org/</a> </p><h1 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h1><p><a href="https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate">https://learnenglish.britishcouncil.org/grammar/intermediate-to-upper-intermediate</a><br><a href="https://www.englishclub.com/grammar/">https://www.englishclub.com/grammar/</a><br><a href="https://dictionary.cambridge.org/grammar/british-grammar/">https://dictionary.cambridge.org/grammar/british-grammar/</a><br><a href="http://guidetogrammar.org/grammar/">http://guidetogrammar.org/grammar/</a><br><a href="https://www.tolearnenglish.com/cgi2/myexam/">https://www.tolearnenglish.com/cgi2/myexam/</a><br><a href="https://www.thoughtco.com/">https://www.thoughtco.com/</a></p><h1 id="综合"><a href="#综合" class="headerlink" title="综合"></a>综合</h1><p><a href="https://zh.englishcentral.com/myenglish/myfeed?setLanguage=zh">https://zh.englishcentral.com/myenglish/myfeed?setLanguage=zh</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p style=&quot;text-align:center;color:#8EC0E4;font-size:1.5em;font-weight: bold;&quot;&gt;
-运动
+英语
 &lt;br&gt;
-English is What
+传播范围最广的方言
 &lt;/p&gt;
 
-&lt;h1 id=&quot;发音&quot;&gt;&lt;a href=&quot;#发音&quot; class</summary>
+&lt;h1 id=&quot;发音&quot;&gt;&lt;a href=&quot;#发音&quot; class=&quot;head</summary>
       
     
     
     
     <category term="Plans" scheme="http://example.com/categories/Plans/"/>
-    
-    <category term="English" scheme="http://example.com/categories/Plans/English/"/>
     
     
     <category term="English" scheme="http://example.com/tags/English/"/>
@@ -187,32 +213,19 @@ English is What
   </entry>
   
   <entry>
-    <title>English vs Me</title>
+    <title>Geography</title>
     <link href="http://example.com/2021/07/22/3/"/>
     <id>http://example.com/2021/07/22/3/</id>
     <published>2021-07-22T05:35:55.453Z</published>
-    <updated>2021-08-11T16:21:10.579Z</updated>
+    <updated>2021-08-12T17:00:34.802Z</updated>
     
-    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><div class="note note-success">            <p>第一阶段：音标</p>          </div><table><thead><tr><th align="center">i</th><th align="center">I</th></tr></thead><tbody><tr><td align="center">me</td><td align="center">pick</td></tr><tr><td align="center">lee</td><td align="center">lick</td></tr><tr><td align="center">key</td><td align="center">fit</td></tr></tbody></table><table><thead><tr><th align="center">ʌ</th><th align="center">ɑ</th></tr></thead><tbody><tr><td align="center">cup</td><td align="center">hot</td></tr><tr><td align="center">bug</td><td align="center">cot</td></tr><tr><td align="center">uncle</td><td align="center">cop</td></tr></tbody></table><table><thead><tr><th align="center">æ</th><th align="center">ɛ</th></tr></thead><tbody><tr><td align="center">cap</td><td align="center">spell</td></tr><tr><td align="center">bag</td><td align="center">rest</td></tr><tr><td align="center">ankle</td><td align="center">pen</td></tr></tbody></table><p>ɔ law also order toward</p><p>ə away today was</p><p>u choose food too </p><p>ɜ】=【ɹ】=【ɜɹ】</p><p>ʊ cook wood could</p><p>发生了一点小意外 高考快到了 先应试重要些吧Text：<a href="https://zhuanlan.zhihu.com/p/379630131">https://zhuanlan.zhihu.com/p/379630131</a></p><p>Video：<a href="https://www.bilibili.com/video/BV16w411Z7x4?from=search&amp;seid=6599110246330753850">https://www.bilibili.com/video/BV16w411Z7x4?from=search&amp;seid=6599110246330753850</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;&lt;div class=&quot;note note-success&quot;&gt;
-            &lt;p&gt;第一阶段：音标&lt;/p&gt;
-          &lt;/div&gt;
-
-&lt;tab</summary>
-      
     
     
     
     <category term="Plans" scheme="http://example.com/categories/Plans/"/>
     
-    <category term="English" scheme="http://example.com/categories/Plans/English/"/>
     
-    
-    <category term="English" scheme="http://example.com/tags/English/"/>
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
     
   </entry>
   
@@ -221,7 +234,7 @@ English is What
     <link href="http://example.com/2021/07/10/1/"/>
     <id>http://example.com/2021/07/10/1/</id>
     <published>2021-07-10T07:09:15.051Z</published>
-    <updated>2021-08-11T16:06:34.811Z</updated>
+    <updated>2021-08-12T17:01:33.703Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Books"><a href="#Books" class="headerlink" title="Books"></a>Books</h1><p><a href="https://www.neat-reader.cn/webapp#/">https://www.neat-reader.cn/webapp#/</a><br><a href="https://epub.yunser.com/">https://epub.yunser.com/</a><br><a href="https://4lib.org/">https://4lib.org/</a><br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br><a href="https://www.kepub.net/">https://www.kepub.net/</a><br><a href="http://book.sbkk8.com/">http://book.sbkk8.com/</a><br><a href="https://www.cdstm.cn/">https://www.cdstm.cn/</a><br><a href="http://shuxiangjia.cn/">http://shuxiangjia.cn/</a></p><h1 id="数学"><a href="#数学" class="headerlink" title="数学"></a>数学</h1><p><a href="https://www.mathsisfun.com/">https://www.mathsisfun.com/</a><br><a href="https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12">https://weread.qq.com/web/reader/10d32ae05ceaad10d6cb087k70e32fb021170efdf2eca12</a></p><h1 id="医学"><a href="#医学" class="headerlink" title="医学"></a>医学</h1><p><a href="https://www.mvyxws.com/">https://www.mvyxws.com</a></p><h1 id="心理"><a href="#心理" class="headerlink" title="心理"></a>心理</h1><p><a href="http://www.ixinqing.com/">http://www.ixinqing.com</a></p><h1 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h1><h2 id="文件转换"><a href="#文件转换" class="headerlink" title="文件转换"></a>文件转换</h2><p><a href="https://convertio.co/zh/">https://convertio.co/zh/</a></p><h1 id="语言"><a href="#语言" class="headerlink" title="语言"></a>语言</h1><h2 id="日语"><a href="#日语" class="headerlink" title="日语"></a>日语</h2><p><a href="https://www.erin.jpf.go.jp/">https://www.erin.jpf.go.jp/</a></p><h2 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h2><p><a href="https://v.qq.com/detail/p/p480bntahwv4qe1.html">https://v.qq.com/detail/p/p480bntahwv4qe1.html</a></p><h1 id="体育"><a href="#体育" class="headerlink" title="体育"></a>体育</h1><p><a href="https://www.nike.com/cn/stories">https://www.nike.com/cn/stories</a><br><a href="https://book.douban.com/subject/27126696/">https://book.douban.com/subject/27126696/</a></p>]]></content>
     
@@ -233,10 +246,10 @@ English is What
     
     
     
-    <category term="Information" scheme="http://example.com/categories/Information/"/>
+    <category term="杂记" scheme="http://example.com/categories/%E6%9D%82%E8%AE%B0/"/>
     
     
-    <category term="信息源" scheme="http://example.com/tags/%E4%BF%A1%E6%81%AF%E6%BA%90/"/>
+    <category term="Links" scheme="http://example.com/tags/Links/"/>
     
   </entry>
   
