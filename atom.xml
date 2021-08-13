@@ -138,15 +138,16 @@
     <link href="http://example.com/2021/08/09/5/"/>
     <id>http://example.com/2021/08/09/5/</id>
     <published>2021-08-09T05:07:32.000Z</published>
-    <updated>2021-08-12T15:37:09.156Z</updated>
+    <updated>2021-08-13T00:24:45.987Z</updated>
     
-    <content type="html"><![CDATA[<p>学好很多的专业</p>]]></content>
+    <content type="html"><![CDATA[<p><em><strong>这几年大概都在拼 虹也是 我不清楚未来是怎样的 有恐惧感</strong></em></p><p><em><strong>这几年 我要健身 读书 等一系列开阔眼界</strong></em></p><p><em><strong>为获取信息而奋斗</strong></em></p><p><em><strong>身体上的保障 精神上的对抗 模型上的强大</strong></em></p><pre><code></code></pre>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;学好很多的专业&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;这几年大概都在拼 虹也是 我不清楚未来是怎样的 有恐惧感&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;这几年 我要健身 读书 等一系列开阔眼界&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;为获取信息而奋斗&lt;</summary>
       
     
     
@@ -213,12 +214,22 @@
   </entry>
   
   <entry>
-    <title>Geography</title>
+    <title>时空观</title>
     <link href="http://example.com/2021/07/22/3/"/>
     <id>http://example.com/2021/07/22/3/</id>
     <published>2021-07-22T05:35:55.453Z</published>
-    <updated>2021-08-12T17:00:34.802Z</updated>
+    <updated>2021-08-13T00:48:56.029Z</updated>
     
+    <content type="html"><![CDATA[<p><em><strong>看到网络上有着两个面 努力和选择的矛盾</strong></em></p><br/><p><strong><a href="https://www.bilibili.com/video/BV1UM4y1N7qj">https://www.bilibili.com/video/BV1UM4y1N7qj</a><br><a href="https://www.bilibili.com/video/BV1wp4y1r7zn">https://www.bilibili.com/video/BV1wp4y1r7zn</a></strong>*</p><blockquote><p><em><strong>人生追求<br>小学：国士无双<br>中学：为国争光<br>大学：造福一方<br>现在：两菜一汤</strong></em></p></blockquote><p><em><strong>到底有些不坚定了</strong></em></p><br/><ul><li>为什么清北学子只能做个Up主</li><li>为什么清北出来卖猪肉也好过</li><li>到底该何去何从</li></ul><p>先去了解这个世界 再去在这些被别人需要的地方来赚钱（目前的想法</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;看到网络上有着两个面 努力和选择的矛盾&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;br/&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.bilibili.com/video/BV1UM4y1N7qj&quot;&gt;https://www.bil</summary>
+      
     
     
     
