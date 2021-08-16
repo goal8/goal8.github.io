@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-13T03:57:11.686Z</updated>
+  <updated>2021-08-16T08:52:47.288Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,19 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>突然兴起想做的一些有意义的事</title>
+    <title>12</title>
+    <link href="http://example.com/2021/08/16/12/"/>
+    <id>http://example.com/2021/08/16/12/</id>
+    <published>2021-08-16T08:52:47.000Z</published>
+    <updated>2021-08-16T08:52:47.288Z</updated>
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>模型</title>
     <link href="http://example.com/2021/08/13/11/"/>
     <id>http://example.com/2021/08/13/11/</id>
     <published>2021-08-13T03:56:16.000Z</published>
-    <updated>2021-08-13T03:57:11.686Z</updated>
+    <updated>2021-08-16T08:53:08.802Z</updated>
     
-    <content type="html"><![CDATA[<p>冬泳<br>去西北<br>淋雨</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="观察"><a href="#观察" class="headerlink" title="观察"></a>观察</h2><h2 id="实验"><a href="#实验" class="headerlink" title="实验"></a>实验</h2><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><h2 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h2><h2 id="好奇心"><a href="#好奇心" class="headerlink" title="好奇心"></a>好奇心</h2><h2 id="情绪"><a href="#情绪" class="headerlink" title="情绪"></a>情绪</h2><h2 id="动机"><a href="#动机" class="headerlink" title="动机"></a>动机</h2><h2 id="生产者"><a href="#生产者" class="headerlink" title="生产者"></a>生产者</h2><h2 id="链条"><a href="#链条" class="headerlink" title="链条"></a>链条</h2><h2 id="消费者"><a href="#消费者" class="headerlink" title="消费者"></a>消费者</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;冬泳&lt;br&gt;去西北&lt;br&gt;淋雨&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;观察&quot;&gt;&lt;a href=&quot;#观察&quot; class=&quot;headerlink&quot; title=&quot;观察&quot;&gt;&lt;/a&gt;观察&lt;/h2&gt;&lt;h2 id=&quot;实验&quot;&gt;&lt;a href=&quot;#实验&quot; class=&quot;headerlink&quot; title=&quot;实验&quot;&gt;&lt;/a&gt;实验&lt;/h2&gt;&lt;h2 id</summary>
       
     
     
