@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-30T07:20:59.552Z</updated>
+  <updated>2021-08-30T07:30:11.257Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>瘸猫</title>
+    <link href="http://example.com/2021/08/30/16/"/>
+    <id>http://example.com/2021/08/30/16/</id>
+    <published>2021-08-30T07:22:40.000Z</published>
+    <updated>2021-08-30T07:30:11.257Z</updated>
+    
+    <content type="html"><![CDATA[<p>女朋友对我说路上的猫猫腿断了，唉! 可是又能怎样呢？我脑子里想到它日后的生活要被家人嫌弃，且自己受到如此大的打击，变成瘸猫。只能心疼无比的走开。<br><img src="https://static01.imgkr.com/temp/dde6f2a430b9435c9a291a1221632123.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;女朋友对我说路上的猫猫腿断了，唉! 可是又能怎样呢？我脑子里想到它日后的生活要被家人嫌弃，且自己受到如此大的打击，变成瘸猫。只能心疼无比的走开。&lt;br&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/dde6f2a430b9435c9a2</summary>
+      
+    
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>读了经济学之后 我有什么感想</title>
