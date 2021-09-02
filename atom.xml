@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-02T06:53:22.290Z</updated>
+  <updated>2021-09-02T06:59:53.933Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/08/30/16/"/>
     <id>http://example.com/2021/08/30/16/</id>
     <published>2021-08-30T07:22:40.000Z</published>
-    <updated>2021-09-02T06:53:22.290Z</updated>
+    <updated>2021-09-02T06:59:53.933Z</updated>
     
     <content type="html"><![CDATA[<p>女朋友对我说路上的猫猫腿断了，脑子里浮现它日后的生活。我灰溜溜地走开。<br><img src="https://static01.imgkr.com/temp/dde6f2a430b9435c9a291a1221632123.jpg"></p>]]></content>
     
@@ -34,7 +34,9 @@
     
     
     
-    <category term="杂记" scheme="http://example.com/categories/%E6%9D%82%E8%AE%B0/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -67,16 +69,18 @@
   </entry>
   
   <entry>
-    <title>性的自我修养</title>
+    <title>性</title>
     <link href="http://example.com/2021/08/26/14/"/>
     <id>http://example.com/2021/08/26/14/</id>
     <published>2021-08-26T01:36:14.000Z</published>
-    <updated>2021-08-30T07:41:56.152Z</updated>
+    <updated>2021-09-02T06:59:01.278Z</updated>
     
     
     
     
-    <category term="学习ing" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0ing/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -372,11 +376,11 @@
   </entry>
   
   <entry>
-    <title>Plans</title>
+    <title>个人在社会中的定位</title>
     <link href="http://example.com/2021/07/22/3/"/>
     <id>http://example.com/2021/07/22/3/</id>
     <published>2021-07-22T05:35:55.453Z</published>
-    <updated>2021-09-02T06:52:37.241Z</updated>
+    <updated>2021-09-02T06:56:15.714Z</updated>
     
     <content type="html"><![CDATA[<p><em><strong>看到网络上有着两个面 努力和选择的矛盾</strong></em></p><br/><p><strong><a href="https://www.bilibili.com/video/BV1UM4y1N7qj">https://www.bilibili.com/video/BV1UM4y1N7qj</a><br><a href="https://www.bilibili.com/video/BV1wp4y1r7zn">https://www.bilibili.com/video/BV1wp4y1r7zn</a></strong>*</p><blockquote><p><em><strong>人生追求<br>小学：国士无双<br>中学：为国争光<br>大学：造福一方<br>现在：两菜一汤</strong></em></p></blockquote><p><em><strong>到底有些不坚定了</strong></em></p><br/><ul><li>为什么清北学子只能做个Up主</li><li>为什么清北出来卖猪肉也好过</li><li>到底该何去何从</li><li>学历史到底有什么用</li><li>为什么卖猪肉的 我想 应该就是精通这个世界的规律</li></ul><p>先去了解这个世界 再去在这些被别人需要的地方来赚钱（目前的想法</p>]]></content>
     
