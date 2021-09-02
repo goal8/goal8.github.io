@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-02T07:27:04.320Z</updated>
+  <updated>2021-09-02T08:17:17.033Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>玫瑰</title>
+    <link href="http://example.com/2021/09/02/18/"/>
+    <id>http://example.com/2021/09/02/18/</id>
+    <published>2021-09-02T08:11:36.000Z</published>
+    <updated>2021-09-02T08:17:17.033Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/03f7f6ba607d475aa050d29c015b1661.bmp" alt="《恋恋笔记本》"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/03f7f6ba607d475aa050d29c015b1661.bmp&quot; alt=&quot;《恋恋笔记本》&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>人血馒头</title>
