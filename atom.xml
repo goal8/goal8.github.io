@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-02T08:17:17.033Z</updated>
+  <updated>2021-09-02T08:20:06.259Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/09/02/18/"/>
     <id>http://example.com/2021/09/02/18/</id>
     <published>2021-09-02T08:11:36.000Z</published>
-    <updated>2021-09-02T08:17:17.033Z</updated>
+    <updated>2021-09-02T08:20:06.259Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/03f7f6ba607d475aa050d29c015b1661.bmp" alt="《恋恋笔记本》"></p>]]></content>
     
@@ -34,7 +34,9 @@
     
     
     
-    <category term="About" scheme="http://example.com/categories/About/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
