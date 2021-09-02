@@ -13,7 +13,7 @@
     
     <categories>
       
-      <category>不可磨灭</category>
+      <category>Plans</category>
       
     </categories>
     
@@ -266,7 +266,7 @@
   
   
   <entry>
-    <title>To be or not to be</title>
+    <title>肖申克的救赎</title>
     <link href="/2021/08/11/6/"/>
     <url>/2021/08/11/6/</url>
     
@@ -277,12 +277,14 @@
       
       <category>不可磨灭</category>
       
+      <category>Hero</category>
+      
     </categories>
     
     
     <tags>
       
-      <tag>Hero</tag>
+      <tag>Andy</tag>
       
     </tags>
     
@@ -320,12 +322,14 @@
     <link href="/2021/08/09/4/"/>
     <url>/2021/08/09/4/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV1yD4y1Q7B4&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
+    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV1yD4y1Q7B4&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
     
     
     <categories>
       
       <category>不可磨灭</category>
+      
+      <category>Hero</category>
       
     </categories>
     
@@ -408,31 +412,6 @@
     <tags>
       
       <tag>Links</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Damn Damn Damn</title>
-    <link href="/2021/06/11/hello-world/"/>
-    <url>/2021/06/11/hello-world/</url>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
-    
-    
-    <categories>
-      
-      <category>About</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Birthday</tag>
       
     </tags>
     
