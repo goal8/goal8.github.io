@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-02T08:26:33.886Z</updated>
+  <updated>2021-09-03T03:31:28.085Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>磨砺</title>
+    <link href="http://example.com/2021/09/03/19/"/>
+    <id>http://example.com/2021/09/03/19/</id>
+    <published>2021-09-03T03:17:11.000Z</published>
+    <updated>2021-09-03T03:31:28.085Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/3ceb636610134c6b904b92969a2b59fb.bmp" alt="《闻香识女人》"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/3ceb636610134c6b904b92969a2b59fb.bmp&quot; alt=&quot;《闻香识女人》&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Hero" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Hero/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>玫瑰</title>
@@ -143,13 +170,13 @@
   </entry>
   
   <entry>
-    <title>勇敢</title>
+    <title>活着</title>
     <link href="http://example.com/2021/08/20/13/"/>
     <id>http://example.com/2021/08/20/13/</id>
     <published>2021-08-20T07:51:44.000Z</published>
-    <updated>2021-09-02T08:48:37.920Z</updated>
+    <updated>2021-09-03T03:25:33.734Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/21f8d192c3fb4efb96eb9262dfa647c5.bmp" alt="《百万美元宝贝》"><br>MoCuishle<br><img src="https://static01.imgkr.com/temp/24e77efc257846a08a28f30647e88649.bmp" alt="《肖申克的救赎》"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/21f8d192c3fb4efb96eb9262dfa647c5.bmp" alt="《百万美元宝贝》"><br>MoCuishle<br><img src="https://static01.imgkr.com/temp/24e77efc257846a08a28f30647e88649.bmp" alt="《肖申克的救赎》"><br><img src="https://static01.imgkr.com/temp/f6dc00a5c00f4a5eb504ad95d5cca136.bmp" alt="《活着》"></p>]]></content>
     
     
       
