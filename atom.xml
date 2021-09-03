@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-03T17:41:22.982Z</updated>
+  <updated>2021-09-03T17:42:46.823Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/09/04/22/"/>
     <id>http://example.com/2021/09/04/22/</id>
     <published>2021-09-03T17:36:56.000Z</published>
-    <updated>2021-09-03T17:41:22.982Z</updated>
+    <updated>2021-09-03T17:42:46.823Z</updated>
     
     <content type="html"><![CDATA[<p>依稀记得你来到我们家那一年 和你去游泳 和你做各种亲密的互动 直到有个买狗的Punk买不到你 便用卑劣的手段将你给带走 那段时间我常常以为你会自己跑回来 常常听到你 梦到你 看到你 你是那么的聪明 毛色是如此的发亮 多么优秀 真的就再也没见过了 我大概是那个时候对狗无感 厌恨盗窃卑劣者</p>]]></content>
     
@@ -33,7 +33,9 @@
     
     
     
-    <category term="About" scheme="http://example.com/categories/About/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Hero" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Hero/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
