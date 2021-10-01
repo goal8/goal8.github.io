@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-09-30T14:08:25.378Z</updated>
+  <updated>2021-10-01T00:54:37.583Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,114 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>32</title>
+    <link href="http://example.com/2021/10/01/32/"/>
+    <id>http://example.com/2021/10/01/32/</id>
+    <published>2021-10-01T00:54:37.000Z</published>
+    <updated>2021-10-01T00:54:37.583Z</updated>
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>31</title>
+    <link href="http://example.com/2021/10/01/31/"/>
+    <id>http://example.com/2021/10/01/31/</id>
+    <published>2021-10-01T00:54:32.000Z</published>
+    <updated>2021-10-01T00:54:32.953Z</updated>
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>30</title>
+    <link href="http://example.com/2021/10/01/30/"/>
+    <id>http://example.com/2021/10/01/30/</id>
+    <published>2021-10-01T00:54:29.000Z</published>
+    <updated>2021-10-01T00:54:29.375Z</updated>
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>老人与海</title>
+    <link href="http://example.com/2021/10/01/29/"/>
+    <id>http://example.com/2021/10/01/29/</id>
+    <published>2021-10-01T00:54:25.000Z</published>
+    <updated>2021-10-01T00:58:58.986Z</updated>
+    
+    
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
+    
+    
+    <category term="海明威" scheme="http://example.com/tags/%E6%B5%B7%E6%98%8E%E5%A8%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>边城</title>
+    <link href="http://example.com/2021/10/01/28/"/>
+    <id>http://example.com/2021/10/01/28/</id>
+    <published>2021-10-01T00:54:17.000Z</published>
+    <updated>2021-10-01T00:55:44.100Z</updated>
+    
+    
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
+    
+    
+    <category term="沈从文" scheme="http://example.com/tags/%E6%B2%88%E4%BB%8E%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>红楼梦</title>
+    <link href="http://example.com/2021/10/01/27/"/>
+    <id>http://example.com/2021/10/01/27/</id>
+    <published>2021-10-01T00:50:06.000Z</published>
+    <updated>2021-10-01T00:51:08.275Z</updated>
+    
+    
+    
+    
+    <category term="永不磨灭" scheme="http://example.com/categories/%E6%B0%B8%E4%B8%8D%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E6%B0%B8%E4%B8%8D%E7%A3%A8%E7%81%AD/Thing/"/>
+    
+    
+    <category term="曹雪芹" scheme="http://example.com/tags/%E6%9B%B9%E9%9B%AA%E8%8A%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>我们不善于告别</title>
@@ -390,164 +498,6 @@
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>物质欲望</title>
-    <link href="http://example.com/2021/08/16/12/"/>
-    <id>http://example.com/2021/08/16/12/</id>
-    <published>2021-08-16T08:52:47.000Z</published>
-    <updated>2021-09-02T06:22:58.322Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://www.gucci.cn/zh/">https://www.gucci.cn/zh/</a><br><a href="https://www.omegawatches.cn/">https://www.omegawatches.cn/</a><br><a href="https://www.swarovski.com.cn/zh-CN/">https://www.swarovski.com.cn/zh-CN/</a><br><a href="https://www.louisvuitton.cn/">https://www.louisvuitton.cn/</a><br><a href="https://www.chanel.cn/zh_CN/">https://www.chanel.cn/zh_CN/</a><br><a href="https://www.hermes.cn/cn/zh/">https://www.hermes.cn/cn/zh/</a><br><a href="https://www.rolex.cn/">https://www.rolex.cn/</a><br><a href="https://www.giuseppezanotti.cn/">https://www.giuseppezanotti.cn/</a><br><a href="https://www.dior.cn/zh_cn">https://www.dior.cn/zh_cn</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.gucci.cn/zh/&quot;&gt;https://www.gucci.cn/zh/&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.omegawatches.cn/&quot;&gt;https://www.omegawatches.cn/&lt;/a</summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
-    
-    
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于建模的一些想法</title>
-    <link href="http://example.com/2021/08/13/11/"/>
-    <id>http://example.com/2021/08/13/11/</id>
-    <published>2021-08-13T03:56:16.000Z</published>
-    <updated>2021-08-30T07:42:32.052Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="观察"><a href="#观察" class="headerlink" title="观察"></a>观察</h2><h2 id="实验"><a href="#实验" class="headerlink" title="实验"></a>实验</h2><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><h2 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h2><h2 id="好奇心"><a href="#好奇心" class="headerlink" title="好奇心"></a>好奇心</h2><h2 id="情绪"><a href="#情绪" class="headerlink" title="情绪"></a>情绪</h2><h2 id="动机"><a href="#动机" class="headerlink" title="动机"></a>动机</h2><h2 id="生产者"><a href="#生产者" class="headerlink" title="生产者"></a>生产者</h2><h2 id="链条"><a href="#链条" class="headerlink" title="链条"></a>链条</h2><h2 id="消费者"><a href="#消费者" class="headerlink" title="消费者"></a>消费者</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;观察&quot;&gt;&lt;a href=&quot;#观察&quot; class=&quot;headerlink&quot; title=&quot;观察&quot;&gt;&lt;/a&gt;观察&lt;/h2&gt;&lt;h2 id=&quot;实验&quot;&gt;&lt;a href=&quot;#实验&quot; class=&quot;headerlink&quot; title=&quot;实验&quot;&gt;&lt;/a&gt;实验&lt;/h2&gt;&lt;h2 id</summary>
-      
-    
-    
-    
-    <category term="学习ing" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0ing/"/>
-    
-    
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>伟人</title>
-    <link href="http://example.com/2021/08/12/10/"/>
-    <id>http://example.com/2021/08/12/10/</id>
-    <published>2021-08-12T15:14:17.000Z</published>
-    <updated>2021-09-02T07:43:32.085Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/a3483bc738e54c5782af1802589a9350.bmp" alt="《建军大业》"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/a3483bc738e54c5782af1802589a9350.bmp&quot; alt=&quot;《建军大业》&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Hero" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Hero/"/>
-    
-    
-    <category term="Hero" scheme="http://example.com/tags/Hero/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Turkey</title>
-    <link href="http://example.com/2021/08/12/9/"/>
-    <id>http://example.com/2021/08/12/9/</id>
-    <published>2021-08-12T15:14:13.000Z</published>
-    <updated>2021-09-02T06:22:14.440Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV19E411k7SA&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
-&lt;iframe style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot; src=&quot;//p</summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Place" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Place/"/>
-    
-    
-    <category term="Place" scheme="http://example.com/tags/Place/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>冰岛</title>
-    <link href="http://example.com/2021/08/12/8/"/>
-    <id>http://example.com/2021/08/12/8/</id>
-    <published>2021-08-12T15:14:09.000Z</published>
-    <updated>2021-09-02T06:21:40.346Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV1iT4y1F7at&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
-&lt;iframe style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot; src=&quot;//p</summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Place" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Place/"/>
-    
-    
-    <category term="Place" scheme="http://example.com/tags/Place/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Switzerlan</title>
-    <link href="http://example.com/2021/08/12/7/"/>
-    <id>http://example.com/2021/08/12/7/</id>
-    <published>2021-08-12T15:07:27.000Z</published>
-    <updated>2021-09-02T06:21:57.684Z</updated>
-    
-    <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;"><iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="//player.bilibili.com/player.html?aid=52516662&bvid=BV1YJ411H7sr&cid=91907659&page=1&as_wide=1&high_quality=1&danmaku=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;position: relative; padding: 30% 45%;&quot;&gt;
-&lt;iframe style=&quot;position: absolute; width: 100%; height: 100%; left: 0; top: 0;&quot; src=&quot;//p</summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Place" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Place/"/>
-    
-    
-    <category term="Place" scheme="http://example.com/tags/Place/"/>
     
   </entry>
   
