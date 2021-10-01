@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-01T00:54:37.583Z</updated>
+  <updated>2021-10-01T01:15:07.014Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,36 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>32</title>
+    <title>木偶之家</title>
     <link href="http://example.com/2021/10/01/32/"/>
     <id>http://example.com/2021/10/01/32/</id>
     <published>2021-10-01T00:54:37.000Z</published>
-    <updated>2021-10-01T00:54:37.583Z</updated>
+    <updated>2021-10-01T01:15:07.014Z</updated>
     
     
     
     
-    <category term="About" scheme="http://example.com/categories/About/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    <category term="曹禺" scheme="http://example.com/tags/%E6%9B%B9%E7%A6%BA/"/>
     
   </entry>
   
   <entry>
-    <title>31</title>
+    <title>重返暗夜</title>
     <link href="http://example.com/2021/10/01/31/"/>
     <id>http://example.com/2021/10/01/31/</id>
     <published>2021-10-01T00:54:32.000Z</published>
-    <updated>2021-10-01T00:54:32.953Z</updated>
+    <updated>2021-10-01T01:16:02.534Z</updated>
     
     
     
     
-    <category term="About" scheme="http://example.com/categories/About/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    <category term="波拉尼奥" scheme="http://example.com/tags/%E6%B3%A2%E6%8B%89%E5%B0%BC%E5%A5%A5/"/>
     
   </entry>
   
@@ -110,14 +114,14 @@
     <link href="http://example.com/2021/10/01/27/"/>
     <id>http://example.com/2021/10/01/27/</id>
     <published>2021-10-01T00:50:06.000Z</published>
-    <updated>2021-10-01T00:51:08.275Z</updated>
+    <updated>2021-10-01T01:08:29.705Z</updated>
     
     
     
     
-    <category term="永不磨灭" scheme="http://example.com/categories/%E6%B0%B8%E4%B8%8D%E7%A3%A8%E7%81%AD/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
     
-    <category term="Thing" scheme="http://example.com/categories/%E6%B0%B8%E4%B8%8D%E7%A3%A8%E7%81%AD/Thing/"/>
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
     <category term="曹雪芹" scheme="http://example.com/tags/%E6%9B%B9%E9%9B%AA%E8%8A%B9/"/>
