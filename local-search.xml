@@ -229,7 +229,7 @@
       
       <category>不可磨灭</category>
       
-      <category>Hero</category>
+      <category>Thing</category>
       
     </categories>
     
@@ -254,7 +254,9 @@
     
     <categories>
       
-      <category>Plans</category>
+      <category>不可磨灭</category>
+      
+      <category>Thing</category>
       
     </categories>
     
@@ -281,7 +283,7 @@
       
       <category>不可磨灭</category>
       
-      <category>Hero</category>
+      <category>Thing</category>
       
     </categories>
     
@@ -351,7 +353,7 @@
   
   
   <entry>
-    <title>磨砺</title>
+    <title>一个人的成长</title>
     <link href="/2021/09/03/19/"/>
     <url>/2021/09/03/19/</url>
     
@@ -468,7 +470,7 @@
     
     <categories>
       
-      <category>Plans</category>
+      <category>Sophia</category>
       
     </categories>
     
@@ -786,7 +788,7 @@
     
     <categories>
       
-      <category>学习ing</category>
+      <category>Plans</category>
       
     </categories>
     
@@ -811,7 +813,7 @@
     
     <categories>
       
-      <category>Plans</category>
+      <category>Sophia</category>
       
     </categories>
     

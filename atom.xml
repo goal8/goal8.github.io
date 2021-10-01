@@ -185,7 +185,7 @@
     <link href="http://example.com/2021/09/29/24/"/>
     <id>http://example.com/2021/09/29/24/</id>
     <published>2021-09-29T13:46:09.000Z</published>
-    <updated>2021-09-30T14:00:01.243Z</updated>
+    <updated>2021-10-01T01:27:37.132Z</updated>
     
     <content type="html"><![CDATA[<pre><code>    这在我是可怕的思想;    假如一定得死在床上!    象一朵花, 慢慢地凋谢,    有小虫在它心头咬啮;    象一支烛, 久久地燃烧,    在教室之内, 寂寞无聊。    那样的命运,我不愿意,    不要让我那样死,上帝!    我情愿是大树,任闪电    和狂风将它击穿,吹断;    我情愿是峥嵘的岩石,    轰轰地倒在山谷里……——    假如所有的奴隶的民族    起来反抗了,向战场前去,    红红的脸,红红的旗,    旗上是这些神圣的字:    “全世界的自由!”    它要在全地球    咆哮着,作一百次的血战,    这决战是给暴君的审判:    那时候,让我死亡,    在这样的战场上,    我的心血就在那里流尽,    胸前也响着最后的欢声,    热烈的骚动,钢铁的叮铃,    喇叭的欢叫,大炮的轰鸣,    有战马一群群,    在战场上飞奔,    报道这光荣的胜利,    我却在马蹄下安息。——    那里是我的尸体,收拾在一起,    到了举行伟大葬仪的日子,    在那时候, 唱着挽歌, 又盖着战旗,    神圣的全世界的自由啊! 为了你,    牺牲生命的那些英雄,    都送到共同的坟墓中。</code></pre>]]></content>
     
@@ -207,7 +207,7 @@
     
     <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
     
-    <category term="Hero" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Hero/"/>
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -219,7 +219,7 @@
     <link href="http://example.com/2021/09/22/23/"/>
     <id>http://example.com/2021/09/22/23/</id>
     <published>2021-09-22T15:22:11.000Z</published>
-    <updated>2021-09-30T14:10:54.631Z</updated>
+    <updated>2021-10-01T01:32:20.368Z</updated>
     
     <content type="html"><![CDATA[<p>我将给你个拥抱 接着我们一起读海明威</p>]]></content>
     
@@ -232,7 +232,9 @@
     
     
     
-    <category term="Plans" scheme="http://example.com/categories/Plans/"/>
+    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -244,7 +246,7 @@
     <link href="http://example.com/2021/09/04/22/"/>
     <id>http://example.com/2021/09/04/22/</id>
     <published>2021-09-03T17:36:56.000Z</published>
-    <updated>2021-09-03T18:06:06.755Z</updated>
+    <updated>2021-10-01T01:28:06.119Z</updated>
     
     <content type="html"><![CDATA[<p>依稀记得你来到我们家那一年 你被亲戚从监狱弄出来 看着你一天天长大 和你去游泳 和你做各种亲密的互动 直到有个买狗的Punk买不到你 便用卑劣的手段将你给带走 那段时间我常常以为你会自己跑回来 常常听到你 梦到你 看到你 你是那么的聪明 毛色是如此的发亮 多么优秀 真的就再也没见过了 大概是那时对狗无感 厌恨盗窃卑劣</p><p>再想你 是因为死亡的意义 到这里 我麻木 你陪了我几年的好的时光 那些不是人的东西把你打麻药 在那天夜里没听到你哼一声</p><p>我想起你 Blake</p>]]></content>
     
@@ -258,7 +260,7 @@
     
     <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
     
-    <category term="Hero" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Hero/"/>
+    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -319,11 +321,11 @@
   </entry>
   
   <entry>
-    <title>磨砺</title>
+    <title>一个人的成长</title>
     <link href="http://example.com/2021/09/03/19/"/>
     <id>http://example.com/2021/09/03/19/</id>
     <published>2021-09-03T03:17:11.000Z</published>
-    <updated>2021-09-03T03:31:28.085Z</updated>
+    <updated>2021-10-01T01:28:44.472Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/3ceb636610134c6b904b92969a2b59fb.bmp" alt="《闻香识女人》"></p>]]></content>
     
@@ -432,7 +434,7 @@
     <link href="http://example.com/2021/08/30/15/"/>
     <id>http://example.com/2021/08/30/15/</id>
     <published>2021-08-30T07:09:39.000Z</published>
-    <updated>2021-09-03T18:17:39.195Z</updated>
+    <updated>2021-10-01T01:33:08.358Z</updated>
     
     <content type="html"><![CDATA[<p>虽然梦是虚幻的 但我仍然向往堂吉柯德的精神 毕竟人这一生实在是太乏味无趣 需要些东西来填满自己的 又得不断产生新的欲望 来保证自己的存活 如果哪天活着的意义（好像并没什么意义）就去死吧</p><p>穷途末路的人生 大概就是浑浑噩噩几十年地过吧 我已经想不出来要怎样面对这个世界了 “活着吧 不死就好”终于理解了这句话了 人生重开 如果可以重来 这些都不太羡慕了 我希望 可以 自私的活一把 等到我赚到了我想要的 便是自私了</p><p>记得那年宣言书 全班唯一一张“生命不止 奋斗不息” 真的辛酸 大概是世界观建立后 就这样了吧</p><p>我渴望着美好的事物 恐惧不让我死亡 有一天实在想死那也要有钱买个安乐死 我们在这个虚假的世界跳舞 生存 自此我开始相信一切都由人的动机来决定这个世界 到底该怎样走出这种困境 丛林法则 努力 我的欲望会不断的充盈 我知道我以后的生活将是绚丽多彩如果现在拼命的话 我不会向生活低头Whenever 我讨厌这个世界的虚假却又不得不去服从于它 只能苦中作乐 戴着脚镣起舞 人生啊 得用一些东西来充盈 爱情 学业 最重要的是生存 经济 我的确现实很多了 从这里我将会不问世事 专注于发展学业 自身的优化 至此 感受到自身的异化 那份童年的天真 快乐便都不在</p><p>到了这里 我与这个世界和解 放弃思考</p>]]></content>
     
@@ -445,7 +447,7 @@
     
     
     
-    <category term="Plans" scheme="http://example.com/categories/Plans/"/>
+    <category term="Sophia" scheme="http://example.com/categories/Sophia/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
