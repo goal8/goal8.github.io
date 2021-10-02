@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-02T03:11:19.245Z</updated>
+  <updated>2021-10-02T03:30:37.938Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Artist</title>
+    <link href="http://example.com/2021/10/02/40/"/>
+    <id>http://example.com/2021/10/02/40/</id>
+    <published>2021-10-02T03:14:18.000Z</published>
+    <updated>2021-10-02T03:30:37.938Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/f26b165a434144e3bc48267ee28f40c9.png" alt="方法"></p><p><img src="https://static01.imgkr.com/temp/b1e82d6b830b43fcafbd3955a197f28a.png" alt="资源"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/f26b165a434144e3bc48267ee28f40c9.png&quot; alt=&quot;方法&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/tem</summary>
+      
+    
+    
+    
+    <category term="杂记" scheme="http://example.com/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="审美" scheme="http://example.com/tags/%E5%AE%A1%E7%BE%8E/"/>
+    
+  </entry>
+  
+  <entry>
     <title>志存高远</title>
     <link href="http://example.com/2021/10/02/39/"/>
     <id>http://example.com/2021/10/02/39/</id>
     <published>2021-10-02T03:08:33.000Z</published>
-    <updated>2021-10-02T03:11:19.245Z</updated>
+    <updated>2021-10-02T03:12:42.166Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/83eb80178937403bae0f6e0c280017b7.png" alt="已实现"></p>]]></content>
     
@@ -438,32 +463,6 @@
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人间百态</title>
-    <link href="http://example.com/2021/09/03/20/"/>
-    <id>http://example.com/2021/09/03/20/</id>
-    <published>2021-09-03T12:17:29.000Z</published>
-    <updated>2021-09-03T12:19:13.917Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/3eca3c4370e04335b1817560814339b4.png" alt="1"><br><img src="https://static01.imgkr.com/temp/289b5b041f824be3bd813000a95626e4.png" alt="2"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/3eca3c4370e04335b1817560814339b4.png&quot; alt=&quot;1&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/289</summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
-    
-    
-    <category term="经历" scheme="http://example.com/tags/%E7%BB%8F%E5%8E%86/"/>
     
   </entry>
   
