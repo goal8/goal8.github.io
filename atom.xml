@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-01T06:07:55.544Z</updated>
+  <updated>2021-10-02T03:11:19.245Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>志存高远</title>
+    <link href="http://example.com/2021/10/02/39/"/>
+    <id>http://example.com/2021/10/02/39/</id>
+    <published>2021-10-02T03:08:33.000Z</published>
+    <updated>2021-10-02T03:11:19.245Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/83eb80178937403bae0f6e0c280017b7.png" alt="已实现"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/83eb80178937403bae0f6e0c280017b7.png&quot; alt=&quot;已实现&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Ayyun" scheme="http://example.com/tags/Ayyun/"/>
+    
+  </entry>
   
   <entry>
     <title>觉醒年代</title>
@@ -439,33 +464,6 @@
     
     
     <category term="经历" scheme="http://example.com/tags/%E7%BB%8F%E5%8E%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一个人的成长</title>
-    <link href="http://example.com/2021/09/03/19/"/>
-    <id>http://example.com/2021/09/03/19/</id>
-    <published>2021-09-03T03:17:11.000Z</published>
-    <updated>2021-10-01T01:28:44.472Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="https://static01.imgkr.com/temp/3ceb636610134c6b904b92969a2b59fb.bmp" alt="《闻香识女人》"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://static01.imgkr.com/temp/3ceb636610134c6b904b92969a2b59fb.bmp&quot; alt=&quot;《闻香识女人》&quot;&gt;&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Hero" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Hero/"/>
-    
-    
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
     
   </entry>
   
