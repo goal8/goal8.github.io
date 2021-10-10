@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-02T04:46:09.936Z</updated>
+  <updated>2021-10-10T04:33:24.431Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>百年孤独</title>
+    <link href="http://example.com/2021/10/10/42/"/>
+    <id>http://example.com/2021/10/10/42/</id>
+    <published>2021-10-10T04:23:00.000Z</published>
+    <updated>2021-10-10T04:33:24.431Z</updated>
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="加西亚·马尔克斯" scheme="http://example.com/tags/%E5%8A%A0%E8%A5%BF%E4%BA%9A%C2%B7%E9%A9%AC%E5%B0%94%E5%85%8B%E6%96%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>书单</title>
@@ -425,32 +442,6 @@
       
     <summary type="html">&lt;p&gt;我将给你个拥抱 接着我们一起读海明威&lt;/p&gt;
 </summary>
-      
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
-    
-    
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Blake</title>
-    <link href="http://example.com/2021/09/04/22/"/>
-    <id>http://example.com/2021/09/04/22/</id>
-    <published>2021-09-03T17:36:56.000Z</published>
-    <updated>2021-10-01T01:28:06.119Z</updated>
-    
-    <content type="html"><![CDATA[<p>依稀记得你来到我们家那一年 你被亲戚从监狱弄出来 看着你一天天长大 和你去游泳 和你做各种亲密的互动 直到有个买狗的Punk买不到你 便用卑劣的手段将你给带走 那段时间我常常以为你会自己跑回来 常常听到你 梦到你 看到你 你是那么的聪明 毛色是如此的发亮 多么优秀 真的就再也没见过了 大概是那时对狗无感 厌恨盗窃卑劣</p><p>再想你 是因为死亡的意义 到这里 我麻木 你陪了我几年的好的时光 那些不是人的东西把你打麻药 在那天夜里没听到你哼一声</p><p>我想起你 Blake</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;依稀记得你来到我们家那一年 你被亲戚从监狱弄出来 看着你一天天长大 和你去游泳 和你做各种亲密的互动 直到有个买狗的Punk买不到你 便用卑劣的手段将你给带走 那段时间我常常以为你会自己跑回来 常常听到你 梦到你 看到你 你是那么的聪明 毛色是如此的发亮 多么优秀 真的就再</summary>
       
     
     
