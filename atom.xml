@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-19T11:28:36.783Z</updated>
+  <updated>2021-10-19T11:58:03.543Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1</title>
+    <link href="http://example.com/2021/10/19/3/"/>
+    <id>http://example.com/2021/10/19/3/</id>
+    <published>2021-10-19T11:57:02.000Z</published>
+    <updated>2021-10-19T11:58:03.543Z</updated>
+    
+    
+    
+    
+    <category term="人生如戏" scheme="http://example.com/categories/%E4%BA%BA%E7%94%9F%E5%A6%82%E6%88%8F/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>永远自由 永远浪漫 永远爱</title>
@@ -38,14 +55,15 @@
     <link href="http://example.com/2021/08/13/1/"/>
     <id>http://example.com/2021/08/13/1/</id>
     <published>2021-08-13T03:56:16.000Z</published>
-    <updated>2021-10-19T11:37:06.996Z</updated>
+    <updated>2021-10-19T11:46:57.668Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="观察"><a href="#观察" class="headerlink" title="观察"></a>观察</h2><h2 id="实验"><a href="#实验" class="headerlink" title="实验"></a>实验</h2><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><h2 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h2><h2 id="好奇心"><a href="#好奇心" class="headerlink" title="好奇心"></a>好奇心</h2><h2 id="情绪"><a href="#情绪" class="headerlink" title="情绪"></a>情绪</h2><h2 id="动机"><a href="#动机" class="headerlink" title="动机"></a>动机</h2><h2 id="生产者"><a href="#生产者" class="headerlink" title="生产者"></a>生产者</h2><h2 id="链条"><a href="#链条" class="headerlink" title="链条"></a>链条</h2><h2 id="消费者"><a href="#消费者" class="headerlink" title="消费者"></a>消费者</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="观察"><a href="#观察" class="headerlink" title="观察"></a>观察</h2><p>我们需要信息 而生活中的信息超出我们的感官 需要有想象力 不去遵循唯物神</p><h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><p>真理与谬论的鉴别</p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>结论只是归纳得到的 还是需要不断实践</p><h2 id="好奇心"><a href="#好奇心" class="headerlink" title="好奇心"></a>好奇心</h2><p>人类产生的建模欲望 </p><h2 id="固执心"><a href="#固执心" class="headerlink" title="固执心"></a>固执心</h2><p>别所以然</p><h2 id="动机"><a href="#动机" class="headerlink" title="动机"></a>动机</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;观察&quot;&gt;&lt;a href=&quot;#观察&quot; class=&quot;headerlink&quot; title=&quot;观察&quot;&gt;&lt;/a&gt;观察&lt;/h2&gt;&lt;h2 id=&quot;实验&quot;&gt;&lt;a href=&quot;#实验&quot; class=&quot;headerlink&quot; title=&quot;实验&quot;&gt;&lt;/a&gt;实验&lt;/h2&gt;&lt;h2 id</summary>
+    <summary type="html">&lt;h2 id=&quot;观察&quot;&gt;&lt;a href=&quot;#观察&quot; class=&quot;headerlink&quot; title=&quot;观察&quot;&gt;&lt;/a&gt;观察&lt;/h2&gt;&lt;p&gt;我们需要信息 而生活中的信息超出我们的感官 需要有想象力 不去遵循唯物神&lt;/p&gt;
+&lt;h2 id=&quot;实践&quot;&gt;&lt;a href=&quot;#实践&quot; cla</summary>
       
     
     
