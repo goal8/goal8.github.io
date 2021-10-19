@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-14T16:34:00.624Z</updated>
+  <updated>2021-10-19T09:27:45.345Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>赫拉利</title>
+    <link href="http://example.com/2021/10/19/50/"/>
+    <id>http://example.com/2021/10/19/50/</id>
+    <published>2021-10-19T09:10:41.000Z</published>
+    <updated>2021-10-19T09:27:45.345Z</updated>
+    
+    <content type="html"><![CDATA[<p>从过去到未来 我们经历了什么 我们怎样应对</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;从过去到未来 我们经历了什么 我们怎样应对&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="历史" scheme="http://example.com/categories/%E5%8E%86%E5%8F%B2/"/>
+    
+    
+    <category term="不可磨灭" scheme="http://example.com/tags/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+    <category term="经典社科" scheme="http://example.com/tags/%E7%BB%8F%E5%85%B8%E7%A4%BE%E7%A7%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>艺术的故事</title>
+    <link href="http://example.com/2021/10/19/49/"/>
+    <id>http://example.com/2021/10/19/49/</id>
+    <published>2021-10-19T09:10:38.000Z</published>
+    <updated>2021-10-19T09:25:29.444Z</updated>
+    
+    <content type="html"><![CDATA[<p>有人顶着高中唯物主义的头衔且未学精，山间竹笋,嘴尖皮厚腹中空。有老师，让学生不要相信美人鱼，要相信科学。套中人何其多?任何时候，都需要创新，而不是成为套中人，守财奴。这个世界并不是这样的，抛弃固有观念，这是学习任何东西的核心。</p><p>世界上从来没有艺术，只有艺术家。这更需要我们去抛弃我们的独特味蕾，而去真正的达到更高境界。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;有人顶着高中唯物主义的头衔且未学精，山间竹笋,嘴尖皮厚腹中空。有老师，让学生不要相信美人鱼，要相信科学。套中人何其多?任何时候，都需要创新，而不是成为套中人，守财奴。这个世界并不是这样的，抛弃固有观念，这是学习任何东西的核心。&lt;/p&gt;
+&lt;p&gt;世界上从来没有艺术，只有艺术家。</summary>
+      
+    
+    
+    
+    <category term="贡布里希" scheme="http://example.com/categories/%E8%B4%A1%E5%B8%83%E9%87%8C%E5%B8%8C/"/>
+    
+    
+    <category term="艺术" scheme="http://example.com/tags/%E8%89%BA%E6%9C%AF/"/>
+    
+    <category term="不可磨灭" scheme="http://example.com/tags/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
+    
+  </entry>
   
   <entry>
     <title>生于忧患 死于安乐</title>
@@ -398,44 +452,6 @@
     
     
     <category term="波拉尼奥" scheme="http://example.com/tags/%E6%B3%A2%E6%8B%89%E5%B0%BC%E5%A5%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>乡土中国</title>
-    <link href="http://example.com/2021/10/01/30/"/>
-    <id>http://example.com/2021/10/01/30/</id>
-    <published>2021-10-01T00:54:29.000Z</published>
-    <updated>2021-10-01T01:37:54.015Z</updated>
-    
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="社科经典" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/%E7%A4%BE%E7%A7%91%E7%BB%8F%E5%85%B8/"/>
-    
-    
-    <category term="费孝通" scheme="http://example.com/tags/%E8%B4%B9%E5%AD%9D%E9%80%9A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>老人与海</title>
-    <link href="http://example.com/2021/10/01/29/"/>
-    <id>http://example.com/2021/10/01/29/</id>
-    <published>2021-10-01T00:54:25.000Z</published>
-    <updated>2021-10-01T00:58:58.986Z</updated>
-    
-    
-    
-    
-    <category term="不可磨灭" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/"/>
-    
-    <category term="Thing" scheme="http://example.com/categories/%E4%B8%8D%E5%8F%AF%E7%A3%A8%E7%81%AD/Thing/"/>
-    
-    
-    <category term="海明威" scheme="http://example.com/tags/%E6%B5%B7%E6%98%8E%E5%A8%81/"/>
     
   </entry>
   
