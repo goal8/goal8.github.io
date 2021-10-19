@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Dylan&#39;s Blog</title>
+  <title>Hee&#39;s</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-19T10:46:38.230Z</updated>
+  <updated>2021-10-19T11:28:36.783Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>永远自由 永远浪漫 永远爱</title>
+    <link href="http://example.com/2021/10/19/2/"/>
+    <id>http://example.com/2021/10/19/2/</id>
+    <published>2021-10-19T11:27:44.000Z</published>
+    <updated>2021-10-19T11:28:36.783Z</updated>
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>关于建模的想法</title>
