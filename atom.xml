@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-10T05:49:07.826Z</updated>
+  <updated>2021-11-10T05:56:21.063Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2021/11/10/3/"/>
     <id>http://example.com/2021/11/10/3/</id>
     <published>2021-11-10T05:33:57.000Z</published>
-    <updated>2021-11-10T05:49:07.826Z</updated>
+    <updated>2021-11-10T05:56:21.063Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://bilibili.com/">Bililbili</a><br><a href="https://douban.com/">豆瓣</a><br><a href="https://zhihu.com/">知乎</a><br><a href="https://zh.singlelogin.org/">Zlibary</a><br><a href="https://www.scihub.net.cn/sci-hub/">文献</a></p>]]></content>
     
@@ -36,8 +36,6 @@
     <category term="杂七杂八" scheme="http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
     
     
-    <category term="Information" scheme="http://example.com/tags/Information/"/>
-    
   </entry>
   
   <entry>
@@ -45,7 +43,7 @@
     <link href="http://example.com/2021/11/10/2/"/>
     <id>http://example.com/2021/11/10/2/</id>
     <published>2021-11-10T05:04:38.000Z</published>
-    <updated>2021-11-10T05:10:29.657Z</updated>
+    <updated>2021-11-10T05:55:47.256Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://soukaapp.com/">Tools</a></p><p><a href="https://www.erin.jpf.go.jp/">Examples</a></p>]]></content>
     
@@ -62,8 +60,6 @@
     <category term="Languages" scheme="http://example.com/categories/Languages/"/>
     
     
-    <category term="Tools" scheme="http://example.com/tags/Tools/"/>
-    
   </entry>
   
   <entry>
@@ -71,7 +67,7 @@
     <link href="http://example.com/2021/11/10/1/"/>
     <id>http://example.com/2021/11/10/1/</id>
     <published>2021-11-10T04:54:09.000Z</published>
-    <updated>2021-11-10T05:03:43.051Z</updated>
+    <updated>2021-11-10T05:55:38.369Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://www.askdifference.com/">Differences in between two words</a></p><p><a href="https://dictionary.cambridge.org/">Dictionary</a></p>]]></content>
     
@@ -86,8 +82,6 @@
     
     <category term="Languages" scheme="http://example.com/categories/Languages/"/>
     
-    
-    <category term="Tools" scheme="http://example.com/tags/Tools/"/>
     
   </entry>
   
