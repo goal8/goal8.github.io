@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-11-10T05:10:29.657Z</updated>
+  <updated>2021-11-10T05:49:07.826Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>信息交互平台</title>
+    <link href="http://example.com/2021/11/10/3/"/>
+    <id>http://example.com/2021/11/10/3/</id>
+    <published>2021-11-10T05:33:57.000Z</published>
+    <updated>2021-11-10T05:49:07.826Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://bilibili.com/">Bililbili</a><br><a href="https://douban.com/">豆瓣</a><br><a href="https://zhihu.com/">知乎</a><br><a href="https://zh.singlelogin.org/">Zlibary</a><br><a href="https://www.scihub.net.cn/sci-hub/">文献</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://bilibili.com/&quot;&gt;Bililbili&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://douban.com/&quot;&gt;豆瓣&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://zhihu.com/&quot;&gt;知乎&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;</summary>
+      
+    
+    
+    
+    <category term="杂七杂八" scheme="http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
+    
+    
+    <category term="Information" scheme="http://example.com/tags/Information/"/>
+    
+  </entry>
   
   <entry>
     <title>Japanese</title>
