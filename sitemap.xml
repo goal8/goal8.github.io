@@ -4,7 +4,7 @@
   <url>
     <loc>http://example.com/2021/11/10/4/</loc>
     
-    <lastmod>2021-11-11</lastmod>
+    <lastmod>2021-11-12</lastmod>
     
   </url>
   
@@ -46,7 +46,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2021-11-11</lastmod>
+    <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -56,14 +56,14 @@
   
   <url>
     <loc>http://example.com/categories/Languages/</loc>
-    <lastmod>2021-11-11</lastmod>
+    <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
-    <lastmod>2021-11-11</lastmod>
+    <lastmod>2021-11-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
