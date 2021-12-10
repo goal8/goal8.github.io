@@ -6,10 +6,35 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-12-10T09:38:58.429Z</updated>
+  <updated>2021-12-10T09:45:39.726Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2019-2020一年校队训练时光</title>
+    <link href="http://example.com/2021/12/10/8/"/>
+    <id>http://example.com/2021/12/10/8/</id>
+    <published>2021-12-10T09:40:17.000Z</published>
+    <updated>2021-12-10T09:45:39.726Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://s3.bmp.ovh/imgs/2021/12/3f3bf72ee02bc2e5.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://s3.bmp.ovh/imgs/2021/12/3f3bf72ee02bc2e5.jpg&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="人生如戏" scheme="http://example.com/categories/%E4%BA%BA%E7%94%9F%E5%A6%82%E6%88%8F/"/>
+    
+    
+    <category term="历程" scheme="http://example.com/tags/%E5%8E%86%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>解决一些问题的历程记录</title>
