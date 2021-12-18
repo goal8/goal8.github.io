@@ -62,7 +62,7 @@
     <link href="http://example.com/2021/11/10/1/"/>
     <id>http://example.com/2021/11/10/1/</id>
     <published>2021-11-10T04:54:09.000Z</published>
-    <updated>2021-12-18T05:48:26.070Z</updated>
+    <updated>2021-12-18T05:54:14.873Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Enlgish"><a href="#Enlgish" class="headerlink" title="Enlgish"></a>Enlgish</h2><p><a href="https://www.askdifference.com/">Differences in between two words</a><br><a href="https://dictionary.cambridge.org/">Dictionary</a></p><h2 id="Japanese"><a href="#Japanese" class="headerlink" title="Japanese"></a>Japanese</h2><p><a href="https://soukaapp.com/">Tools</a><br><a href="https://www.erin.jpf.go.jp/">Examples</a></p><h2 id="Spanish"><a href="#Spanish" class="headerlink" title="Spanish"></a>Spanish</h2><p><a href="http://www.spanishpodcast.org/">Special</a><br><a href="https://www.loecsen.com/zh/">All</a></p>]]></content>
     
@@ -74,7 +74,7 @@
     
     
     
-    <category term="Languages" scheme="http://example.com/categories/Languages/"/>
+    <category term="比较专注的" scheme="http://example.com/categories/%E6%AF%94%E8%BE%83%E4%B8%93%E6%B3%A8%E7%9A%84/"/>
     
     
   </entry>
