@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/2021/12/10/3/</loc>
-    
-    <lastmod>2021-12-19</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2021/11/10/1/</loc>
     
     <lastmod>2021-12-18</lastmod>
@@ -45,21 +38,7 @@
   </url>
 
   
-  <url>
-    <loc>http://example.com/tags/%E7%A2%8E%E7%89%87/</loc>
-    <lastmod>2021-12-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://example.com/categories/%E4%BA%BA%E7%94%9F%E5%A6%82%E6%88%8F/</loc>
-    <lastmod>2021-12-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
