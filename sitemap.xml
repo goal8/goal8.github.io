@@ -46,20 +46,13 @@
 
   
   <url>
-    <loc>http://example.com/tags/Opinion/</loc>
+    <loc>http://example.com/tags/Adobe/</loc>
     <lastmod>2022-01-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
-  
-  <url>
-    <loc>http://example.com/categories/About/</loc>
-    <lastmod>2022-01-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
