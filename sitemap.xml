@@ -45,6 +45,13 @@
   </url>
 
   
+  <url>
+    <loc>http://example.com/tags/Opinion/</loc>
+    <lastmod>2022-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
