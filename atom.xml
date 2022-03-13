@@ -6,10 +6,34 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-12T16:02:48.803Z</updated>
+  <updated>2022-03-13T04:42:10.780Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>技能</title>
+    <link href="http://example.com/2022/03/13/4/"/>
+    <id>http://example.com/2022/03/13/4/</id>
+    <published>2022-03-13T04:41:36.000Z</published>
+    <updated>2022-03-13T04:42:10.780Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="自媒体"><a href="#自媒体" class="headerlink" title="自媒体"></a>自媒体</h1><p><a href="https://helpx.adobe.com/cn/premiere-pro/tutorials.html/">Pr</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;自媒体&quot;&gt;&lt;a href=&quot;#自媒体&quot; class=&quot;headerlink&quot; title=&quot;自媒体&quot;&gt;&lt;/a&gt;自媒体&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://helpx.adobe.com/cn/premiere-pro/tutorials.html/&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>编程</title>
@@ -60,18 +84,18 @@
   </entry>
   
   <entry>
-    <title>技能</title>
+    <title>Language</title>
     <link href="http://example.com/2021/11/10/1/"/>
     <id>http://example.com/2021/11/10/1/</id>
     <published>2021-11-10T04:54:09.000Z</published>
-    <updated>2022-03-11T10:35:35.683Z</updated>
+    <updated>2022-03-13T04:43:36.809Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="自媒体"><a href="#自媒体" class="headerlink" title="自媒体"></a>自媒体</h1><p><a href="https://helpx.adobe.com/cn/premiere-pro/tutorials.html/">Pr</a></p><h1 id="Language"><a href="#Language" class="headerlink" title="Language"></a>Language</h1><h2 id="Enlgish"><a href="#Enlgish" class="headerlink" title="Enlgish"></a>Enlgish</h2><p><a href="https://www.englishclub.com/learn-english/how.htm">Topic</a><br><a href="https://space.bilibili.com/631186842?from=search&seid=15907765935628699870&spm_id_from=333.337.0.0">Rachel</a><br><a href="https://www.bilibili.com/video/BV1dT4y1K7wW?spm_id_from=333.999.0.0">Rachel2</a><br><a href="https://basicenglishspeaking.com/">BasicEnglsih</a><br><a href="https://www.askdifference.com/">Differences in between two words</a><br><a href="https://dictionary.cambridge.org/">Dictionary</a><br><a href="https://pan.baidu.com/s/1wf_9CFg2-hB3ap_nsgc9Gg#list/path=%2F&parentPath=%2Fsharelink4503600533216937-481170552771147">Rachel</a></p><h2 id="Japanese"><a href="#Japanese" class="headerlink" title="Japanese"></a>Japanese</h2><p><a href="https://soukaapp.com/">Tools</a><br><a href="https://www.erin.jpf.go.jp/">Examples</a></p><h2 id="Spanish"><a href="#Spanish" class="headerlink" title="Spanish"></a>Spanish</h2><p><a href="http://www.spanishpodcast.org/">Special</a><br><a href="https://www.loecsen.com/zh/">All</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Language"><a href="#Language" class="headerlink" title="Language"></a>Language</h1><h2 id="Enlgish"><a href="#Enlgish" class="headerlink" title="Enlgish"></a>Enlgish</h2><p><a href="https://www.englishclub.com/learn-english/how.htm">Topic</a><br><a href="https://space.bilibili.com/631186842?from=search&seid=15907765935628699870&spm_id_from=333.337.0.0">Rachel</a><br><a href="https://www.bilibili.com/video/BV1dT4y1K7wW?spm_id_from=333.999.0.0">Rachel2</a><br><a href="https://basicenglishspeaking.com/">BasicEnglsih</a><br><a href="https://www.askdifference.com/">Differences in between two words</a><br><a href="https://dictionary.cambridge.org/">Dictionary</a><br><a href="https://pan.baidu.com/s/1wf_9CFg2-hB3ap_nsgc9Gg#list/path=%2F&parentPath=%2Fsharelink4503600533216937-481170552771147">Rachel</a></p><h2 id="Japanese"><a href="#Japanese" class="headerlink" title="Japanese"></a>Japanese</h2><p><a href="https://soukaapp.com/">Tools</a><br><a href="https://www.erin.jpf.go.jp/">Examples</a></p><h2 id="Spanish"><a href="#Spanish" class="headerlink" title="Spanish"></a>Spanish</h2><p><a href="http://www.spanishpodcast.org/">Special</a><br><a href="https://www.loecsen.com/zh/">All</a></p><h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p><a href="https://goal8.github.io/2022/03/12/3/">All</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;自媒体&quot;&gt;&lt;a href=&quot;#自媒体&quot; class=&quot;headerlink&quot; title=&quot;自媒体&quot;&gt;&lt;/a&gt;自媒体&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://helpx.adobe.com/cn/premiere-pro/tutorials.html/&quot;&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;Language&quot;&gt;&lt;a href=&quot;#Language&quot; class=&quot;headerlink&quot; title=&quot;Language&quot;&gt;&lt;/a&gt;Language&lt;/h1&gt;&lt;h2 id=&quot;Enlgish&quot;&gt;&lt;a href=&quot;#Enlgish&quot; class=&quot;header</summary>
       
     
     
