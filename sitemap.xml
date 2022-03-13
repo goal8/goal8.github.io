@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2021/11/10/1/</loc>
-    
-    <lastmod>2022-03-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://example.com/2022/03/13/4/</loc>
     
     <lastmod>2022-03-13</lastmod>
@@ -18,14 +11,21 @@
   <url>
     <loc>http://example.com/2022/03/12/3/</loc>
     
-    <lastmod>2022-03-12</lastmod>
+    <lastmod>2022-03-13</lastmod>
     
   </url>
   
   <url>
     <loc>http://example.com/2021/11/10/2/</loc>
     
-    <lastmod>2022-03-11</lastmod>
+    <lastmod>2022-03-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2021/11/10/1/</loc>
+    
+    <lastmod>2022-03-13</lastmod>
     
   </url>
   
@@ -62,21 +62,21 @@
 
   
   <url>
-    <loc>http://example.com/categories/About/</loc>
+    <loc>http://example.com/categories/Information/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/</loc>
+    <loc>http://example.com/categories/%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%AF%94%E8%BE%83%E4%B8%93%E6%B3%A8%E7%9A%84/</loc>
+    <loc>http://example.com/categories/knowledge/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

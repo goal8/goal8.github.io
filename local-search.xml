@@ -4,16 +4,16 @@
   
   
   <entry>
-    <title>技能</title>
+    <title>Skills</title>
     <link href="/2022/03/13/4/"/>
     <url>/2022/03/13/4/</url>
     
-    <content type="html"><![CDATA[<h1 id="自媒体"><a href="#自媒体" class="headerlink" title="自媒体"></a>自媒体</h1><p><a href="https://helpx.adobe.com/cn/premiere-pro/tutorials.html/">Pr</a></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="Web-media"><a href="#Web-media" class="headerlink" title="Web media"></a>Web media</h1><p><a href="https://helpx.adobe.com/cn/premiere-pro/tutorials.html/">Pr</a></p>]]></content>
     
     
     <categories>
       
-      <category>About</category>
+      <category>knowledge</category>
       
     </categories>
     
@@ -29,7 +29,7 @@
   
   
   <entry>
-    <title>编程</title>
+    <title>Code</title>
     <link href="/2022/03/12/3/"/>
     <url>/2022/03/12/3/</url>
     
@@ -38,23 +38,17 @@
     
     <categories>
       
-      <category>比较专注的</category>
+      <category>知识</category>
       
     </categories>
     
-    
-    <tags>
-      
-      <tag>Opinion</tag>
-      
-    </tags>
     
   </entry>
   
   
   
   <entry>
-    <title>信息交互</title>
+    <title>Information</title>
     <link href="/2021/11/10/2/"/>
     <url>/2021/11/10/2/</url>
     
@@ -63,7 +57,7 @@
     
     <categories>
       
-      <category>杂七杂八</category>
+      <category>Information</category>
       
     </categories>
     
@@ -82,7 +76,7 @@
     
     <categories>
       
-      <category>比较专注的</category>
+      <category>知识</category>
       
     </categories>
     
