@@ -62,13 +62,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/knowledge/</loc>
-    <lastmod>2022-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/categories/Knowledge/</loc>
     <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-13T04:54:30.928Z</updated>
+  <updated>2022-03-13T06:36:47.603Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,7 +16,7 @@
     <link href="http://example.com/2022/03/13/4/"/>
     <id>http://example.com/2022/03/13/4/</id>
     <published>2022-03-13T04:41:36.000Z</published>
-    <updated>2022-03-13T04:54:30.928Z</updated>
+    <updated>2022-03-13T06:36:47.603Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Web-media"><a href="#Web-media" class="headerlink" title="Web media"></a>Web media</h1><p><a href="https://helpx.adobe.com/cn/premiere-pro/tutorials.html/">Pr</a></p>]]></content>
     
@@ -28,7 +28,7 @@
     
     
     
-    <category term="knowledge" scheme="http://example.com/categories/knowledge/"/>
+    <category term="Knowledge" scheme="http://example.com/categories/Knowledge/"/>
     
     
   </entry>
