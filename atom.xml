@@ -6,10 +6,34 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-13T06:36:47.603Z</updated>
+  <updated>2022-03-14T02:14:29.094Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Philosophy</title>
+    <link href="http://example.com/2022/03/14/5/"/>
+    <id>http://example.com/2022/03/14/5/</id>
+    <published>2022-03-14T02:11:27.000Z</published>
+    <updated>2022-03-14T02:14:29.094Z</updated>
+    
+    <content type="html"><![CDATA[<p>一份英语国家的哲学院系排名：<br><a href="https://www.philosophicalgourmet.com/overall-rankings/">https://www.philosophicalgourmet.com/overall-rankings/</a><br>电子书下载（链接易失效）：<br><a href="http://libgen.is/">http://libgen.is/</a><br><a href="https://zh.1lib.ma/">https://zh.1lib.ma/</a><br>百科：<br><a href="https://plato.stanford.edu/contents.html">https://plato.stanford.edu/contents.html</a><br><a href="https://iep.utm.edu/">https://iep.utm.edu/</a><br><a href="https://mephilosophy.ccu.edu.tw/explor_now">https://mephilosophy.ccu.edu.tw/explor_now</a><br>论文数据库：<br><a href="https://philpapers.org/">https://philpapers.org/</a><br><a href="https://www.academia.edu/">https://www.academia.edu/</a><br>获取论文下载权限（链接易失效）：<br><a href="https://sci-hub.ren/">https://sci-hub.ren/</a><br>牛津参考文献-哲学：<br><a href="https://www.oxfordbibliographies.com/obo/page/philosophy">https://www.oxfordbibliographies.com/obo/page/philosophy</a><br>布鲁姆斯伯里出版社-哲学：<br><a href="https://www.bloomsbury.com/us/academic/philosophy/">https://www.bloomsbury.com/us/academic/philosophy/</a><br>爱丁堡大学出版社-哲学：<br><a href="https://www.ed.ac.uk/ppls/philosophy">https://www.ed.ac.uk/ppls/philosophy</a><br>期刊排名：<br><a href="https://leiterreports.typepad.com/blog/2017/11/journals-that-publish-the-best-quality-articles-on-figures-in-the-post-kantian-continental-tradition.html">https://leiterreports.typepad.com/blog/2017/11/journals-that-publish-the-best-quality-articles-on-figures-in-the-post-kantian-continental-tradition.html</a><br><a href="https://xingminghu.commons.gc.cuny.edu/etc/ranking_journals/">https://xingminghu.commons.gc.cuny.edu/etc/ranking_journals/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;一份英语国家的哲学院系排名：&lt;br&gt;&lt;a href=&quot;https://www.philosophicalgourmet.com/overall-rankings/&quot;&gt;https://www.philosophicalgourmet.com/overall-rankings/</summary>
+      
+    
+    
+    
+    <category term="Knowledge" scheme="http://example.com/categories/Knowledge/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>Skills</title>
