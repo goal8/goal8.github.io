@@ -6,10 +6,34 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-14T02:14:29.094Z</updated>
+  <updated>2022-03-22T14:41:56.696Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Some exams</title>
+    <link href="http://example.com/2022/03/22/6/"/>
+    <id>http://example.com/2022/03/22/6/</id>
+    <published>2022-03-22T14:24:35.000Z</published>
+    <updated>2022-03-22T14:41:56.696Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://ncre-bm.neea.edu.cn/">计算机考试</a><br><a href="https://cet-bm.neea.edu.cn/">CET</a><br><a href="https://pets.neea.edu.cn/">PETS</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://ncre-bm.neea.edu.cn/&quot;&gt;计算机考试&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://cet-bm.neea.edu.cn/&quot;&gt;CET&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://pets.neea.edu.cn/&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="Knowledge" scheme="http://example.com/categories/Knowledge/"/>
+    
+    
+    <category term="Exams" scheme="http://example.com/tags/Exams/"/>
+    
+  </entry>
   
   <entry>
     <title>Philosophy</title>
