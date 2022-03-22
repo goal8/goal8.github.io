@@ -6,19 +6,43 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-03-22T14:41:56.696Z</updated>
+  <updated>2022-03-22T16:46:36.722Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Some people</title>
+    <link href="http://example.com/2022/03/23/7/"/>
+    <id>http://example.com/2022/03/23/7/</id>
+    <published>2022-03-22T16:36:30.000Z</published>
+    <updated>2022-03-22T16:46:36.722Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://plato.stanford.edu/entries/emerson/">Ralph Waldo Emerson</a><br><a href="https://plato.stanford.edu/entries/nietzsche/">Friedrich Nietzsche</a><br><a href="https://plato.stanford.edu/entries/kant/">Immanuel Kant</a><br><a href="https://plato.stanford.edu/entries/foucault/">Michel Foucault</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://plato.stanford.edu/entries/emerson/&quot;&gt;Ralph Waldo Emerson&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://plato.stanford.edu/entries/nietzsche/&quot;&gt;</summary>
+      
+    
+    
+    
+    <category term="PLATO" scheme="http://example.com/categories/PLATO/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>Some exams</title>
     <link href="http://example.com/2022/03/22/6/"/>
     <id>http://example.com/2022/03/22/6/</id>
     <published>2022-03-22T14:24:35.000Z</published>
-    <updated>2022-03-22T14:41:56.696Z</updated>
+    <updated>2022-03-22T14:47:04.223Z</updated>
     
-    <content type="html"><![CDATA[<p><a href="https://ncre-bm.neea.edu.cn/">计算机考试</a><br><a href="https://cet-bm.neea.edu.cn/">CET</a><br><a href="https://pets.neea.edu.cn/">PETS</a></p>]]></content>
+    <content type="html"><![CDATA[<p><a href="https://ncre-bm.neea.edu.cn/">计算机考试</a><br><a href="https://cet-bm.neea.edu.cn/">CET</a><br><a href="https://pets.neea.edu.cn/">PETS</a><br><a href="http://cicpa.org.cn/ztzl1/exam/kswzbmlj/">CPA</a></p>]]></content>
     
     
       
