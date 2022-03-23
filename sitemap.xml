@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>http://example.com/2021/11/10/2/</loc>
     
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/11/10/2/</loc>
+    <loc>http://example.com/2021/11/10/1/</loc>
+    
+    <lastmod>2022-03-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/index.html</loc>
     
     <lastmod>2022-03-22</lastmod>
     
@@ -26,13 +33,6 @@
     <loc>http://example.com/2022/03/22/6/</loc>
     
     <lastmod>2022-03-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://example.com/2021/11/10/1/</loc>
-    
-    <lastmod>2022-03-14</lastmod>
     
   </url>
   
@@ -67,7 +67,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,14 +75,14 @@
   
   <url>
     <loc>http://example.com/tags/Opinion/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/tags/Exams/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -91,21 +91,21 @@
   
   <url>
     <loc>http://example.com/categories/Information/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/Knowledge/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://example.com/categories/PLATO/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-03-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
