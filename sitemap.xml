@@ -15,13 +15,6 @@
     
   </url>
   
-  <url>
-    <loc>http://example.com/categories/index.html</loc>
-    
-    <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
@@ -32,7 +25,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/Opinion/</loc>
+    <loc>http://example.com/tags/Plans/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -41,7 +34,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/Plans/</loc>
+    <loc>http://example.com/categories/Opinions/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
