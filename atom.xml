@@ -6,24 +6,24 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-11T02:34:03.552Z</updated>
+  <updated>2022-06-11T05:23:22.284Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>传统文化</title>
+    <title>文化批判</title>
     <link href="http://example.com/2022/06/09/4/"/>
     <id>http://example.com/2022/06/09/4/</id>
     <published>2022-06-09T03:36:06.000Z</published>
-    <updated>2022-06-11T02:34:03.552Z</updated>
+    <updated>2022-06-11T05:23:22.284Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="价值"><a href="#价值" class="headerlink" title="价值"></a>价值</h2><p>1.向生而死<br>2.道德虚伪<br>3.欲望本能<br>4.惧怕痛苦<br>5.贪嗔痴执<br>6.虚空虚无<br>7.独立独处</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="价值"><a href="#价值" class="headerlink" title="价值"></a>价值</h2><p>1.女性主义<br>2.道德虚伪<br>3.欲望本能<br>4.惧怕痛苦<br>5.贪嗔痴执<br>6.虚空虚无<br>7.独立独处<br>8.向生而死</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;价值&quot;&gt;&lt;a href=&quot;#价值&quot; class=&quot;headerlink&quot; title=&quot;价值&quot;&gt;&lt;/a&gt;价值&lt;/h2&gt;&lt;p&gt;1.向生而死&lt;br&gt;2.道德虚伪&lt;br&gt;3.欲望本能&lt;br&gt;4.惧怕痛苦&lt;br&gt;5.贪嗔痴执&lt;br&gt;6.虚空虚无&lt;br&gt;7.独立独处&lt;/p&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;价值&quot;&gt;&lt;a href=&quot;#价值&quot; class=&quot;headerlink&quot; title=&quot;价值&quot;&gt;&lt;/a&gt;价值&lt;/h2&gt;&lt;p&gt;1.女性主义&lt;br&gt;2.道德虚伪&lt;br&gt;3.欲望本能&lt;br&gt;4.惧怕痛苦&lt;br&gt;5.贪嗔痴执&lt;br&gt;6.虚空虚无&lt;br&gt;7.独立独处&lt;br&gt;</summary>
       
     
     
@@ -31,7 +31,7 @@
     <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
     
     
-    <category term="中国" scheme="http://example.com/tags/%E4%B8%AD%E5%9B%BD/"/>
+    <category term="传统文化" scheme="http://example.com/tags/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/"/>
     
   </entry>
   
