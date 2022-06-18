@@ -6,17 +6,36 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-18T17:58:01.316Z</updated>
+  <updated>2022-06-18T18:11:43.780Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>西哲</title>
+    <title>Just so so</title>
+    <link href="http://example.com/2022/06/19/6/"/>
+    <id>http://example.com/2022/06/19/6/</id>
+    <published>2022-06-18T18:03:17.000Z</published>
+    <updated>2022-06-18T18:11:43.780Z</updated>
+    
+    
+    
+    
+    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    
+    <category term="精神分析" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/"/>
+    
+    
+    <category term="终极" scheme="http://example.com/tags/%E7%BB%88%E6%9E%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>泰勒斯</title>
     <link href="http://example.com/2022/06/19/5/"/>
     <id>http://example.com/2022/06/19/5/</id>
     <published>2022-06-18T17:52:55.000Z</published>
-    <updated>2022-06-18T17:58:01.316Z</updated>
+    <updated>2022-06-18T18:00:36.821Z</updated>
     
     
     
