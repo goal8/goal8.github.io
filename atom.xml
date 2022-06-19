@@ -6,10 +6,27 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-18T18:11:43.780Z</updated>
+  <updated>2022-06-19T05:40:22.918Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>7</title>
+    <link href="http://example.com/2022/06/19/7/"/>
+    <id>http://example.com/2022/06/19/7/</id>
+    <published>2022-06-19T05:40:22.000Z</published>
+    <updated>2022-06-19T05:40:22.918Z</updated>
+    
+    
+    
+    
+    <category term="About" scheme="http://example.com/categories/About/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>Just so so</title>
@@ -80,7 +97,7 @@
     <link href="http://example.com/2022/06/09/3/"/>
     <id>http://example.com/2022/06/09/3/</id>
     <published>2022-06-09T03:36:06.000Z</published>
-    <updated>2022-06-18T17:43:25.444Z</updated>
+    <updated>2022-06-19T10:23:32.369Z</updated>
     
     <content type="html"><![CDATA[<h2 id="价值"><a href="#价值" class="headerlink" title="价值"></a>价值</h2><p>1.女性主义<br>2.道德虚伪<br>3.欲望本能<br>4.惧怕痛苦<br>5.贪嗔痴执<br>6.虚空虚无<br>7.独立独处<br>8.向生而死<br>9.享乐无知<br>10.苟延残喘</p>]]></content>
     
@@ -95,7 +112,9 @@
     <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
     
     
-    <category term="传统文化" scheme="http://example.com/tags/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/"/>
+    <category term="文化" scheme="http://example.com/tags/%E6%96%87%E5%8C%96/"/>
+    
+    <category term="普世" scheme="http://example.com/tags/%E6%99%AE%E4%B8%96/"/>
     
   </entry>
   
@@ -125,11 +144,11 @@
   </entry>
   
   <entry>
-    <title>Language</title>
+    <title>各语言谱</title>
     <link href="http://example.com/2021/11/10/1/"/>
     <id>http://example.com/2021/11/10/1/</id>
     <published>2021-11-10T04:54:09.000Z</published>
-    <updated>2022-06-18T17:43:50.459Z</updated>
+    <updated>2022-06-19T10:22:56.963Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Language"><a href="#Language" class="headerlink" title="Language"></a>Language</h1><h2 id="Enlgish"><a href="#Enlgish" class="headerlink" title="Enlgish"></a>Enlgish</h2><p><a href="https://www.englishclub.com/learn-english/how.htm">Topic</a><br><a href="https://learnenglishteens.britishcouncil.org/">Skills</a><br><a href="https://space.bilibili.com/631186842?from=search&seid=15907765935628699870&spm_id_from=333.337.0.0">Rachel</a><br><a href="https://www.bilibili.com/video/BV1dT4y1K7wW?spm_id_from=333.999.0.0">Rachel2</a><br><a href="https://pan.baidu.com/s/1wf_9CFg2-hB3ap_nsgc9Gg#list/path=%2F&parentPath=%2Fsharelink4503600533216937-481170552771147">Rachel3</a><br><a href="https://www.fluentu.com/blog/english/english-rhythm/">FluentU</a></p><h2 id="Japanese"><a href="#Japanese" class="headerlink" title="Japanese"></a>Japanese</h2><p><a href="https://soukaapp.com/">Tools</a><br><a href="https://www.erin.jpf.go.jp/">Examples</a></p><h2 id="France"><a href="#France" class="headerlink" title="France"></a>France</h2><p><a href="https://www.bilibili.com/video/BV1WJ411X74F?spm_id_from=333.337.search-card.all.click">Topic</a></p><h2 id="Spanish"><a href="#Spanish" class="headerlink" title="Spanish"></a>Spanish</h2><p><a href="http://www.spanishpodcast.org/">Topic</a><br><a href="https://www.loecsen.com/zh/">All</a></p><h2 id="German"><a href="#German" class="headerlink" title="German"></a>German</h2><p><a href="https://www.bilibili.com/video/BV114411K75p?spm_id_from=333.337.search-card.all.click">Topic</a></p><h2 id="Code"><a href="#Code" class="headerlink" title="Code"></a>Code</h2><p><a href="https://goal8.github.io/2022/03/12/3/">All</a></p><p><a href="https://ncre-bm.neea.edu.cn/">NEEA</a><br><a href="https://cet-bm.neea.edu.cn/">CET</a><br><a href="https://pets.neea.edu.cn/">PETS</a><br><a href="http://cicpa.org.cn/ztzl1/exam/kswzbmlj/">CPA</a></p><h2 id="文言文"><a href="#文言文" class="headerlink" title="文言文"></a>文言文</h2><p><a href="https://www.bilibili.com/video/BV1f54y137eq?spm_id_from=333.999.0.0">Topic</a></p><h2 id="幻象"><a href="#幻象" class="headerlink" title="幻象"></a>幻象</h2><p><a href="https://m.keshuzhai.com/55/55733/">荷兰丽丽</a><br><a href="https://820082.xyz/">AO3</a></p>]]></content>
     
@@ -142,6 +161,8 @@
     
     
     <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    
+    <category term="语言" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%AF%AD%E8%A8%80/"/>
     
     
   </entry>
