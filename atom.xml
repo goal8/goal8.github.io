@@ -99,7 +99,7 @@
     <link href="http://example.com/2022/06/09/3/"/>
     <id>http://example.com/2022/06/09/3/</id>
     <published>2022-06-09T03:36:06.000Z</published>
-    <updated>2022-06-19T10:23:32.369Z</updated>
+    <updated>2022-06-19T10:29:08.047Z</updated>
     
     <content type="html"><![CDATA[<h2 id="价值"><a href="#价值" class="headerlink" title="价值"></a>价值</h2><p>1.女性主义<br>2.道德虚伪<br>3.欲望本能<br>4.惧怕痛苦<br>5.贪嗔痴执<br>6.虚空虚无<br>7.独立独处<br>8.向生而死<br>9.享乐无知<br>10.苟延残喘</p>]]></content>
     
@@ -113,10 +113,10 @@
     
     <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
     
+    <category term="普世" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E6%99%AE%E4%B8%96/"/>
     
-    <category term="文化" scheme="http://example.com/tags/%E6%96%87%E5%8C%96/"/>
     
-    <category term="普世" scheme="http://example.com/tags/%E6%99%AE%E4%B8%96/"/>
+    <category term="世界" scheme="http://example.com/tags/%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   
