@@ -6,10 +6,29 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-19T10:27:50.209Z</updated>
+  <updated>2022-06-19T19:04:49.405Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>金</title>
+    <link href="http://example.com/2022/06/20/8/"/>
+    <id>http://example.com/2022/06/20/8/</id>
+    <published>2022-06-19T19:03:48.000Z</published>
+    <updated>2022-06-19T19:04:49.405Z</updated>
+    
+    
+    
+    
+    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    
+    <category term="玄术" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/"/>
+    
+    
+    <category term="东方" scheme="http://example.com/tags/%E4%B8%9C%E6%96%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>时代</title>
