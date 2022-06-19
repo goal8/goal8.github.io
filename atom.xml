@@ -6,25 +6,27 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-19T05:40:22.918Z</updated>
+  <updated>2022-06-19T10:26:12.464Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>7</title>
+    <title>时代</title>
     <link href="http://example.com/2022/06/19/7/"/>
     <id>http://example.com/2022/06/19/7/</id>
     <published>2022-06-19T05:40:22.000Z</published>
-    <updated>2022-06-19T05:40:22.918Z</updated>
+    <updated>2022-06-19T10:26:12.464Z</updated>
     
     
     
     
-    <category term="About" scheme="http://example.com/categories/About/"/>
+    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    
+    <category term="大势" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E5%A4%A7%E5%8A%BF/"/>
     
     
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    <category term="世界" scheme="http://example.com/tags/%E4%B8%96%E7%95%8C/"/>
     
   </entry>
   
