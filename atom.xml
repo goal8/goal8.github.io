@@ -6,10 +6,29 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-28T01:12:05.008Z</updated>
+  <updated>2022-06-28T11:53:54.809Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>太多落下的病</title>
+    <link href="http://example.com/2022/06/28/10/"/>
+    <id>http://example.com/2022/06/28/10/</id>
+    <published>2022-06-28T11:50:37.000Z</published>
+    <updated>2022-06-28T11:53:54.809Z</updated>
+    
+    
+    
+    
+    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    
+    <category term="逻各斯" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E9%80%BB%E5%90%84%E6%96%AF/"/>
+    
+    
+    <category term="Logos" scheme="http://example.com/tags/Logos/"/>
+    
+  </entry>
   
   <entry>
     <title>现象记录</title>
