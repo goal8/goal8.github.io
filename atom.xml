@@ -6,10 +6,86 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-06-28T17:47:17.492Z</updated>
+  <updated>2022-06-28T17:54:21.287Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Fighting</title>
+    <link href="http://example.com/2022/06/29/16/"/>
+    <id>http://example.com/2022/06/29/16/</id>
+    <published>2022-06-28T17:53:37.000Z</published>
+    <updated>2022-06-28T17:54:21.287Z</updated>
+    
+    
+    
+    
+    <category term="游历" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/"/>
+    
+    <category term="火影忍者" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85/"/>
+    
+    
+    <category term="PVAE" scheme="http://example.com/tags/PVAE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>红警帝国</title>
+    <link href="http://example.com/2022/06/29/15/"/>
+    <id>http://example.com/2022/06/29/15/</id>
+    <published>2022-06-28T17:52:48.000Z</published>
+    <updated>2022-06-28T17:53:12.314Z</updated>
+    
+    
+    
+    
+    <category term="游历" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/"/>
+    
+    <category term="红警帝国" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/%E7%BA%A2%E8%AD%A6%E5%B8%9D%E5%9B%BD/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>侠盗猎车</title>
+    <link href="http://example.com/2022/06/29/14/"/>
+    <id>http://example.com/2022/06/29/14/</id>
+    <published>2022-06-28T17:52:09.000Z</published>
+    <updated>2022-06-28T17:52:39.698Z</updated>
+    
+    
+    
+    
+    <category term="游历" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/"/>
+    
+    <category term="侠盗猎车" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>逆战</title>
+    <link href="http://example.com/2022/06/29/13/"/>
+    <id>http://example.com/2022/06/29/13/</id>
+    <published>2022-06-28T17:48:23.000Z</published>
+    <updated>2022-06-28T17:50:48.466Z</updated>
+    
+    
+    
+    
+    <category term="游历" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/"/>
+    
+    <category term="绝地突围" scheme="http://example.com/categories/%E6%B8%B8%E5%8E%86/%E7%BB%9D%E5%9C%B0%E7%AA%81%E5%9B%B4/"/>
+    
+    
+    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
+    
+  </entry>
   
   <entry>
     <title>英雄联盟</title>
