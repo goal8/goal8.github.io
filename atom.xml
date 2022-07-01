@@ -6,74 +6,10 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-01T20:53:09.856Z</updated>
+  <updated>2022-06-28T23:48:03.066Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>道德经</title>
-    <link href="http://example.com/2022/07/02/20/"/>
-    <id>http://example.com/2022/07/02/20/</id>
-    <published>2022-07-01T20:51:38.000Z</published>
-    <updated>2022-07-01T20:53:09.856Z</updated>
-    
-    
-    
-    
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
-    
-    <category term="玄术" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/"/>
-    
-    
-    <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>传习录</title>
-    <link href="http://example.com/2022/07/02/19/"/>
-    <id>http://example.com/2022/07/02/19/</id>
-    <published>2022-07-01T19:37:52.000Z</published>
-    <updated>2022-07-01T20:26:12.335Z</updated>
-    
-    
-    
-    
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
-    
-    <category term="玄术" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/"/>
-    
-    
-    <category term="王阳明" scheme="http://example.com/tags/%E7%8E%8B%E9%98%B3%E6%98%8E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>忏悔录</title>
-    <link href="http://example.com/2022/07/01/18/"/>
-    <id>http://example.com/2022/07/01/18/</id>
-    <published>2022-07-01T11:38:39.000Z</published>
-    <updated>2022-07-01T20:25:57.289Z</updated>
-    
-    <content type="html"><![CDATA[<p>奥古斯丁，卢梭，托尔斯泰。<br>解决的无非是意义之下衍生出来的价值问题，问什么？符号。社会建构我们的身体，我们的精神，否则就驱逐。这意义是虚空，虚无根本算不了什么。这宽广的让我们如在水中，可还是有些人类社会文化可循迹的规律，蛋糕就那么大，基于此，规律要懂得何时入坑何时收网，寻出道路，这依靠胆量，胆量来自于察觉，察觉在于思考，仅仅在于产生疑问，那一瞬间，其它的谁在乎？我不想懂得符号，无奈，也成为人，学了些技艺卖弄起来，可那又怎样，变态边缘人可玩不来主流。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;奥古斯丁，卢梭，托尔斯泰。&lt;br&gt;解决的无非是意义之下衍生出来的价值问题，问什么？符号。社会建构我们的身体，我们的精神，否则就驱逐。这意义是虚空，虚无根本算不了什么。这宽广的让我们如在水中，可还是有些人类社会文化可循迹的规律，蛋糕就那么大，基于此，规律要懂得何时入坑何时收网</summary>
-      
-    
-    
-    
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
-    
-    <category term="玄术" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/"/>
-    
-    
-    <category term="托尔斯泰" scheme="http://example.com/tags/%E6%89%98%E5%B0%94%E6%96%AF%E6%B3%B0/"/>
-    
-  </entry>
   
   <entry>
     <title>赛博朋克</title>
