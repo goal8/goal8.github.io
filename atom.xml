@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-04T12:06:16.185Z</updated>
+  <updated>2022-07-04T22:58:45.989Z</updated>
   <id>http://example.com/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
@@ -16,16 +16,14 @@
     <link href="http://example.com/2022/07/04/24/"/>
     <id>http://example.com/2022/07/04/24/</id>
     <published>2022-07-04T12:05:57.000Z</published>
-    <updated>2022-07-04T12:06:16.185Z</updated>
+    <updated>2022-07-04T22:58:45.989Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="西哲" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/"/>
-    
-    <category term="分析哲学" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6/"/>
+    <category term="分析哲学" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E5%88%86%E6%9E%90%E5%93%B2%E5%AD%A6/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -37,16 +35,14 @@
     <link href="http://example.com/2022/07/04/23/"/>
     <id>http://example.com/2022/07/04/23/</id>
     <published>2022-07-04T11:09:42.000Z</published>
-    <updated>2022-07-04T11:11:03.924Z</updated>
+    <updated>2022-07-04T22:58:33.172Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="西哲" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/"/>
-    
-    <category term="解构主义" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/%E8%A7%A3%E6%9E%84%E4%B8%BB%E4%B9%89/"/>
+    <category term="解构主义" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E8%A7%A3%E6%9E%84%E4%B8%BB%E4%B9%89/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -58,16 +54,14 @@
     <link href="http://example.com/2022/07/04/22/"/>
     <id>http://example.com/2022/07/04/22/</id>
     <published>2022-07-04T11:08:59.000Z</published>
-    <updated>2022-07-04T12:04:39.108Z</updated>
+    <updated>2022-07-04T22:58:23.267Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="西哲" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/"/>
-    
-    <category term="现象学" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
+    <category term="现象学" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -79,16 +73,14 @@
     <link href="http://example.com/2022/07/04/21/"/>
     <id>http://example.com/2022/07/04/21/</id>
     <published>2022-07-04T11:08:21.000Z</published>
-    <updated>2022-07-04T11:08:48.551Z</updated>
+    <updated>2022-07-04T22:58:13.064Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="西哲" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/"/>
-    
-    <category term="认识论" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/%E8%AE%A4%E8%AF%86%E8%AE%BA/"/>
+    <category term="认识论" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E8%AE%A4%E8%AF%86%E8%AE%BA/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -100,16 +92,14 @@
     <link href="http://example.com/2022/07/04/20/"/>
     <id>http://example.com/2022/07/04/20/</id>
     <published>2022-07-04T09:06:01.000Z</published>
-    <updated>2022-07-04T09:06:38.588Z</updated>
+    <updated>2022-07-04T22:58:01.826Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="玄术" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/"/>
-    
-    <category term="天文历法" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/%E5%A4%A9%E6%96%87%E5%8E%86%E6%B3%95/"/>
+    <category term="天文历法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E5%A4%A9%E6%96%87%E5%8E%86%E6%B3%95/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -121,7 +111,7 @@
     <link href="http://example.com/2022/07/04/19/"/>
     <id>http://example.com/2022/07/04/19/</id>
     <published>2022-07-04T09:01:42.000Z</published>
-    <updated>2022-07-04T11:41:58.433Z</updated>
+    <updated>2022-07-04T22:57:46.864Z</updated>
     
     <content type="html"><![CDATA[<p>连山<br>归藏<br>周易<br>儒家化</p>]]></content>
     
@@ -134,11 +124,9 @@
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="玄术" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/"/>
-    
-    <category term="经学" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%8E%84%E6%9C%AF/%E7%BB%8F%E5%AD%A6/"/>
+    <category term="经学" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E7%BB%8F%E5%AD%A6/"/>
     
     
     <category term="Opinion" scheme="http://example.com/tags/Opinion/"/>
@@ -302,14 +290,12 @@
     <link href="http://example.com/2022/06/28/10/"/>
     <id>http://example.com/2022/06/28/10/</id>
     <published>2022-06-28T11:50:37.000Z</published>
-    <updated>2022-07-03T02:05:35.028Z</updated>
+    <updated>2022-07-04T22:53:02.746Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
-    
-    <category term="忏悔录" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E5%BF%8F%E6%82%94%E5%BD%95/"/>
+    <category term="忏悔录" scheme="http://example.com/categories/%E5%BF%8F%E6%82%94%E5%BD%95/"/>
     
     
     <category term="殉道者" scheme="http://example.com/tags/%E6%AE%89%E9%81%93%E8%80%85/"/>
@@ -348,14 +334,14 @@
     <link href="http://example.com/2022/06/20/8/"/>
     <id>http://example.com/2022/06/20/8/</id>
     <published>2022-06-19T19:03:48.000Z</published>
-    <updated>2022-07-04T11:02:35.668Z</updated>
+    <updated>2022-07-04T22:56:46.041Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="佛学" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E4%BD%9B%E5%AD%A6/"/>
+    <category term="佛学" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E4%BD%9B%E5%AD%A6/"/>
     
     
     <category term="东方" scheme="http://example.com/tags/%E4%B8%9C%E6%96%B9/"/>
@@ -367,7 +353,7 @@
     <link href="http://example.com/2022/06/19/7/"/>
     <id>http://example.com/2022/06/19/7/</id>
     <published>2022-06-19T05:40:22.000Z</published>
-    <updated>2022-06-27T22:41:02.104Z</updated>
+    <updated>2022-07-04T22:56:58.380Z</updated>
     
     <content type="html"><![CDATA[<p>人工智能<br>大数据<br>互联网<br>电商<br>物流</p>]]></content>
     
@@ -380,9 +366,7 @@
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
-    
-    <category term="大势" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E5%A4%A7%E5%8A%BF/"/>
+    <category term="忏悔录" scheme="http://example.com/categories/%E5%BF%8F%E6%82%94%E5%BD%95/"/>
     
     
     <category term="世界" scheme="http://example.com/tags/%E4%B8%96%E7%95%8C/"/>
@@ -394,7 +378,7 @@
     <link href="http://example.com/2022/06/19/6/"/>
     <id>http://example.com/2022/06/19/6/</id>
     <published>2022-06-18T18:03:17.000Z</published>
-    <updated>2022-06-24T16:46:25.496Z</updated>
+    <updated>2022-07-04T22:56:35.836Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://img1.imgtp.com/2022/06/22/WE7cf4a9.jpg" alt="派别"></p><h2 id="幻象"><a href="#幻象" class="headerlink" title="幻象"></a>幻象</h2><p><a href="https://www.cla.purdue.edu/academic/english/theory/psychoanalysis/">导论</a><br><a href="https://www.lacan.com/">Lacan</a><br><a href="https://m.keshuzhai.com/55/55733/">1</a><br><a href="https://88av.one/watch/60412a53d9ce210239b2c81a">2</a><br><a href="https://www.globalgreyebooks.com/category/ebooks/erotica-page-1.html">3</a><br><a href="https://820082.xyz/">AO3</a></p>]]></content>
     
@@ -407,9 +391,9 @@
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="精神分析" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/"/>
+    <category term="精神分析" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E7%B2%BE%E7%A5%9E%E5%88%86%E6%9E%90/"/>
     
     
     <category term="终极" scheme="http://example.com/tags/%E7%BB%88%E6%9E%81/"/>
@@ -421,16 +405,14 @@
     <link href="http://example.com/2022/06/19/5/"/>
     <id>http://example.com/2022/06/19/5/</id>
     <published>2022-06-18T17:52:55.000Z</published>
-    <updated>2022-07-04T11:08:07.030Z</updated>
+    <updated>2022-07-04T22:56:23.415Z</updated>
     
     
     
     
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
+    <category term="魔法" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/"/>
     
-    <category term="西哲" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/"/>
-    
-    <category term="本体论" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/%E8%A5%BF%E5%93%B2/%E6%9C%AC%E4%BD%93%E8%AE%BA/"/>
+    <category term="本体论" scheme="http://example.com/categories/%E9%AD%94%E6%B3%95/%E6%9C%AC%E4%BD%93%E8%AE%BA/"/>
     
     
     <category term="西方" scheme="http://example.com/tags/%E8%A5%BF%E6%96%B9/"/>
